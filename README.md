@@ -13,7 +13,7 @@ Part II of **CTP-EOS** is where things will/do get 'really' interesting.
 - CTP-EOS also represents a forward-thinking-future-consciousness based on the advanced consciousness sciences of C-domain.
 
 
-### WHAT IS CTP ENERGY? (that the CTP-EOS is named after)
+### WHAT IS CTP ENERGY? *(that the CTP-EOS is named after)*
 
 - CTP Energy is/are the TOTAL CTP forces that comprise ALL domains of all non-physical and physical realities (of existence).
 - CTPSci is the science of consciousness, itself.
