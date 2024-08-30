@@ -1,4 +1,4 @@
-###### INTRODUCING THE CTP ENERGY OPERATING SYSTEM *(CTP-EOS)*
+##### INTRODUCING THE CTP ENERGY OPERATING SYSTEM *(CTP-EOS)*
 
 - 👋 Hi, I’m @ctp-eos *(or the CTP Energy Operating System)*
 - CTP-EOS will be/is divided into two parts.
@@ -12,14 +12,14 @@ with some of your typical repos, window manager configs, dot files, and the like
 - CTP-EOS also represents a forward-thinking-future-consciousness based on the advanced consciousness sciences of C-domain.
 
 
-###### "WHAT IS CTP ENERGY?" (that the CTP-EOS is named after)
+##### "WHAT IS CTP ENERGY?" (that the CTP-EOS is named after)
 
 - CTP Energy is/are the TOTAL CTP forces that comprise ALL domains of all non-physical and physical realities (of existence).
 - CTPSci is the science of consciousness, itself.
 - CTPSci is the science and study of non-physical Conscious or C-energy, the C-domain, and future revolutionary applications of the CTP Energy Cycle™.
 
 
-###### "WHY STUDY/APPLY CTP ENERGY? 
+##### "WHY STUDY/APPLY CTP ENERGY? 
 OR LEARN HOW TO APPLY THE NON-PHYSICAL ASPECTS OF THE CTP-EOS TO MY MIND?"
 
 - CTP-EOS is part of the C-spiritual or non-physical operating system and non-physical CTP Technologies, CTP Spiritual Technologies, or CTP C-Spiritual Technologies utilized by advanced civilizations of the C-domain (multiverse).
