@@ -1,3 +1,5 @@
+INTRODUCING THE CTP ENERGY OPERATIONG SYSTEM (CTP-EOS)
+
 - 👋 Hi, I’m @ctp-eos (or the CTP Energy Operating System)
 - CTP-EOS will be/is divided into two parts.
 - One part will be your rather 'standard' and 'branded' Arch Linux distrubution,
