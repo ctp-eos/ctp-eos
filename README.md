@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @ctp-eos *(or the CTP Energy Operating System)*
 - CTP-EOS will be/is divided into two parts.
 
-Part 1 part will be your rather 'standard' and 'branded' Arch Linux distrubution,
+Part 1 part will be your rather 'standard' and 'branded' Arch Linux distribution,
 with some of your typical repos, window manager configs, dot files, and the like...
 
 Part II of **CTP-EOS** is where things will/do get 'really' interesting.
