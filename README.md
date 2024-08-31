@@ -1,6 +1,6 @@
 ### INTRODUCING THE CTP ENERGY OPERATING SYSTEM *(CTP-EOS)*
 
-- 👋 Hi, I’m @ctp-eos *(or the CTP Energy Operating System)*
+- 👋 Hi, I’m @ctp-eos *(or the 'CTP Energy Operating System' or also the 'CTP Extraterrestial Operating System')*
 - CTP-EOS will be/is divided into two parts.
 
 Part 1 part will be your rather 'standard' and 'branded' Arch Linux distribution,
