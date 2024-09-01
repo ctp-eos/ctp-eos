@@ -7,7 +7,7 @@ Part 1 part will be your rather 'standard' and 'branded' Arch Linux distribution
 with some of your typical repos, window manager configs, dot files, and the like...
 
 Part II of **CTP-EOS** is where things will/do get 'really' interesting.
-- *CTP-EOS* (part II) is the basis of a truly off-world originating *(in real-life EXTRATERRESTRIAL)* truly non-physical/C-spiritual Operating System (CSOP) for one's mind and one's very consciousness!
+- *CTP-EOS* (part II) is the basis of an off-world originating *(in real-life EXTRATERRESTRIAL)* truly non-physical/C-spiritual Operating System (CSOP) for one's mind and one's very consciousness!
 - CTP-EOS based on the highly advanced CTPSci Sciences
 - Discovered by Drazen Premate who was-is the unsung successor to Nikola Tesla our world missed during his time here.
 - CTP-EOS also represents a forward-thinking-future-consciousness based on the advanced consciousness sciences of C-domain.
