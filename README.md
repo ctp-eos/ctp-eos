@@ -1,12 +1,14 @@
 ### INTRODUCING THE CTP ENERGY OPERATING SYSTEM *(CTP-EOS)*
 
 - 👋 Hi, I’m @ctp-eos *(or the 'CTP Energy Operating System' or also the 'CTP Extraterrestrial Operating System')*
-- CTP-EOS will be/is divided into two parts.
+- CTP-EOS will be/is divided into THREE MAIN parts.
 
-Part 1 part will be your rather 'standard' and 'branded' Arch Linux distribution,
-with some of your typical repos, window manager configs, dot files, and the like...
+Part I - is just basic wallpapers *(for ANY computer/desktop operating system)*, themes, etc.
 
-Part II of **CTP-EOS** is where things will/do get 'really' interesting.
+Part II part will be your rather 'standard' and 'branded' Arch-based Linux distribution,
+with some of your typical repos, window manager configs, dot files, config files, and the like...
+
+Part III of **CTP-EOS** is where things will/do get 'really' interesting.
 - *CTP-EOS* (part II) is the basis of an off-world originating *(in real-life EXTRATERRESTRIAL)* truly non-physical/C-spiritual Operating System (CSOP) for one's mind and one's very consciousness!
 - CTP-EOS based on the highly advanced CTPSci Sciences
 - Discovered by Drazen Premate who was-is the unsung successor to Nikola Tesla our world missed during his time here.
