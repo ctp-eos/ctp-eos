@@ -41,9 +41,12 @@ The CTP Energy Science *(or CTPSci, or the CTPSci Sciences)* discovered by Draze
 
 There are many answers to that question! For now, *think* of C-domain in this way...
 
-**C-DOMAIN: THE GATEWAY INTO OURSELVES**
+**C-DOMAIN: THE GATEWAY INTO OUR HIGHER MIND & HIGHER SELVES**
 
-We can call 'C-domain' can be #thought of as the pathway, conduit, or 'portal' into one's own Higher Genius! The study and application of this CTPSci Science - provides!
+![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/journey%20inward%20via%20cdomain%20-%20through%20the%20conscious%20lens.png)
+
+We can call 'C-domain' can be #thought of as the pathway, conduit, or 'portal' into one's own Higher Genius! 
+The study, **Conscoius Effort(s)** or *C-effort(s)* and application of this CTPSci Science - provides access to a new untapped higher domain consciousness that already exists within EACH of us! Our TRUE ***C-spiritual Higher Intelligence!***
 
 
 **THE GREATER UNDERSTANDING OF CTP**
