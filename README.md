@@ -49,6 +49,7 @@ We can call 'C-domain' can be #thought of as the pathway, conduit, or 'portal' i
 The study, **Conscoius Effort(s)** or *C-effort(s)* and application of this CTPSci Science - provides access to a new untapped higher domain consciousness that already exists within EACH of us! Our TRUE ***C-spiritual Higher Intelligence!***
 
 
+
 **THE GREATER UNDERSTANDING OF CTP**
 
 C-domain is a level of *mental consciousness* and *thought-domain* and a more empowered *conscious awareness* that advanced civilizations across our cosmos *(and C-domain)* operate with and interact with *(what we can also refer to as the non-physical 'C-field')* more directly than we do - than we do at our present stage of development here on Earth *(some JUST now first hearing about 'CTP' and the CTPSci Sciences)*. 
