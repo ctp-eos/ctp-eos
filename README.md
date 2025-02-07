@@ -78,7 +78,9 @@ OR LEARN HOW TO APPLY THE NON-PHYSICAL ASPECTS OF THE CTP-EOS™ TO MY MIND?"
 - Thus, the *'CTP-EOS™'* must be learned and applied to one's mind and one's consciousness, many years before the future CTP Energy Systems themselves can ever be realized.
 - Humanity must *scale* itself UP to advanced consciousness and become an extraterrestrial and advanced *new civilization* in our own right!
 - Future advanced CTP Energy Systems & CTP Technologies must be earned from C-domain!
-- This begins with advancing our consciousness *forward* into the C-domain and *'connecting'* and *'threading*' our minds in' - further and much more deeper into the C-domain!
+- This begins with advancing our consciousness *forward* into the C-domain and *'connecting'* and *'threading*' our minds further in - and into a much more deeper connection into the C-domain!
+- CTP is the journey of ALL lifetimes!
+- CTP is the new challenge that awaits us an an *emerging* multiplanetary *and intersteller* new civilization!
 
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/cruiser.jpeg) 
