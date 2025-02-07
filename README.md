@@ -27,6 +27,10 @@ Part III of **CTP-EOS** is where things will/do get 'really' interesting.
 - CTP Energy is/are the TOTAL CTP forces that comprise ALL domains of all non-physical and physical realities (of existence).
 - CTPSci is the science of consciousness, itself.
 - CTPSci is the science and study of non-physical Conscious or C-energy, the C-domain, and future revolutionary applications of the CTP Energy Cycle™.
+ 
+![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/cdomain.jpeg) 
+
+The CTP Energy Science (or CTPSci, or the CTPSci Sciences) discovered by Drazen are an off-world ecosystem(s) of 'science of the next century', based on the CTP Sciences of C-domain!
 
 
 ### WHY STUDY/APPLY CTP ENERGY? 
@@ -35,6 +39,8 @@ OR LEARN HOW TO APPLY THE NON-PHYSICAL ASPECTS OF THE CTP-EOS TO MY MIND?"
 - CTP-EOS is part of the C-spiritual or non-physical operating system and non-physical CTP Technologies, CTP Spiritual Technologies, or CTP C-Spiritual Technologies utilized by advanced civilizations of the C-domain (multiverse).
 - Learning the 'conscious' aspects of the CTPSci Sciences (themselves) will be prerequite(s) in order to properly interface with and utilize advanced CTP Energy Systems and future physical CTP deeptech deeptech technologies of the future.
 - Thus, the *'CTP-EOS'* must be learned and applied to one's mind and one's consciousness, many years before the future CTP Energy Systems themselves can ever be realized.
+
+![Alt Text]([(https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/cruiser.jpeg)) 
 
 
 <!---
