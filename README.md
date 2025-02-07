@@ -1,7 +1,7 @@
 ### INTRODUCING THE CTP ENERGY OPERATING SYSTEM *(CTP-EOS)*
 
-- 👋 Hi, I’m @ctp-eos *(or the 'CTP Energy Operating System' or also the 'CTP Extraterrestrial Operating System')*
-- CTP-EOS will be/is divided into THREE MAIN parts.
+- 👋 Hi, I’m @ctp-eos *(or the 'CTP Energy Operating System™' or also the 'CTP Extraterrestrial Operating System'™)*
+- CTP-EOS™ will be/is divided into THREE MAIN parts.
 
 Part I - is just basic wallpapers *(for ANY computer/desktop operating system)*, themes, etc.
 
@@ -13,23 +13,23 @@ with some of your typical repos, window manager configs, dot files, config files
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/ctp-eos%20progres.jpeg)
 
-Here a CTP-EOS *ricing* and own custom GTK theme applied to a typical Arch Linux installation. 
-CTP-EOS will look rather similiar, however with our own custom wallpapers, CTP Energy and CTPSci branding, video software, audio production software, developers tools, media, and communications apps: a full blown *science from the next century* motif and flavor for EVERYONE!
+Here a CTP-EOS™ *ricing* and own custom GTK theme applied to a typical Arch Linux installation. 
+CTP-EOS™ will look rather similiar, however with our own custom wallpapers, CTP Energy and CTPSci branding, video software, audio production software, developers tools, media, and communications apps: a full blown *science from the next century* motif and flavor for EVERYONE!
 
 
 
 Part III of **CTP-EOS** is where things will/do get 'really' interesting.
 - *CTP-EOS* (part III) is the basis of an off-world originating *(in real-life EXTRATERRESTRIAL)* truly non-physical/C-spiritual Operating System (CSOP) for one's mind and one's very consciousness!
-- CTP-EOS based on the highly advanced CTPSci Sciences
+- CTP-EOS™ based on the highly advanced CTPSci Sciences
 - Discovered by Drazen Premate who was-is the unsung successor to Nikola Tesla our world missed during his time here.
-- CTP-EOS also represents a forward-thinking-future-consciousness based on the advanced consciousness sciences of C-domain.
+- CTP-EOS™ also represents a forward-thinking-future-consciousness based on the advanced consciousness sciences of C-domain.
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/new-consciousness.jpeg)
 
 ### WHAT IS CTP ENERGY? *(that the CTP-EOS is named after)*
 
 - CTP Energy is/are the TOTAL CTP forces that comprise ALL domains of all non-physical and physical realities *(of ALL C/P-existences)*.
-- CTPSci is the science of consciousness, itself.
+- CTPSci is the Science of Consciousness, itself - from C-domain.
 - CTPSci is the science and study of non-physical Conscious or C-energy, the C-domain, and future revolutionary applications of the CTP Energy Cycle™.
  
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/cdomain.jpeg) 
@@ -38,13 +38,17 @@ The CTP Energy Science *(or CTPSci, or the CTPSci Sciences)* discovered by Draze
 
 
 ### WHY STUDY/APPLY CTP ENERGY? 
-OR LEARN HOW TO APPLY THE NON-PHYSICAL ASPECTS OF THE CTP-EOS TO MY MIND?"
+OR LEARN HOW TO APPLY THE NON-PHYSICAL ASPECTS OF THE CTP-EOS™ TO MY MIND?"
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/CTP%20Sci%20Student.png)
 
-- CTP-EOS is part of the C-spiritual or non-physical operating system and non-physical CTP Technologies, CTP Spiritual Technologies, or CTP C-Spiritual Technologies utilized by advanced civilizations of the C-domain *(multiverse)*.
+- CTP-EOS™ is part of the C-spiritual or non-physical operating system and non-physical CTP Technologies™, CTP Spiritual Technologies™, or CTP C-Spiritual Technologies™ utilized by advanced civilizations of the C-domain *(multiverse)*.
 - Learning the 'conscious' aspects of the CTPSci Sciences *(themselves)* will be prerequite(s) in order to properly interface with and utilize advanced CTP Energy Systems and future physical CTP deeptech deeptech technologies of the future.
-- Thus, the *'CTP-EOS'* must be learned and applied to one's mind and one's consciousness, many years before the future CTP Energy Systems themselves can ever be realized.
+- Thus, the *'CTP-EOS™'* must be learned and applied to one's mind and one's consciousness, many years before the future CTP Energy Systems themselves can ever be realized.
+- Humanity must *scale* itself UP to advanced consciousness and become an extraterrestrial and advanced *new civilization* in our own right!
+- Future advanced CTP Energy Systems & CTP Technologies must be earned from C-domain!
+- This begins with advancing our consciousness *forward* into the C-domain and *connecting* and 'threading' our minds* in' - further and mluch more deeper into the C-domain!
+
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/cruiser.jpeg) 
 
