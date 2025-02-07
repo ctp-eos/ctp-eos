@@ -37,6 +37,7 @@ Part III of **CTP-EOS** is where things will/do get 'really' interesting.
 The CTP Energy Science *(or CTPSci, or the CTPSci Sciences)* discovered by Drazen are an off-world ecosystem(s) of *science from the next century* based on the CTP Sciences of C-domain!
 
 
+
 ### WHAT IS C-DOMAIN?
 
 There are many answers to that question! For now, *think* of C-domain in this way...
@@ -46,7 +47,9 @@ There are many answers to that question! For now, *think* of C-domain in this wa
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/journey%20inward%20via%20cdomain%20-%20through%20the%20conscious%20lens.png)
 
 We can call 'C-domain' can be #thought of as the pathway, conduit, or 'portal' into one's own Higher Genius! 
-The study, **Conscoius Effort(s)** or *C-effort(s)* and application of this CTPSci Science - provides access to a new untapped higher domain consciousness that already exists within EACH of us! Our TRUE ***C-spiritual Higher Intelligence!***
+The study, **Conscoius Effort(s)** or *C-effort(s)* and application of this CTPSci Science - provides access to a new untapped higher domain consciousness that already exists within EACH of us! 
+Our TRUE ***C-spiritual Higher Intelligence!***
+
 
 
 
