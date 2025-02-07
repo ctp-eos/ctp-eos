@@ -40,7 +40,7 @@ OR LEARN HOW TO APPLY THE NON-PHYSICAL ASPECTS OF THE CTP-EOS TO MY MIND?"
 - Learning the 'conscious' aspects of the CTPSci Sciences (themselves) will be prerequite(s) in order to properly interface with and utilize advanced CTP Energy Systems and future physical CTP deeptech deeptech technologies of the future.
 - Thus, the *'CTP-EOS'* must be learned and applied to one's mind and one's consciousness, many years before the future CTP Energy Systems themselves can ever be realized.
 
-![Alt Text]([(https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/cruiser.jpeg)) 
+![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/cruiser.jpeg) 
 
 
 <!---
