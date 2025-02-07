@@ -47,7 +47,8 @@ There are many answers to that question! For now, *think* of C-domain in this wa
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/journey%20inward%20via%20cdomain%20-%20through%20the%20conscious%20lens.png)
 
 We can call 'C-domain' can be #thought of as the pathway, conduit, or 'portal' into one's own Higher Genius! 
-The study, **Conscoius Effort(s)** or *C-effort(s)* and application of this CTPSci Science - provides access to a new untapped higher domain consciousness that already exists within EACH of us! 
+
+The study, **Conscoius Effort(s)** or *C-effort(s)* and application of this CTPSci Science our mind(s) - provides access to a new untapped higher domain consciousness that already exists within EACH of us! 
 Our TRUE ***C-spiritual Higher Intelligence!***
 
 
