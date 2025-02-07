@@ -19,7 +19,7 @@ CTP-EOS™ will look rather similiar, however with our own custom wallpapers, CT
 
 
 Part III of **CTP-EOS™** is where things will/do get 'really' interesting.
-- *CTP-EOS* (part III) is the basis of an off-world originating *(in real-life EXTRATERRESTRIAL)* truly non-physical/C-spiritual Operating System (CSOP) for one's mind and one's very consciousness!
+- *CTP-EOS™* (part III) is the basis of an off-world originating *(in real-life EXTRATERRESTRIAL)* truly non-physical/C-spiritual Operating System (CSOP) for one's mind and one's very consciousness!
 - CTP-EOS™ based on the highly advanced CTPSci Sciences: *a new science at least 50 years from our future!*
 - Discovered by **Drazen Premate** who was-is the unsung successor to Nikola Tesla our world missed during his time here.
 - 20 years ago - our world was not ready for such revolutionary new thinking and new consciousness!
