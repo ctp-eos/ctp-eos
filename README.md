@@ -51,7 +51,9 @@ OR LEARN HOW TO APPLY THE NON-PHYSICAL ASPECTS OF THE CTP-EOS TO MY MIND?"
 Future advanced CTP Spaceliners™ *(such as these or other configurations we will imagine and pioneer into a new future!)* - will one day lead us to other star systems as humankind attains a truly new revolutionary post-quantum leap forward - to become an advanced level space faring interstellar civilization into the total C/P-existences spanning the C-domain: a much LARGER reailty awaits us and is approaching and connecting to our world as we speak via the Physical Domain V-point into a New Now! Via CTP Energy and C-domain! 
 
 
-**The dawn of the Nth Industrial Revolution hails to each us!** What will be YOUR PART to play into the coming CTP Age? *Get involved TODAY!!!*
+**The dawn of the Nth Industrial Revolution hails to each us!** 
+
+What will be YOUR PART to play into the coming CTP Age? *Get involved TODAY!!! Via C-domain!* 
 
 <!---
 ctp-eos/ctp-eos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
