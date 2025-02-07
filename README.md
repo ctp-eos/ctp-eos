@@ -105,7 +105,7 @@ Project sponsors will also get a banner add RIGHT HERE below this line showing T
 
 ### The temporal barriers have been crossed! 
 
-NOW IT IS TIME TO CONNECT OUR WORLD TO OUR NEW EMERGING & BETTER FUTURE!!!
+NOW IT IS TIME TO CONNECT OUR WORLD TO OUR NEW EMERGING & BETTER FUTURE VIA CTP!!!
 
 <!---
 ctp-eos/ctp-eos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
