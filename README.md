@@ -5,7 +5,7 @@
 
 Part I - is just basic wallpapers *(for ANY computer/desktop operating system)*, themes, etc.
 
-![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/wall%20paper.png))
+![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/wall%20paper.png)
 
 Part II part will be your rather 'standard' and 'branded' Arch-based Linux distribution,
 with some of your typical repos, window manager configs, dot files, config files, and the like...
