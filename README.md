@@ -43,7 +43,7 @@ The CTP Energy Science *(or CTPSci, or the CTPSci Sciences)* discovered by Draze
 
 There are many answers to that question! For now, *think* of C-domain in this way...
 
-**C-DOMAIN: THE GATEWAY INTO OUR HIGHER MIND & HIGHER SELVES**
+**C-DOMAIN: THE GATEWAY INTO OUR HIGHER MIND & OUR HIGHER SELVES!**
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/journey%20inward%20via%20cdomain%20-%20through%20the%20conscious%20lens.png)
 
