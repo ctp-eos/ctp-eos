@@ -80,7 +80,7 @@ OR LEARN HOW TO APPLY THE NON-PHYSICAL ASPECTS OF THE CTP-EOS™ TO MY MIND?"
 - Future advanced CTP Energy Systems & CTP Technologies must be earned from C-domain!
 - This begins with advancing our consciousness *forward* into the C-domain and *'connecting'* and *'threading*' our minds further in - and into a much more deeper connection into the C-domain!
 - CTP is the journey of ALL lifetimes!
-- CTP is the new challenge that awaits us as an *emerging* new multiplanetary *and interstellar* capable advanced new civilization in our lifetime!
+- CTP is the challenge that awaits us as an *emerging* new *interstellar* capable advanced new civilization in our lifetime!
 
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/cruiser.jpeg) 
