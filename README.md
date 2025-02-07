@@ -1,4 +1,4 @@
-### INTRODUCING THE CTP ENERGY OPERATING SYSTEM *(CTP-EOS)*
+### INTRODUCING THE CTP ENERGY OPERATING SYSTEM *(CTP-EOS™)*
 
 - 👋 Hi, I’m @ctp-eos *(or the 'CTP Energy Operating System™' or also the 'CTP Extraterrestrial Operating System'™)*
 - CTP-EOS™ will be/is divided into THREE MAIN parts.
