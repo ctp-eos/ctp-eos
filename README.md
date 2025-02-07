@@ -64,7 +64,7 @@ C-domain is a level of *mental consciousness* and *thought-domain* and a more em
 
 **WHAT DOES THIS HAVE TO DO WITH ANYONE?**
 
-CTPSci Sciences are a **THE PREREQUISITE** for humanity to achieve interstellar #spacetravel during our lifetimes! We already know the advanced CTPSci Sciences to CTPR&D/build the CTP Gravitic Propulsion Systems today! Take a look! 👉 (https://lnkd.in/eZh9pMK3)
+CTPSci Sciences are a **THE PREREQUISITE** for humanity to achieve interstellar spacetravel during our lifetimes! We already know the advanced CTPSci Sciences to CTPR&D/build the CTP Gravitic Propulsion Systems today! Take a look! 👉 (https://lnkd.in/eZh9pMK3)
 
 
 
@@ -96,7 +96,8 @@ What will be YOUR PART to play into the coming CTP Age? *Get involved TODAY!!! V
 
 ### SEEKING PROJECT SPONSORS AND DONORS
 
-If you would like to consider to be a project sponsor to this REVOLUTION CTP Energy Linux Community Project (CTPELCP) please connect and contact with via our socials! 
+Would you like to consider to become a CTP Energy Project Sponsor (CTPEPS) to this REVOLUTIONARY CTP Energy Linux Community Project (CTPELCP)? 
+Please connect and contact with via our socials! 
 
 Project sponsors will also get a banner add RIGHT HERE below this line showing THEIR SUPPORT for CTP Energy to lead humankind into a new postquantum era with a new postquantum science from C-domain, itself, and our future! 
 
@@ -104,7 +105,7 @@ Project sponsors will also get a banner add RIGHT HERE below this line showing T
 
 ### The temporal barriers have been crossed! 
 
-NOW IT IS TIME TO CONNECT OUR WORLD TO OUR NEW EMERGING FUTURE!!!
+NOW IT IS TIME TO CONNECT OUR WORLD TO OUR NEW EMERGING & BETTER FUTURE!!!
 
 <!---
 ctp-eos/ctp-eos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
