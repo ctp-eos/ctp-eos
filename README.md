@@ -26,7 +26,7 @@ Part III of **CTP-EOS** is where things will/do get 'really' interesting.
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/new-consciousness.jpeg)
 
-### WHAT IS CTP ENERGY? *(that the CTP-EOS is named after)*
+### WHAT IS CTP ENERGY? *(that the CTP-EOS™ is named after)*
 
 - CTP Energy is/are the TOTAL CTP forces that comprise ALL domains of all non-physical and physical realities *(of ALL C/P-existences)*.
 - CTPSci is the Science of Consciousness, itself - from C-domain.
@@ -38,6 +38,7 @@ The CTP Energy Science *(or CTPSci, or the CTPSci Sciences)* discovered by Draze
 
 
 
+
 ### WHAT IS C-DOMAIN?
 
 There are many answers to that question! For now, *think* of C-domain in this way...
@@ -46,7 +47,8 @@ There are many answers to that question! For now, *think* of C-domain in this wa
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/journey%20inward%20via%20cdomain%20-%20through%20the%20conscious%20lens.png)
 
-We can call 'C-domain' can be #thought of as the pathway, conduit, or 'portal' into one's own Higher Genius! 
+
+We can call 'C-domain' can be **thought** of as the pathway, conduit, or 'portal' into one's own Higher Genius! 
 
 The study, **Conscoius Effort(s)** or *C-effort(s)* and application of this CTPSci Science our mind(s) - provides access to a new untapped higher domain consciousness that already exists within EACH of us! 
 Our TRUE ***C-spiritual Higher Intelligence!***
