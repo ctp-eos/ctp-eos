@@ -30,7 +30,7 @@ Part III of **CTP-EOS** is where things will/do get 'really' interesting.
  
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/cdomain.jpeg) 
 
-The CTP Energy Science *(or CTPSci, or the CTPSci Sciences)* discovered by Drazen are an off-world ecosystem(s) of *'science from the next century'* based on the CTP Sciences of C-domain!
+The CTP Energy Science *(or CTPSci, or the CTPSci Sciences)* discovered by Drazen are an off-world ecosystem(s) of *science from the next century* based on the CTP Sciences of C-domain!
 
 
 ### WHY STUDY/APPLY CTP ENERGY? 
