@@ -14,7 +14,7 @@ with some of your typical repos, window manager configs, dot files, config files
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/ctp-eos%20progres.jpeg)
 
 Here a CTP-EOS™ *ricing* and own custom GTK theme applied to a typical Arch Linux installation. 
-CTP-EOS™ will look rather similiar, however with our own custom wallpapers, CTP Energy and CTPSci branding, video software, audio production software, developers tools, media, and communications apps: a full blown *science from the next century* motif and flavor for EVERYONE!
+CTP-EOS™ will look rather similiar, however with our own custom wallpapers, CTP Energy and CTPSci branding, video software, audio production software, developers tools, media, and communications apps: a full blown new branded linux operating system connected to the *science from the next century* motif and flavor for EVERYONE!
 
 
 
