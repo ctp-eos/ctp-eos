@@ -56,6 +56,17 @@ Future advanced CTP Spaceliners™ *(such as these or other configurations we wi
 
 What will be YOUR PART to play into the coming CTP Age? *Get involved TODAY!!! Via C-domain!* 
 
+
+### SEEKING PROJECT SPONSORS AND DONORS
+
+If you would like to consider to be a project sponsor to this REVOLUTION CTP Energy Linux Community Project (CTPELCP) please connect and contact with via our socials! 
+
+Project sponsors will also get a banner add RIGHT HERE below this line showing THEIR SUPPORT for CTP Energy to lead humankind into a new postquantum era with a new postquantum science from C-domain, itself, and our future! 
+
+
+
+The temporal barriers have been crossed! NOW IT IS TIME TO CONNECT OUR WORLD TO OUR NEW FUTURE!!!
+
 <!---
 ctp-eos/ctp-eos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
