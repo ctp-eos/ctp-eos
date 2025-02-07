@@ -37,6 +37,26 @@ Part III of **CTP-EOS** is where things will/do get 'really' interesting.
 The CTP Energy Science *(or CTPSci, or the CTPSci Sciences)* discovered by Drazen are an off-world ecosystem(s) of *science from the next century* based on the CTP Sciences of C-domain!
 
 
+### WHAT IS C-DOMAIN?
+
+There are many answers to that question! For now, *think* of C-domain in this way...
+
+**C-DOMAIN: THE GATEWAY INTO OURSELVES**
+
+We can call 'C-domain' can be #thought of as the pathway, conduit, or 'portal' into one's own Higher Genius! The study and application of this CTPSci Science - provides!
+
+
+**THE GREATER UNDERSTANDING OF CTP**
+
+C-domain is a level of *mental consciousness* and *thought-domain* and a more empowered *conscious awareness* that advanced civilizations across our cosmos *(and C-domain)* operate with and interact with *(what we can also refer to as the non-physical 'C-field')* more directly than we do - than we do at our present stage of development here on Earth *(some JUST now first hearing about 'CTP' and the CTPSci Sciences)*. 
+
+
+**WHAT DOES THIS HAVE TO DO WITH ANYONE?**
+
+CTPSci Sciences are a **THE PREREQUISITE** for humanity to achieve interstellar #spacetravel during our lifetimes! We already know the advanced CTPSci Sciences to CTPR&D/build the CTP Gravitic Propulsion Systems today! Take a look! 👉 (https://lnkd.in/eZh9pMK3)
+
+
+
 ### WHY STUDY/APPLY CTP ENERGY? 
 OR LEARN HOW TO APPLY THE NON-PHYSICAL ASPECTS OF THE CTP-EOS™ TO MY MIND?"
 
