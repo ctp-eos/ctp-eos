@@ -44,6 +44,7 @@ OR LEARN HOW TO APPLY THE NON-PHYSICAL ASPECTS OF THE CTP-EOS TO MY MIND?"
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/cruiser.jpeg) 
 
+Future advanced CTP Spaceliners™ (such as these or other configurations we will imagine) - will one day lead us to other star systems as humankind attains a truly new revolutionary post-quantum leap forward - to become an advanced level space faring interstellar civilization into the total CTP-Existences spanning the C-domain: a much LARGER reailty awaits us and is approaching and connecting to our world as we speak via the Physical Domain V-point into a New Now! Via CTP!
 
 <!---
 ctp-eos/ctp-eos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
