@@ -17,6 +17,7 @@ Here a CTP-EOS *ricing* and own custom GTK theme applied to a typical Arch Linux
 CTP-EOS will look rather similiar, however with our own custom wallpapers, CTP Energy and CTPSci branding, video software, audio production software, developers tools, media, and communications apps: a full blown *science from the next century* motif and flavor for EVERYONE!
 
 
+
 Part III of **CTP-EOS** is where things will/do get 'really' interesting.
 - *CTP-EOS* (part III) is the basis of an off-world originating *(in real-life EXTRATERRESTRIAL)* truly non-physical/C-spiritual Operating System (CSOP) for one's mind and one's very consciousness!
 - CTP-EOS based on the highly advanced CTPSci Sciences
