@@ -28,7 +28,7 @@ Part III of **CTP-EOS** is where things will/do get 'really' interesting.
 
 ### WHAT IS CTP ENERGY? *(that the CTP-EOS is named after)*
 
-- CTP Energy is/are the TOTAL CTP forces that comprise ALL domains of all non-physical and physical realities *(of ALL CTP-existences)*.
+- CTP Energy is/are the TOTAL CTP forces that comprise ALL domains of all non-physical and physical realities *(of ALL C/P-existences)*.
 - CTPSci is the science of consciousness, itself.
 - CTPSci is the science and study of non-physical Conscious or C-energy, the C-domain, and future revolutionary applications of the CTP Energy Cycle™.
  
@@ -48,9 +48,10 @@ OR LEARN HOW TO APPLY THE NON-PHYSICAL ASPECTS OF THE CTP-EOS TO MY MIND?"
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/cruiser.jpeg) 
 
-Future advanced CTP Spaceliners™ *(such as these or other configurations we will imagine and pioneer into a new future!)* - will one day lead us to other star systems as humankind attains a truly new revolutionary post-quantum leap forward - to become an advanced level space faring interstellar civilization into the total CTP-Existences spanning the C-domain: a much LARGER reailty awaits us and is approaching and connecting to our world as we speak via the Physical Domain V-point into a New Now! Via CTP Energy and C-domain! 
+Future advanced CTP Spaceliners™ *(such as these or other configurations we will imagine and pioneer into a new future!)* - will one day lead us to other star systems as humankind attains a truly new revolutionary post-quantum leap forward - to become an advanced level space faring interstellar civilization into the total C/P-existences spanning the C-domain: a much LARGER reailty awaits us and is approaching and connecting to our world as we speak via the Physical Domain V-point into a New Now! Via CTP Energy and C-domain! 
 
-The dawn of the Nth Industrial Revolution hails to each us!
+
+The dawn of the Nth Industrial Revolution hails to each us! What will be YOUR PART to play into the coming CTP Age?
 
 <!---
 ctp-eos/ctp-eos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
