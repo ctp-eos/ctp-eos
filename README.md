@@ -11,7 +11,7 @@ Part I - is just basic wallpapers *(for ANY computer/desktop operating system)*,
 Part II part will be your rather 'standard' and 'branded' Arch-based Linux distribution,
 with some of your typical repos, window manager configs, dot files, config files, and the like...
 
-![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/ctp-eos%20progres.jpeg?raw=true)
+![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/ctp-eos%20progres.jpeg)
 
 
 Part III of **CTP-EOS** is where things will/do get 'really' interesting.
@@ -20,7 +20,7 @@ Part III of **CTP-EOS** is where things will/do get 'really' interesting.
 - Discovered by Drazen Premate who was-is the unsung successor to Nikola Tesla our world missed during his time here.
 - CTP-EOS also represents a forward-thinking-future-consciousness based on the advanced consciousness sciences of C-domain.
 
-![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/new-consciousness.jpeg=true)
+![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/new-consciousness.jpeg)
 
 ### WHAT IS CTP ENERGY? *(that the CTP-EOS is named after)*
 
