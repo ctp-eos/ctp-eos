@@ -22,6 +22,10 @@ Part III of **CTP-EOS™** is where things will/do get 'really' interesting.
 - *CTP-EOS™* (part III) is the basis of an off-world originating *(in real-life EXTRATERRESTRIAL)* truly non-physical/C-spiritual Operating System (CSOP) for one's mind and one's very consciousness!
 - CTP-EOS™ based on the highly advanced CTPSci Sciences: *a new science at least 50 years from our future!*
 - Discovered by **Drazen Premate** who was-is the unsung successor to Nikola Tesla our world missed during his time here.
+
+![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/drazn-florida-space-coast.jpeg)
+
+- Drazen Premate was-is the unsung successor to Nikola Tesla our world completely either ignored or (dis)missed during Drazen's time here, while never achieving any of his vision for what the CTPSci Sciences can offer towards and contribute to humanity's future.
 - 20 years ago - our world was not ready for such revolutionary new thinking and new consciousness!
 - CTP-EOS™ also represents a forward-thinking-future-consciousness based on the advanced consciousness sciences of C-domain.
 
