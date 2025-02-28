@@ -80,7 +80,7 @@ OR LEARN HOW TO APPLY THE NON-PHYSICAL ASPECTS OF THE CTP-EOS™ TO MY MIND?"
 - CTP-EOS™ is part of the C-spiritual or non-physical operating system and non-physical CTP Technologies™, CTP Spiritual Technologies™, or CTP C-Spiritual Technologies™ utilized by advanced civilizations of the C-domain *(multiverse)*.
 - Learning the 'conscious' aspects of the CTPSci Sciences *(themselves)* will be prerequite(s) in order to properly interface with and utilize advanced CTP Energy Systems and future physical CTP deeptech deeptech technologies of the future.
 - Thus, the *'CTP-EOS™'* must be learned and applied to one's mind and one's consciousness, many years before the future CTP Energy Systems themselves can ever be realized.
-- Humanity must *scale* itself UP and-to become an advanced extraterrestrial-level of consciousness and advanced *new civilization* in our own right!
+- Humanity must *scale* itself UP and-to become an extraterrestrial-level of consciousness and advanced *new civilization* in our own right!
 - Future advanced CTP Energy Systems & CTP Technologies must be earned from C-domain!
 - This begins with advancing our consciousness *forward* into the C-domain and *'connecting'* and *'threading*' our minds further in - and into a much more deeper connection into the C-domain!
 - CTP is the journey of ALL lifetimes!
