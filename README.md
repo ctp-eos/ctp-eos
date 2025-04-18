@@ -140,6 +140,37 @@ https://creativecommons.org/licenses/by-nc/4.0/
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
+Here’s a polished and professional Markdown snippet for your GitHub `README.md` or documentation, including the requested intellectual property and sharing notice:
 
+---
 
+### ⚖️ Intellectual Property Notice
+
+All terms, symbols, technologies, concepts, and materials associated with:
+
+- **CTP**
+- **CTP Energy**
+- **CTP Energy Science**
+- **CTP-EOS**
+- **CTP Technologies**
+- and all related expressions and modules
+
+are **intellectual property of CTP Energy, LLC**. All **commercial rights**—including but not limited to reproduction, distribution, derivative technologies, and software products—are held **exclusively by CTP Energy, LLC**.
+
+---
+
+### 📢 Content Sharing Policy
+
+CTP Energy encourages **open access and sharing** of CTP-related content for **non-commercial, educational, and scientific use** under a Creative Commons Attribution-NonCommercial 4.0 International License:
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+> You are **free to share**, distribute, and adapt CTP materials for non-commercial purposes **as long as proper attribution is given**, and the integrity of the content is maintained.
+
+However, **all rights, trademarks, and proprietary elements remain the exclusive property of CTP Energy, LLC**.
+
+For licensing inquiries or commercial use, please contact:  
+📧 **legal@ctp-eos.org**
+
+---
 
