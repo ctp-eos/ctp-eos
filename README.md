@@ -115,3 +115,6 @@ NOW IT IS TIME TO CONNECT OUR WORLD TO OUR NEW EMERGING BETTER & BRIGHTER FUTURE
 ctp-eos/ctp-eos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
+
