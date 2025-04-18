@@ -116,6 +116,11 @@ ctp-eos/ctp-eos is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+## License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
@@ -136,8 +141,6 @@ https://creativecommons.org/licenses/by-nc/4.0/
 
 ![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 
-## License
 
-This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 
