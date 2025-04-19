@@ -183,7 +183,7 @@ For licensing inquiries or commercial use, please contact:
 ![CTP Technologies](https://img.shields.io/badge/CTP_Technologies-Next_Gen_Innovation-teal?logo=gear&logoColor=white)
 ![Conscious Technologies](https://img.shields.io/badge/Conscious_Technologies-Neural_Awareness-yellowgreen?logo=eye&logoColor=white)
 ![Spiritual Technologies](https://img.shields.io/badge/Spiritual_Technologies-Mind%2FBody%2FSoul-cyan?logo=chakraui&logoColor=white)
-![CTP Spiritual Software](https://img.shields.io/badge/CTP_Spiritual_Software-Transcendent_Tech-purple?logo=akashic&logoColor=white) ![Linux](https://img.shields.io/badge/platform-Linux-FCC624?logo=linux&logoColor=black) ![Disclosure](https://img.shields.io/badge/Disclosure-Yes-cyan) ![Drazen - CTP](https://img.shields.io/badge/Drazen-CTP_Energy-blue?logo=lightning&logoColor=white)
+![CTP Spiritual Software](https://img.shields.io/badge/CTP_Spiritual_Software-Transcendent_Tech-purple?logo=akashic&logoColor=white) ![Linux](https://img.shields.io/badge/platform-Linux-FCC624?logo=linux&logoColor=black) ![Disclosure](https://img.shields.io/badge/Disclosure-Yes-cyan) ![Drazen - CTP](https://img.shields.io/badge/Drazen-CTP-blue?logo=lightning&logoColor=white)
 
 
 
