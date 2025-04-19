@@ -159,7 +159,7 @@ All terms, symbols, technologies, concepts, and materials associated with:
 - **CTP Technologies**
 - and all related expressions and modules
 
-are **intellectual property of CTP Energy, LLC**. All **commercial rights**—including but not limited to reproduction, distribution, derivative technologies, and software products—are held **exclusively by CTP Energy, LLC**.
+are **intellectual property of CTP Energy, LLC**. All **commercial rights**—including but not limited to reproduction, distribution, derivative technologies, and software products—are held **exclusively by [CTP Energy, LLC](https://www.ctp-energy.com)**.
 
 ---
 
