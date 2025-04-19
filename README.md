@@ -143,8 +143,6 @@ https://creativecommons.org/licenses/by-nc/4.0/
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-Here’s a polished and professional Markdown snippet for your GitHub `README.md` or documentation, including the requested intellectual property and sharing notice:
-
 ---
 
 ### ⚖️ Intellectual Property Notice
@@ -154,6 +152,9 @@ All terms, symbols, technologies, concepts, and materials associated with:
 - **CTP**
 - **CTP Energy**
 - **CTP Energy Science**
+- **CTPSci**
+- **CTPSci Science**
+- **CTPSci Sciences**
 - **CTP-EOS**
 - **CTP Technologies**
 - and all related expressions and modules
