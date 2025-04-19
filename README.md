@@ -36,7 +36,7 @@ Part III of **CTP-EOS™** is where things will/do get 'really' interesting.
 
 ### WHAT IS CTP ENERGY? *(that the CTP-EOS™ is named after)*
 
-- CTP Energy is/are the TOTAL CTP forces that comprise ALL domains of all non-physical and physical realities *(of ALL C/P-existences)*.
+- CTP Energy is/are the TOTAL CTP forces that comprise ALL domains of all (non)physical realities *(of ALL C/P-existences)*.
 - CTPSci is the Science of Consciousness, itself - from C-domain.
 - CTPSci is the science and study of non-physical Conscious or C-energy, the C-domain, and future revolutionary applications of the CTP Energy Cycle™.
  
