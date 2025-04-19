@@ -1,6 +1,9 @@
 ### INTRODUCING THE CTP ENERGY OPERATING SYSTEM *(CTP-EOS™)*
 
 - 👋 Hi, I’m @ctp-eos *(or the 'CTP Energy Operating System™' or also the 'CTP Extraterrestrial Operating System™')*
+
+![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/CTP-EOS-default-tri-logo.png) 
+
 - CTP-EOS™ will be/is divided into THREE MAIN parts.
 
 Part I - is just basic wallpapers *(for ANY computer/desktop operating system)*, themes, etc.
