@@ -34,8 +34,11 @@ Part III of **CTP-EOS™** is where things will/do get 'really' interesting.
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/new-consciousness.jpeg)
 
+---
+
 ### WHAT IS CTP ENERGY? *(that the CTP-EOS™ is named after)*
 
+- CTP Energy/the CTPSci Sciences are the postquantum/non-physical sciences foretold by Nikola Tesla, discovered by Drazen.
 - CTP Energy is/are the TOTAL CTP forces that comprise ALL domains of all (non)physical realities *(of ALL C/P-existences)*.
 - CTPSci is the Science of Consciousness, itself - from C-domain.
 - CTPSci is the science and study of non-physical Conscious or C-energy, the C-domain, and future revolutionary applications of the CTP Energy Cycle™.
@@ -45,7 +48,7 @@ Part III of **CTP-EOS™** is where things will/do get 'really' interesting.
 The CTP Energy Science *(or CTPSci, or the CTPSci Sciences)* discovered by Drazen are an off-world ecosystem(s) of *science from the next century* based on the CTP Sciences of C-domain!
 
 
-
+---
 
 ### WHAT IS C-DOMAIN?
 
@@ -61,8 +64,7 @@ We can call 'C-domain' can be **thought** of as the pathway, conduit, or 'portal
 The study, **Conscious Effort(s)** or *C-effort(s)* and application of this CTPSci Science our mind(s) *(this journey inward will require time, application, practice, and most importantly C-DEDICATION and C-EFFORTS)* - the CTPSci Sciences provides access to a new untapped higher domain consciousness that already exists within EACH of us! 
 Our TRUE ***C-spiritual Higher Intelligence!***
 
-
-
+---
 
 **THE GREATER UNDERSTANDING OF CTP**
 
@@ -73,7 +75,7 @@ C-domain is a level of *mental consciousness* and *thought-domain* and a more em
 
 CTPSci Sciences are a **THE PREREQUISITE** for humanity to achieve interstellar spacetravel during our lifetimes! We already know the advanced CTPSci Sciences to CTPR&D/build the CTP Gravitic Propulsion Systems today! Take a look! 👉 (https://lnkd.in/eZh9pMK3)
 
-
+---
 
 ### WHY STUDY/APPLY CTP ENERGY? 
 OR LEARN HOW TO APPLY THE NON-PHYSICAL ASPECTS OF THE CTP-EOS™ TO MY MIND?"
