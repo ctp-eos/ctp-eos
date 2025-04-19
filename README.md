@@ -26,7 +26,7 @@ Part III of **CTP-EOS™** is where things will/do get 'really' interesting.
 - CTP-EOS™ based on the highly advanced CTPSci Sciences: *a new science at least 50 years from our future!*
 - Discovered by **Drazen Premate** who was-is the unsung successor to Nikola Tesla.
 
-![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/drazn-florida-space-coast.jpeg)
+![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/drazen-space-coast-restored.png)
 
 - Drazen Premate was-is the unsung successor to Nikola Tesla our world completely either ignored or (dis)missed during Drazen's time here never achieving his vision for what the CTPSci Sciences can offer towards and contribute to humanity's future.
 - 20 years ago - our world was not ready for such revolutionary new thinking and new consciousness!
