@@ -28,9 +28,9 @@ Part III of **CTP-EOS™** is where things will/do get 'really' interesting.
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/drazen-space-coast-restored.png)
 
-- Drazen Premate was-is the unsung successor to Nikola Tesla our world completely either ignored or (dis)missed during Drazen's time here never achieving his vision for what the CTPSci Sciences can offer towards and contribute to humanity's future.
+- Drazen Premate was-is the unsung successor to Nikola Tesla our world completely either ignored or (dis)missed during Drazen's time here - never achieving his vision for what the CTPSci Sciences offers to contribute to humanity's future.
 - 20 years ago - our world was not ready for such revolutionary new thinking and new consciousness!
-- CTP-EOS™ also represents a forward-thinking-future-consciousness based on the advanced consciousness sciences of C-domain.
+- CTP-EOS™ also represents a forward-thinking-future-consciousness based on advanced C-sciences of C-domain.
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/new-consciousness.jpeg)
 
