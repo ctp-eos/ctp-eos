@@ -178,7 +178,13 @@ For licensing inquiries or commercial use, please contact:
 
 ---
 ![Platform](https://img.shields.io/badge/platform-Arch_Linux-1793D1?logo=arch-linux&logoColor=white) ![XFCE](https://img.shields.io/badge/Desktop-XFCE-blue?logo=xfce&logoColor=white) ![Calamares](https://img.shields.io/badge/Installer-Calamares-green) ![Status](https://img.shields.io/badge/status-in_development-yellow) ![Contrib](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) ![MadeWithLove](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
-![CTP](https://img.shields.io/badge/energy-CTP_Energy_Science-ff69b4) ![Website](https://img.shields.io/badge/website-ctpeos.org-blue) ![UFO Technologies](https://img.shields.io/badge/UFO_Technologies-Extraterrestrial-blueviolet?style=for-the-badge&logo=awesome-lists) ![CTP Energy Systems](https://img.shields.io/badge/CTP_Energy_Systems-Hyper_Spatial_Energy-orange?style=for-the-badge&logo=power) ![CTP Technologies](https://img.shields.io/badge/CTP_Technologies-Next_Gen_Innovation-teal?style=for-the-badge&logo=gear&logoColor=white) ![Conscious Technologies](https://img.shields.io/badge/Conscious_Technologies-Neural_Awareness-yellowgreen?style=for-the-badge&logo=eye&logoColor=white) ![Spiritual Technologies](https://img.shields.io/badge/Spiritual_Technologies-Mind%2FBody%2FSoul-cyan?style=for-the-badge&logo=chakraui&logoColor=white) ![CTP Spiritual Software](https://img.shields.io/badge/CTP_Spiritual_Software-Transcendent_Tech-purple?style=for-the-badge&logo=akashic&logoColor=white)
+![CTP](https://img.shields.io/badge/energy-CTP_Energy_Science-ff69b4) ![Website](https://img.shields.io/badge/website-ctpeos.org-blue) ![UFO Technologies](https://img.shields.io/badge/UFO_Technologies-Extraterrestrial-blueviolet?logo=awesome-lists&logoColor=white)
+![CTP Energy Systems](https://img.shields.io/badge/CTP_Energy_Systems-Hyper_Spatial_Energy-orange?logo=power&logoColor=white)
+![CTP Technologies](https://img.shields.io/badge/CTP_Technologies-Next_Gen_Innovation-teal?logo=gear&logoColor=white)
+![Conscious Technologies](https://img.shields.io/badge/Conscious_Technologies-Neural_Awareness-yellowgreen?logo=eye&logoColor=white)
+![Spiritual Technologies](https://img.shields.io/badge/Spiritual_Technologies-Mind%2FBody%2FSoul-cyan?logo=chakraui&logoColor=white)
+![CTP Spiritual Software](https://img.shields.io/badge/CTP_Spiritual_Software-Transcendent_Tech-purple?logo=akashic&logoColor=white)
+
 
 
 
