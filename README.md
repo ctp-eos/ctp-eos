@@ -26,13 +26,17 @@ Part III of **CTP-EOS™** is where things will/do get 'really' interesting.
 - CTP-EOS™ based on the highly advanced CTPSci Sciences: *a new science at least 50 years from our future!*
 - Discovered by **Drazen Premate** who was-is the unsung successor to Nikola Tesla.
 
-![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/drazen-space-coast-restored.png)
+![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/new-consciousness.jpeg) 
 
-- Drazen Premate was-is the unsung successor to Nikola Tesla our world completely either ignored or (dis)missed during Drazen's time here - never achieving his vision for what the CTPSci Sciences offers to contribute to humanity's future.
+---
+
+### WHO WAS-IS DRAZEN PREMATE?
+
+- **Drazen Premate** was-is the ***unsung successor to Nikola Tesla*** our world completely either ignored or (dis)missed during Drazen's time here - never achieving his vision for what the CTPSci Sciences offers to contribute to humanity's future.
 - 20 years ago - our world was not ready for such revolutionary new thinking and new consciousness!
-- CTP-EOS™ also represents a forward-thinking-future-consciousness based on advanced C-sciences of C-domain.
+- Drazen discovered what he/we/CTP refer to as CTP Energy or the *postquantum science(s) of the next century*
 
-![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/new-consciousness.jpeg)
+![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/drazen-space-coast-restored.png)
 
 ---
 
@@ -42,6 +46,7 @@ Part III of **CTP-EOS™** is where things will/do get 'really' interesting.
 - CTP Energy is/are the TOTAL CTP forces that comprise ALL domains of all (non)physical realities *(of ALL C/P-existences)*.
 - CTPSci is the Science of Consciousness, itself - from C-domain.
 - CTPSci is the science and study of non-physical Conscious or C-energy, the C-domain, and future revolutionary applications of the CTP Energy Cycle™.
+- CTP-EOS™ represents a forward-thinking-future-consciousness based on advanced C-sciences of C-domain bundled WITH Linux.
  
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/cdomain.jpeg) 
 
