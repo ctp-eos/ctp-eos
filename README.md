@@ -181,7 +181,7 @@ CTP Energy encourages **open access and sharing** of CTP-related content for **n
 
 > You are **free to share**, distribute, and adapt CTP materials for non-commercial purposes **as long as proper attribution is given**, and the integrity of the content is maintained.
 
-However, **all rights, trademarks, and proprietary elements remain the exclusive property of [CTP Energy, LLC](https://www.ctp-energy.com)**.
+However, **all rights, trademarks, and proprietary elements remain the exclusive property of [CTP Energy, LLC](https://www.ctp-energy.com)** unless otherwise noted by additional 3rd party licenses that may be applicable.
 
 For licensing inquiries or commercial use, please contact: 📧 **legal@ctp-eos.org** and or **legal@ctp-energy.com**
 
