@@ -139,7 +139,7 @@ Thanks for your interest in contributing to **CTP-EOS™ Linux**, the official o
 
 We welcome contributors who can help with:
 
-- 🎨 Theming, Icons, and Desktop UX (XFCE/Wayland)
+- 🎨 Theming, Icons, Wallpapers, Graphics, and Desktop UX *(from Gnome, XFCE/Wayland, to all popular DE's/TWMs)*
 - ⚙️ Custom Window Manager development (i3-like config)
 - 🧠 Calamares Installer UI + Branding
 - 🔒 Security: Kernel hardening, sandboxing, sys-firewall (nftables)
