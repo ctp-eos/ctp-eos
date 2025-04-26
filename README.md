@@ -114,7 +114,7 @@ NOW IT IS TIME TO CONNECT OUR WORLD TO OUR NEW EMERGING BETTER & BRIGHTER FUTURE
 
 ---
 
-# SEEKING PROJECT SPONSORS AND DONORS
+## SEEKING PROJECT SPONSORS AND DONORS
 
 Would you like to consider to become a CTP Energy Project Sponsor (CTPEPS) to this REVOLUTIONARY CTP Energy Linux Community Project (CTPELCP)? 
 Please connect and contact with via our socials! 
@@ -123,15 +123,15 @@ Project sponsors will also get a banner add RIGHT HERE below this line showing T
 
 ---
 
-# Contributing to CTP-EOS Linux
+## Contributing to CTP-EOS™ Linux
 
-Thanks for your interest in contributing to **CTP-EOS Linux**, the official open-source OS platform developed to support future science, security, and energy experimentation.
+Thanks for your interest in contributing to **CTP-EOS™ Linux**, the official open-source OS platform developed to support future science, security, and energy experimentation.
 
 ---
 
-## 💡 What is CTP-EOS?
+## 💡 What is **CTP-EOS™**?
 
-CTP-EOS is a secure, multi-format based operating system inspired by **Qubes OS**, **Tiling Window Managers**, and **CTP Energy Science** system-level requirements.
+**CTP-EOS™** is a secure, multi-format based operating system inspired by **Qubes OS**, **Tiling Window Managers**, and **CTP Energy Science** system-level requirements. CTP-EOS is the ***Disclosure Linux*** distro suite. We will deploy ISOs in **Debian/Ubuntu** AND **Arch** Linux formats.
 
 ---
 
