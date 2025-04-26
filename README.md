@@ -108,6 +108,10 @@ Future advanced CTP Spaceliners™ *(such as these or other configurations we wi
 
 What will be YOUR PART to play into the coming CTP Age? *Get involved TODAY!!! Via C-domain!* 
 
+### The temporal barriers have been crossed! 
+
+NOW IT IS TIME TO CONNECT OUR WORLD TO OUR NEW EMERGING BETTER & BRIGHTER FUTURE VIA CTP, CTP ENERGY, C-DOMAIN, & THE CTPSCI SCIENCES!!!
+
 
 ### SEEKING PROJECT SPONSORS AND DONORS
 
@@ -126,7 +130,7 @@ Thanks for your interest in contributing to **CTP-EOS Linux**, the official open
 
 ## 💡 What is CTP-EOS?
 
-CTP-EOS is a secure, Arch-based operating system inspired by **Qubes OS**, **Tiling Window Managers**, and **CTP Energy Science** system-level requirements.
+CTP-EOS is a secure, multi-format based operating system inspired by **Qubes OS**, **Tiling Window Managers**, and **CTP Energy Science** system-level requirements.
 
 ---
 
@@ -176,11 +180,6 @@ Be respectful, honest, and mission-aligned. We don’t tolerate harassment, trol
 ---
 
 Thank you for helping shape **CTP-EOS Linux**. 🌐🛰️
-
-
-### The temporal barriers have been crossed! 
-
-NOW IT IS TIME TO CONNECT OUR WORLD TO OUR NEW EMERGING BETTER & BRIGHTER FUTURE VIA CTP, CTP ENERGY, C-DOMAIN, & THE CTPSCI SCIENCES!!!
 
 ---
 
