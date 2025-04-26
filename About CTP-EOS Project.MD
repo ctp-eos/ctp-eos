@@ -108,6 +108,26 @@ CTP-EOS is directly tied to the ongoing **UFO disclosure discussions**, specific
 
 CTP-EOS represents a unique fusion of a practical Linux distribution with a visionary framework for consciousness development. Through its three parts, it introduces users to the principles of **CTP Energy Science** while preparing them for the societal, spiritual, and technological implications of UFO disclosure. As an open-source initiative, it encourages collaboration and aims to foster a community working towards a higher consciousness and interstellar future.
 
+## 🔗 Related Repositories
+
+- [ctp-is-disclosure-movement](https://github.com/ctp-eos/ctp-idm)
+ 
+> Follow, contribute, and witness the emergence of the next great leap in human understanding.
+
+![Linux](https://img.shields.io/badge/Platform-Linux-blue?logo=linux&logoColor=white)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white)
+![LAMP Stack](https://img.shields.io/badge/Stack-LAMP-orange?logo=apache&logoColor=white)
+![CTP-EOS](https://img.shields.io/badge/OS-CTP--EOS-purple?logo=arch-linux&logoColor=white)
+![Extraterrestrial](https://img.shields.io/badge/Focus-Extraterrestrial-9cf)
+![UFOs / UAPs](https://img.shields.io/badge/Phenomena-UFOs/UAPs-lightgrey)
+![Paranormal](https://img.shields.io/badge/Category-Paranormal-black)
+![Consciousness](https://img.shields.io/badge/Field-Consciousness-yellowgreen)
+![Spiritual Encounters](https://img.shields.io/badge/Theme-Spiritual_Encounters-pink)
+![The Unexplained](https://img.shields.io/badge/Topic-The_Unexplained-red)
+![CTP Energy Science](https://img.shields.io/badge/Science-CTP_Energy_Science-brightgreen)
+
+---
+
 ## License
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
