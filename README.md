@@ -112,8 +112,9 @@ What will be YOUR PART to play into the coming CTP Age? *Get involved TODAY!!! V
 
 NOW IT IS TIME TO CONNECT OUR WORLD TO OUR NEW EMERGING BETTER & BRIGHTER FUTURE VIA CTP, CTP ENERGY, C-DOMAIN, & THE CTPSCI SCIENCES!!!
 
+---
 
-## SEEKING PROJECT SPONSORS AND DONORS
+# SEEKING PROJECT SPONSORS AND DONORS
 
 Would you like to consider to become a CTP Energy Project Sponsor (CTPEPS) to this REVOLUTIONARY CTP Energy Linux Community Project (CTPELCP)? 
 Please connect and contact with via our socials! 
