@@ -131,7 +131,7 @@ Thanks for your interest in contributing to **CTP-EOS™ Linux**, the official o
 
 ## 💡 What is **CTP-EOS™**?
 
-**CTP-EOS™** is a secure, multi-format based operating system inspired by **Qubes OS**, **Tiling Window Managers**, and **CTP Energy Science** system-level requirements. CTP-EOS is the ***Disclosure Linux*** distro suite. We will deploy ISOs in **Debian/Ubuntu** AND **Arch** Linux formats. CTP-EOS™ will offer Linux formats for all user types and skill-levels.
+**CTP-EOS™** is a secure, multi-format based operating system inspired by **Qubes OS**, **Tiling Window Managers**, and **CTP Energy Science** system-level requirements. CTP-EOS is the ***Disclosure Linux*** distro suite. We will deploy ISOs in **Debian/Ubuntu** AND **Arch** Linux formats. From new Linux users to seasoned Linux vets CTP-EOS™ will offer Linux formats for all user types and skill-levels.
 
 ---
 
