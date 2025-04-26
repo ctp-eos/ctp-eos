@@ -110,6 +110,7 @@ CTP-EOS represents a unique fusion of a practical Linux distribution with a visi
 
 ## 🔗 Related Repositories
 
+- [ctp-is-disclosure](https://github.com/ctp-eos/ctp-is-disclosure)
 - [ctp-is-disclosure-movement](https://github.com/ctp-eos/ctp-idm)
  
 > Follow, contribute, and witness the emergence of the next great leap in human understanding.
