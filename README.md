@@ -116,6 +116,66 @@ Please connect and contact with via our socials!
 
 Project sponsors will also get a banner add RIGHT HERE below this line showing THEIR SUPPORT for CTP Energy to lead humankind into a new postquantum era with a new postquantum science from C-domain, itself, and our future! 
 
+---
+
+# Contributing to CTP-EOS Linux
+
+Thanks for your interest in contributing to **CTP-EOS Linux**, the official open-source OS platform developed to support future science, security, and energy experimentation.
+
+---
+
+## 💡 What is CTP-EOS?
+
+CTP-EOS is a secure, Arch-based operating system inspired by **Qubes OS**, **Tiling Window Managers**, and **CTP Energy Science** system-level requirements.
+
+---
+
+## 🛠️ What You Can Contribute
+
+We welcome contributors who can help with:
+
+- 🎨 Theming, Icons, and Desktop UX (XFCE/Wayland)
+- ⚙️ Custom Window Manager development (i3-like config)
+- 🧠 Calamares Installer UI + Branding
+- 🔒 Security: Kernel hardening, sandboxing, sys-firewall (nftables)
+- 📦 Packaging: Custom DEBs/PACMAN builds
+- 💻 Documentation, Setup Guides, Wiki
+
+---
+
+## 📥 How to Get Started
+
+1. Fork the repo and clone your copy.
+2. Create a new branch: `git checkout -b feature-yourFeatureName`
+3. Commit your changes: `git commit -m "Add your feature"`
+4. Push to your fork: `git push origin feature-yourFeatureName`
+5. Submit a Pull Request with a clear description.
+
+---
+
+## 📋 Coding Guidelines
+
+- Follow POSIX, shellscript, and ArchLinux best practices
+- Keep code readable and modular
+- XFCE customizations should remain stable and low-dependency
+- CTP-EOS favors **clarity, speed, and security**
+
+---
+
+## 💬 Communication
+
+- For ideas, DM us or open an Issue
+- For major features, create a proposal or design doc
+
+---
+
+## 🤖 Code of Conduct
+
+Be respectful, honest, and mission-aligned. We don’t tolerate harassment, trolling, or any form of disruptive behavior. We’re building for the future.
+
+---
+
+Thank you for helping shape **CTP-EOS Linux**. 🌐🛰️
 
 
 ### The temporal barriers have been crossed! 
