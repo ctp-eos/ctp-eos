@@ -107,3 +107,29 @@ CTP-EOS is directly tied to the ongoing **UFO disclosure discussions**, specific
 ## Conclusion
 
 CTP-EOS represents a unique fusion of a practical Linux distribution with a visionary framework for consciousness development. Through its three parts, it introduces users to the principles of **CTP Energy Science** while preparing them for the societal, spiritual, and technological implications of UFO disclosure. As an open-source initiative, it encourages collaboration and aims to foster a community working towards a higher consciousness and interstellar future.
+
+## License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NonCommercial — You may not use the material for commercial purposes.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+To view a copy of this license, visit:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+---
