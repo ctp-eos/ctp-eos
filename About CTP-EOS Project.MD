@@ -81,7 +81,7 @@ Facilitates a consciousness shift to prepare humanity for interaction with **ext
 
 CTP-EOS is directly tied to the ongoing **UFO disclosure discussions**, specifically addressing:
 
-- **Consciousness Preparation**: Part III helps individuals elevate their consciousness to understand and accept non-human intelligence (NHI).
+- **Consciousness Preparation**: Part III helps individuals elevate their consciousness to understand and accept **non-human intelligence (NHI)**.
 - **Technological Understanding**: Part II’s integration of CTPSci aims to demystify UFO technologies, such as gravitic propulsion.
 - **Societal Integration**: By providing a functional Linux OS, CTP-EOS helps users engage with these concepts in a practical way.
 
