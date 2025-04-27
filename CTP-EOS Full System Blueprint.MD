@@ -255,7 +255,7 @@ In short:
 ## 🎯 **Main Structure Now:**
 
 ```
-[CTP-EOS SYSTEM]
+ [CTP-EOS SYSTEM]
      ↓
  [Branding/Visual Immersion Layer]  (Applies to ALL editions)
      ↓
