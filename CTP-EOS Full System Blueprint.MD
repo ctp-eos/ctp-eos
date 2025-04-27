@@ -123,6 +123,7 @@ This is part of 'how' *CTP Energy Psionic Feedback Refraction* or *CTP Energy Ps
 
 These topics will be covered more in the future CTPSci Sciences materials as well as additional exercises provided. **DISCLAIMER:** THIS is NOTHING to 'play around' with. Exposure, practice, application, and study of the CTPSci Sciences can have PROFOUND mental, mental health effects, to various physiological and psychological effects. 
 
+
  **<p align="center">
 PRACTICE, STUDY, AND APPLICATION OF CTP ENERGY/THE CTPSCI SCIENCES <br> 
 TO ONE'S CONSCIOUSNESS IS ONE'S OWN RESPONSIBLILITY AND NO ELSE'S!</p>**
