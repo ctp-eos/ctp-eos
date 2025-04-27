@@ -30,7 +30,7 @@ No coding or OS development involved here—just graphic design and distribution
 ### Part II: Custom Linux Distribution
 
 **Description**:  
-This is the core technical component—CTP-EOS as a fully functional Linux distribution aimed at supporting "future science, security, and energy experimentation."
+This is the core technical component—CTP-EOS as a fully functional Linux distribution aimed at supporting *"future science, security, and energy experimentation."*
 
 - **Base Systems**: Available in Debian/Ubuntu and Arch Linux formats, catering to varying user skill levels.
 - **Features**:
@@ -56,10 +56,10 @@ This is the core technical component—CTP-EOS as a fully functional Linux distr
 ### Part III: Non-Physical/C-Spiritual Operating System (CSOP)
 
 **Description**:  
-The most speculative part of CTP-EOS, the CSOP is designed for the human mind and consciousness. This "non-physical operating system" connects users to the **C-domain**—a non-physical realm of higher consciousness.
+The most speculative part of CTP-EOS, the CSOP is designed for the human mind and consciousness. This *"non-physical operating system"* connects users to the **C-domain**—a non-physical realm of **higher consciousness**.
 
-- **Concept**: Built on CTPSci, which includes two non-physical fundamental forces governing consciousness.
-- **Application**: Helps users elevate their consciousness and unlock a "higher genius" to interact with extraterrestrial technologies (e.g., gravitic propulsion systems).
+- **Concept**: Built on CTPSci, which includes two non-physical fundamental forces governing **consciousness**.
+- **Application**: Helps users elevate their consciousness and unlock their own "higher genius" to interact with extraterrestrial technologies (e.g., gravitic propulsion systems).
 - **Connection to Technology**: Mastering the CSOP is believed to be a prerequisite for interacting with advanced CTP Technologies *(to come in the future)*.
 
 **Purpose**:  
@@ -70,10 +70,10 @@ Facilitates a consciousness shift to prepare humanity for interaction with **ext
 ## Goals of CTP-EOS
 
 - **Provide a Functional OS**: Part II delivers a secure Linux distribution that embodies CTP Energy’s mission while supporting creative and technical work.
-- **Advance Consciousness**: Part III prepares humanity to scale its consciousness to an extraterrestrial level, enabling us to engage with UFO technologies.
-- **Support UFO Disclosure**: Aligns with Jacques Vallée's warnings about the implications of UFO disclosure, providing a framework for societal and spiritual integration.
-- **Foster Community**: Encourages contributions from a wide range of users, from graphic designers to developers, building a community around CTP Energy’s mission.
-- **Prepare for the Future**: Positions humanity to achieve interstellar capabilities, entering a new post-quantum era.
+- **Advance Consciousness**: Part III prepares humanity to scale its consciousness to an extraterrestrial level, enabling us to engage with UFO/CTP Technologies in the future.
+- **Support UFO Disclosure**: Aligns with Jacques Vallée's warnings about the implications of UFO disclosure, providing a framework for **societal** and **spiritual integration**.
+- **Foster Community**: Encourages contributions from a wide range of users, from graphic designers to developers, building a community around [CTP Energy's Mission](https://www.youtube.com/watch?v=BwU06YUJRAk&t=124s).
+- **Prepare for the Future**: Positions humanity to **achieve interstellar capabilities**, entering a **new post-quantum era**.
 
 ---
 
