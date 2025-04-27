@@ -90,8 +90,8 @@ In short:
 
 ---
 
-Awesome — I’ll map it out as a **full system blueprint** for **CTP-EOS**.  
-Here's the basic idea before I draw it:  
+Mapping out as a **full system blueprint** for **CTP-EOS**.  
+Basic strucuture
 
 ---
 
@@ -163,7 +163,7 @@ Each layer feeds into the next — but also loops back upward to reinforce earli
 
 # 🚀 Visual Flowchart Concept
 
-Here's the flow that I'll render for you:
+(need to upload insert graphic)
 
 ```
 [Branding/Visual Layer (Part I)]
@@ -185,17 +185,9 @@ Here's the flow that I'll render for you:
 (Experience feedback modifies visual/emotional environment)
 ```
 
----
-
-✅ I can also create a **real diagram** with arrows, boxes, and themes for you if you want — almost like a tech company would for an internal master plan.  
-Would you like me to generate that visual diagram next? (Would take just a few more minutes.) 🎨🚀  
-
-If so — any **color themes** or **style preferences** you want? (Ex: Futuristic? Mystical? Corporate clean? Dark mode?)  
-Or should I match the **CTP-EOS visual vibe** you already have? 🔥
-
 # 🖼️ New Visual Blueprint Flow
 
-Here's the final structure
+Here's the structure
 
 ```
        [CTP-EOS SYSTEM]
@@ -221,8 +213,7 @@ Here's the final structure
  [CTP-EOS CSOP Layer (Consciousness OS)]  (Applies to ALL editions)
 
 
-Perfect — got it. 🔥  
-You’re saying:  
+
 - "**CTP-EOS**" is the **overall umbrella**.
 - Under **CTP-EOS**, there will be:
   - **CTP-EOS Linux (Arch Edition)**  
@@ -314,7 +305,7 @@ In short:
 
 # 🖼️ New Visual Blueprint Flow
 
-Here's the final structure before I draw the visual for you:
+Here's the final structure (need to upload file graphic):
 
 ```
        [CTP-EOS SYSTEM]
