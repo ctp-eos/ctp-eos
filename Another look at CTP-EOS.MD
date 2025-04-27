@@ -109,7 +109,7 @@ The project is open-source under the **Creative Commons Attribution-NonCommercia
 ## **Broader Integration with CTP Energy’s Goals**
 
 - **CTP-EOS and the Disclosure Movement**: The OS educates users about CTPSci and prepares them for the societal impact of UFO disclosure. 
-- **CTP Deeptech R&D**: CTP [Deep Tech](https://en.wikipedia.org/wiki/Deep_tech) R&D will be/is a long term endeavor. Many CTP Energy Systems must be first trialed, tested, and developed long before an actual CTPcraft can be demonstrated. 
+- **CTP Deeptech R&D**: CTP [Deep Tech](https://en.wikipedia.org/wiki/Deep_tech) R&D will be/is a long term endeavor. Many CTP Energy Systems must be first trialed, tested, and developed long before an actual CTPcraft can be demonstrated. *Significant space capital/newspace capital is required* 
 - **CTP Gravitic Propulsion Systems**: The CSOP is seen as a prerequisite for understanding and interacting with UFO propulsion technologies.
 - **CTP Domestic Technologies**: The OS could host tools that integrate CTPSci into daily life, aligning with the goal of "raising the consciousness of your home."
 
