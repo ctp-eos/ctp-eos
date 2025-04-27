@@ -101,7 +101,7 @@ Basic strucuture
 ```
 [Part I: CTP-EOS Branding & Visual Immersion Layer]
         ↓
-[Part II: CTP-EOS Linux OS Layer (Arch-based)]
+[Part II: CTP-EOS Linux OS Layer: (CTP-EOS Linux-based-User Experience)]
         ↓
 [Part III: CSOP Layer (Consciousness Operating System)]
 ```
