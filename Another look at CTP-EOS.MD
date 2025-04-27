@@ -108,7 +108,8 @@ The project is open-source under the **Creative Commons Attribution-NonCommercia
 
 ## **Broader Integration with CTP Energy’s Goals**
 
-- **CTP-EOS and the Disclosure Movement**: The OS educates users about CTPSci and prepares them for the societal impact of UFO disclosure.
+- **CTP-EOS and the Disclosure Movement**: The OS educates users about CTPSci and prepares them for the societal impact of UFO disclosure. 
+- **CTP Deeptech R&D**: CTP [Deep Tech](https://en.wikipedia.org/wiki/Deep_tech) R&D will be/is a long term endeavor. Many CTP Energy Systems must be first trialed, tested, and developed long before an actual CTPcraft can be demonstrated. 
 - **CTP Gravitic Propulsion Systems**: The CSOP is seen as a prerequisite for understanding and interacting with UFO propulsion technologies.
 - **CTP Domestic Technologies**: The OS could host tools that integrate CTPSci into daily life, aligning with the goal of "raising the consciousness of your home."
 
@@ -122,7 +123,7 @@ The project is open-source under the **Creative Commons Attribution-NonCommercia
 - **Inner Consciousness Efforts**: This *'inner-work'* cannot be *'out-sourced'* to your friends, family, coworkers, peers, or **anyone else**. 
 - **Personal Conscious Development**:This part of CTPSci Scienes is 100% self-elective.
 - **Conscious Exploration**: This on YOU/EVERYONE else to explore your or one's own **consciousness** *(on your own)*.
-- **CTPSci Resources**: A future CTP resource educational materials will be released and published as releasing these materials can be facilitated. Note: 'CTP' is still an 'early inception', or 'early stage' or [Deep Tech - Wikipedia](https://en.wikipedia.org/wiki/Deep_tech)startup. 
+- **CTPSci Resources**: A future CTP resource educational materials will be released and published as releasing these materials can be facilitated. Note: 'CTP' is still an 'early inception', or 'early stage' or [Deep Tech](https://en.wikipedia.org/wiki/Deep_tech)startup. 
 - **Societal Impact**: The unconventional approach of CTP-EOS may face resistance or inquire massive support from mainstream audiences *(those ready to go the next step)*.
 
 ---
