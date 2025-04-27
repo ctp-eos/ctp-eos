@@ -76,7 +76,7 @@ The project is open-source under the **Creative Commons Attribution-NonCommercia
 
 #### Relevance to UFO Disclosure:
 - Provides a practical entry point to engage with CTPSci, which CTP Energy claims is behind UFO technologies like CTP Gravitic Propulsion.
-- Exposes users to CTPSci concepts, preparing them for societal shifts that accompanies **UFO disclosure** and the emergence of 'CTP' and the **CTPSci Sciences** into popular culture and mainstream consciousness *(a process driven by/via C-domain processes that create Time)*.
+- Exposes users to CTPSci concepts, preparing for societal shifts that accompanies **UFO disclosure** and emergence of 'CTP' and the **CTPSci Sciences** into popular culture and mainstream consciousness *(a process driven by/via C-domain processes that create Time)*.
 
 ---
 
