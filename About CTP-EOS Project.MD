@@ -4,7 +4,7 @@
 
 ## Overview
 
-CTP-EOS is divided into three distinct parts, each serving a unique purpose but unified under the mission of advancing humanity’s understanding of the "C-domain" (a non-physical realm of higher consciousness) and preparing us for extraterrestrial-grade technologies. CTP-EOS™ can be/is also referred to as the ***(CTP Extraterrestrial Operating System)*** interchangeably.
+CTP-EOS is divided into three distinct parts, each serving a unique purpose but unified under the mission of advancing humanity’s understanding of the "C-domain" (a non-physical realm of higher consciousness) and preparing us for extraterrestrial-grade technologies. CTP-EOS™ can be/is also referred to as the ***(CTP Extraterrestrial Operating System)*** acronym - interchangeably.
 
 - **License**: Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
 - **GitHub Repositories**:
