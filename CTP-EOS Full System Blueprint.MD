@@ -108,11 +108,18 @@ Basic strucuture
 [Part II: CTP-EOS Linux OS Layer: (CTP-EOS Linux-based-User Experience)]
         ↓
 [Part III: CSOP Layer (Consciousness Operating System)]
+
 ```
 
-<center><img src="https://github.com/ctp-eos/ctp-eos/blob/main/ctp-eos-stack-400x600.png"></center>
+<p align="center">
+  <img src="https://github.com/ctp-eos/ctp-eos/blob/main/ctp-eos-stack-400x600.png"" width="300" height="200" />
+</p>
 
-Each layer feeds into the next — but also loops back upward to reinforce earlier layers — making it a **closed-loop Consciousness-Technology Feedback System**.
+Each layer feeds into the next — but also loops back upward to reinforce earlier layers — making it a **closed-loop Consciousness-Technology Feedback System**. 
+
+
+
+This is part of 'how' CTP Energy Psionic Feedback Refraction (CTPEPFR) 'works'. These topics will be covered more in the future as well as additional exercises provided.
 
 ---
 
