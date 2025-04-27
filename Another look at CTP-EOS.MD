@@ -117,7 +117,7 @@ The project is open-source under the **Creative Commons Attribution-NonCommercia
 ### **Challenges and Future Considerations**
 - **Empirical Validation**: While CSOP lacks outside scientifically verifiable methodology *(as far as 'how' present sciences are done)*, this aspect of the CTPSci Sciences is 100% voluntary and an INDVIDUAL pursuit - as an individual's **consciousness** is at the center of this aspect of the CTPSci Sciences. No one else can develop one's consciousness for themselves of/for/or by some other entity.
 - **Development Timeline**: The project is still in development with reliance on community contributions.
-- A Debian-based fork is likely to be released first, with Arch-based or other release formats following later.
+- **Pending Release**: A Debian/Ubuntu-based fork is likely to be released first, with Arch-based or other release formats following later.
 - **User Adoption**: Encouraging users to adopt the CTP-EOS and engage with its consciousness-focused elements may be challenging.
 - **Inner Consciousness Efforts** This *'inner-work'* cannot be *'outsourced'* to your friends or **anyone else**. 
 - **This part of CTPSci Scienes is 100% self-elective on YOU/EVERYONE else to explore your or one's own **consciousness** *(on your own)*.
