@@ -76,7 +76,7 @@ The project is open-source under the **Creative Commons Attribution-NonCommercia
 
 #### Relevance to UFO Disclosure:
 - Provides a practical entry point to engage with CTPSci, which CTP Energy claims is behind UFO technologies like CTP Gravitic Propulsion.
-- Exposes users to CTPSci concepts, preparing them for societal shifts that might accompany UFO disclosure and the emergence of 'CTP' into popular and mainstream consciousness *(a process driven by/via C-domain)*.
+- Exposes users to CTPSci concepts, preparing them for societal shifts that might accompany UFO disclosure and the emergence of 'CTP' into popular and mainstream consciousness *(a process driven by/via C-domain processes that create Time)*.
 
 ---
 
@@ -123,7 +123,7 @@ The project is open-source under the **Creative Commons Attribution-NonCommercia
 - **Inner Consciousness Efforts**: This *'inner-work'* cannot be *'out-sourced'* to your friends, family, coworkers, peers, or **anyone else**. 
 - **Personal Conscious Development**:This part of CTPSci Scienes is 100% self-elective.
 - **Conscious Exploration**: This on YOU/EVERYONE else to explore your or one's own **consciousness** *(on your own)*.
-- **CTPSci Resources**: A future CTP resource educational materials will be released and published as releasing these materials can be facilitated. Note: 'CTP' is still an 'early inception', or 'early stage' or [Deep Tech](https://en.wikipedia.org/wiki/Deep_tech)startup. 
+- **CTPSci Resources**: Future CTP resources and CTPSci Educational Materials will be released and published as releasing these materials can be facilitated. **Note**: 'CTP' is still an *'early inception'*, or *'early stage'* or [deep tech](https://en.wikipedia.org/wiki/Deep_tech) startup. 
 - **Societal Impact**: The unconventional approach of CTP-EOS may face resistance or inquire massive support from mainstream audiences *(those ready to go the next step)*.
 
 ---
