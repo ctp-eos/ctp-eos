@@ -98,7 +98,7 @@ The project is open-source under the **Creative Commons Attribution-NonCommercia
 #### Potential Applications:
 - **Consciousness Development**: Enhances creativity, problem-solving, and emotional well-being through mental exercises and visualization.
 - **Preparation for Advanced Technology**: Elevates consciousness for understanding and interacting with UFO propulsion systems.
-- **Spiritual Growth**: Aligns with CTP Energy’s **C-spirituality**, offering a path to connect with larger universal reality.
+- **Spiritual Growth**: Aligns with CTP Energy’s **C-spirituality**, offering a path to connect with larger universal reality: the C-domain.
 
 #### Relevance to UFO Disclosure:
 - Prepares individuals for the **spiritual and cultural implications** of UFO disclosure by elevating consciousness and reducing fear or resistance to NHI.
