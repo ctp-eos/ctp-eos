@@ -18,6 +18,6 @@ By accessing, reading, or engaging with any materials related to CTP Energy Scie
 * **Personal Reflection and Transformation**: The materials provided within CTPSci Sciences may lead to profound shifts in your worldview, beliefs, and understanding of reality. You recognize that this process may result in a reevaluation of long-held beliefs, which can be mentally and emotionally exhaustive. CTP Energy, LLC is not responsible for any mental or emotional challenges that may arise from this process.
 
 * **Voluntary Engagement**: Participation in CTPSci Sciences is entirely voluntary, and you are free to discontinue engagement at any time should you find the materials to be too demanding, challenging, or uncomfortable. You acknowledge that your decision to engage is made with full awareness of the potential mental, emotional, and psychological challenges inherent in this scientific exploration.
+
 ```
 
-This style uses round bullets, which gives it a clean and smooth look. Let me know if you'd like any more adjustments!
