@@ -112,7 +112,7 @@ Basic strucuture
 ```
 
 <p align="center">
-  <img src="https://github.com/ctp-eos/ctp-eos/blob/main/ctp-eos-stack-400x600.png"" width="300" height="200" />
+  <img src="https://github.com/ctp-eos/ctp-eos/blob/main/ctp-eos-stack-400x600.png"" width="400" height="600" />
 </p>
 
 Each layer feeds into the next — but also loops back upward to reinforce earlier layers — making it a **closed-loop Consciousness-Technology Feedback System**. 
