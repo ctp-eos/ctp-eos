@@ -140,11 +140,13 @@ Thanks for your interest in contributing to **CTP-EOS™ Linux**, the official o
 We welcome contributors who can help with:
 
 - 🎨 Theming, Icons, Wallpapers, Graphics, and Desktop UX *(from Gnome, XFCE/Wayland, to all popular DE's/TWMs)*
-- ⚙️ Custom Window Manager development (i3-like config)
+- ⚙️ Custom Window Manager development *(i3-like config)*
 - 🧠 Calamares Installer UI + Branding
-- 🔒 Security: Kernel hardening, sandboxing, sys-firewall (nftables)
+- 🧠 Flutter, Subiquity, Ubiquity, Cubic *(for Debian/Ubuntu forks)*
+- 🔒 Security: Kernel hardening, sandboxing, sys-firewall *(nftables)*
 - 📦 Packaging: Custom DEBs/PACMAN builds
-- 💻 Documentation, Setup Guides, Wiki
+- 💻 Documentation, Setup Guides, User articles, Wiki *(contribute articles/publishing to CTP-EOS.org official site)*.
+- 💻 CTP-EOS Community: community builders, forum mods, package maintainers, CTP-EOS developers, other contribution
 
 ---
 
