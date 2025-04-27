@@ -19,5 +19,5 @@ By accessing, reading, or engaging with any materials related to CTP Energy Scie
 
 * **Voluntary Engagement**: Participation in CTPSci Sciences is entirely voluntary, and you are free to discontinue engagement at any time should you find the materials to be too demanding, challenging, or uncomfortable. You acknowledge that your decision to engage is made with full awareness of the potential mental, emotional, and psychological challenges inherent in this scientific exploration.
 
-```
+---
 
