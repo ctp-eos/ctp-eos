@@ -139,3 +139,7 @@ It is both **conceptual and executable**, even though the "code" is **mental** r
 (Think of it like a flowchart or architecture diagram)  **NOTE**: work/update pending
 
 ---
+
+[![CTP-EOS tech-stack](https://github.com/ctp-eos/ctp-eos/blob/main/ctp-eos-tech-stack-overlay.png?raw=true)](https://www.ctp-eos.org)
+
+---
