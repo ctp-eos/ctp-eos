@@ -228,7 +228,7 @@ In short:
 
 ---
 
-# 🛸 **Updated CTP-EOS Full System Blueprint**
+# 🛸 **Update to CTP-EOS Full System Blueprint**
 
 ---
 
@@ -242,20 +242,16 @@ In short:
  [CTP-EOS Linux (Arch / Debian / Ubuntu editions)]
      ↓
  [CTP-EOS CSOP Layer (Consciousness OS)]  (Applies to ALL editions)
+
 ```
-
----
-
 ## 🛠️ **Detailed Updated Breakdown:**
-
-
 
 ### **1. CTP-EOS Branding & Visual Immersion Layer**
 (*shared across all versions*)
 
 | Components | Functions |  
 |:---|:---|  
-| Universal Wallpapers, Icons, Fonts | Priming C-energy frequency |  
+| Universal Wallpapers, Icons, Fonts | Priming C-energy Frequency |  
 | Boot Splash Animations (for all editions) | Engaging user during deep boot loading states |  
 | CTP Visual Glyphs | Embedding resonance into subconscious |  
 | Installer Slideshow (Calamares/Debian-Ubiquity versions) | Training during system installation |  
@@ -272,7 +268,7 @@ In short:
 | **CTP-EOS Linux (Ubuntu Edition)** | Ubuntu LTS | Beginners, mass adoption |  
 
 **All share:**
-- CTP Apps (ctp-studio, stargate portal, ctp-csop control panel)
+- CTP Apps (ctp-studio, stargate portal, traction Waveform, Renoise, music/video apps, ctp-csop control panel)
 - CTP-Energy documentation
 - Same wallpapers, icons, themes
 - Same access to CSOP Layer
