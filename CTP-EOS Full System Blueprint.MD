@@ -321,7 +321,11 @@ In short:
 
 # 🖼️ New Visual Blueprint Flow
 
-Here's the final structure (need to upload file graphic):
+Here's the final structure 
+
+<p align="center">
+  <img src="https://github.com/ctp-eos/ctp-eos/blob/main/ctp-eos-stack-400x600.png"" width="400" height="600" />
+</p>
 
 ```
        [CTP-EOS SYSTEM]
