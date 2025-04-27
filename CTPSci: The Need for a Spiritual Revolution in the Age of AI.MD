@@ -60,7 +60,7 @@ As we move deeper into the age of AI, it is imperative that we do not let techno
 
 > **"This process can only enhance who we are in the physical world without really ever threatening who we were."** - Drazen Premate
 
-By embracing this new paradigm, we can create a world where technology and spirituality work in harmony, guiding humanity toward a future that is not only technologically advanced but spiritually enlightened—a world where the evolution of AI and human consciousness are seen as two sides of the same coin. Indeed CTP will bring us forward in Industry 5.0 or what *'Reso'* refers to as the ***Nth Industrial Revolution*** or **Industry Nth**!
+By embracing this new paradigm, we can create a world where technology and spirituality work in harmony, guiding humanity toward a future that is not only technologically advanced but spiritually enlightened—a world where the evolution of AI and human consciousness are seen as two sides of the same coin. Indeed CTPSci Sciences will bring us forward and advance us exponentially not only into Industry 5.0 - what *'Reso'* refers to as the ***Nth Industrial Revolution*** or **Industry Nth**!
 
 ---
 
