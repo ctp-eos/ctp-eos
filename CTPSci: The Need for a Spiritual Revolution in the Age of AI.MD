@@ -27,7 +27,11 @@ At the core of this spiritual revolution is the idea that humanity is on the cus
 
 > **"So many of us assume it is sufficient to believe in 'the other world' and not have to understand it on a scientific basis. Many more do not believe that there is a scientific basis for the spiritual or C-domain world at all."** - Drazen Premate
 
-This emerging consciousness is tied to the idea of the **C-domain**, a concept that is foundational to CTP Energy Science. The C-domain represents a deeper, scientifically grounded understanding of the spiritual dimensions of our existence—dimensions that we are all a part of, whether we are aware of it or not. As Drazen explains, many people assume that it is enough to simply believe in "the other world" without seeking a deeper, scientific understanding of it. Yet, CTP Energy Science is built on the premise that there is, indeed, a scientific foundation to the spiritual realms we encounter. By exploring and experimenting with these realms, we can bridge the gap between ancient spiritual teachings and modern scientific advancements.
+This emerging consciousness is tied to the idea of the **C-domain**, a concept that is foundational to CTP Energy Science. The C-domain represents a deeper, scientifically grounded understanding of the spiritual dimensions of our existence—dimensions that we are all a part of, whether we are aware of it or not. 
+
+As Drazen explains, many people assume that it is enough to simply believe in "the other world" without seeking a deeper, scientific understanding of it. Yet, CTP Energy Science is built on the premise that there is, indeed, **a scientific foundation** to the spiritual realms we encounter, which/where we all come from, and will all one day (eventually permanently) return to *(we also return to C-domain each night during sleep in order to recharge, rebalance, and revitalize our non-physical C-body with C-energy!)* when the glimpse of our physical life is completed. 
+
+By exploring and experimenting with these realms, we can bridge the gap between ancient spiritual teachings and modern scientific advancements. A new time of unprecedented advances awaits us in and with greater comprehension and understandings of our spiritual/non-physical nature in the new domain of post-quantum sciences and technolgies: spiritual technologies or spiritual/conscious technologies: the CTP Technologies.
 
 
 ## Synchronizing Human Consciousness with Technology
