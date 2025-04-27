@@ -98,7 +98,7 @@ The project is open-source under the **Creative Commons Attribution-NonCommercia
 #### Potential Applications:
 - **Consciousness Development**: Enhances creativity, problem-solving, and emotional well-being through mental exercises and visualization.
 - **Preparation for Advanced Technology**: Elevates consciousness for understanding and interacting with UFO propulsion systems.
-- **Spiritual Growth**: Aligns with CTP Energy’s **C-spirituality**, offering a path to connect with universal reality.
+- **Spiritual Growth**: Aligns with CTP Energy’s **C-spirituality**, offering a path to connect with larger universal reality.
 
 #### Relevance to UFO Disclosure:
 - Prepares individuals for the **spiritual and cultural implications** of UFO disclosure by elevating consciousness and reducing fear or resistance to NHI.
@@ -109,7 +109,7 @@ The project is open-source under the **Creative Commons Attribution-NonCommercia
 ## **Broader Integration with CTP Energy’s Goals**
 
 - **CTP-EOS and the Disclosure Movement**: The OS educates users about CTPSci and prepares them for the societal impact of UFO disclosure. 
-- **CTP Deeptech R&D**: CTP [Deep Tech](https://en.wikipedia.org/wiki/Deep_tech) R&D will be/is a long term endeavor. Many CTP Energy Systems must be first trialed, tested, and developed long before an actual CTPcraft can be demonstrated. *Significant space capital/newspace capital is required* 
+- **CTP Deeptech R&D**: CTP [Deep Tech](https://en.wikipedia.org/wiki/Deep_tech) R&D will be/is a long term endeavor. Many CTP Energy Systems must be first trialed, tested, and developed long before an actual CTPcraft can be demonstrated. *Significant space capital/newspace aerospace capital is required* 
 - **CTP Gravitic Propulsion Systems**: The CSOP is seen as a prerequisite for understanding and interacting with UFO propulsion technologies.
 - **CTP Domestic Technologies**: The OS could host tools that integrate CTPSci into daily life, aligning with the goal of "raising the consciousness of your home."
 
@@ -121,9 +121,10 @@ The project is open-source under the **Creative Commons Attribution-NonCommercia
 - **Pending Release**: A Debian/Ubuntu-based fork is likely to be released first, with Arch-based or other release formats following later.
 - **User Adoption**: Encouraging users to adopt the CTP-EOS and engage with its consciousness-focused elements may be challenging.
 - **Inner Consciousness Efforts**: This *'inner-work'* cannot be *'out-sourced'* to your friends, family, coworkers, peers, or **anyone else**. 
-- **Personal Conscious Development**:This part of CTPSci Scienes is 100% self-elective.
+- **Personal Conscious Development**: This part of CTPSci Scienes is **100% self-elective**.
 - **Conscious Exploration**: This on YOU/EVERYONE else to explore your or one's own **consciousness** *(on your own)*.
-- **CTPSci Resources**: Future CTP resources and CTPSci Educational Materials will be released and published as releasing these materials can be facilitated. **Note**: 'CTP' is still an *'early inception'*, or *'early stage'* or [deep tech](https://en.wikipedia.org/wiki/Deep_tech) startup. 
+- **CTPSci Resources**: Future CTP resources and CTPSci Educational Materials will be released and published as releasing these materials can be facilitated. 
+- **Note**: 'CTP' is still an *'early inception'*, or *'early stage'*, or [deep tech](https://en.wikipedia.org/wiki/Deep_tech) startup. 
 - **Societal Impact**: The unconventional approach of CTP-EOS may face resistance or inquire massive support from mainstream audiences *(those ready to go the next step)*.
 
 ---
@@ -133,3 +134,5 @@ The project is open-source under the **Creative Commons Attribution-NonCommercia
 CTP-EOS is a multifaceted project that combines a practical Linux distribution with a visionary framework for consciousness development. Part I introduces users to CTP Energy’s mission through visual branding, Part II delivers a secure and creative OS platform, and Part III offers a speculative path to elevate human consciousness. By addressing both the technological and spiritual aspects of **UFO disclosure**, CTP-EOS aligns with CTP Energy’s goal of preparing humanity for a multidimensional reality.
 
 While the project faces challenges in terms of validation and adoption, its innovative approach makes it a unique endeavor in the intersection of technology, consciousness, and extraterrestrial science.
+
+---
