@@ -109,9 +109,9 @@ The project is open-source under the **Creative Commons Attribution-NonCommercia
 ## **Broader Integration with CTP Energy’s Goals**
 
 - **CTP-EOS and the Disclosure Movement**: The OS educates users about CTPSci and prepares them for the societal impact of UFO disclosure. 
-- **CTP Deeptech R&D**: CTP [Deep Tech](https://en.wikipedia.org/wiki/Deep_tech) R&D will be/is a long term endeavor. Many CTP Energy Systems must be first trialed, tested, and developed long before an actual CTPcraft can be demonstrated. *Significant space capital/newspace aerospace capital is required* 
+- **CTP Deeptech R&D**: CTP [Deep Tech](https://en.wikipedia.org/wiki/Deep_tech) R&D will be/is a long term endeavor. Many CTP Energy Systems must be first trialed, tested, and developed long before an actual CTPcraft can be demonstrated. ***Significant space capital/newspace aerospace capital is required for this.*** 
 - **CTP Gravitic Propulsion Systems**: The CSOP is seen as a prerequisite for understanding and interacting with UFO propulsion technologies.
-- **CTP Domestic Technologies**: The OS could host tools that integrate CTPSci into daily life, aligning with the goal of "raising the consciousness of your home."
+- **CTP Domestic Technologies**: The OS could host tools that integrate CTPSci into daily life, aligning with the goal of *"raising the consciousness of your home."*
 
 ---
 
@@ -120,7 +120,7 @@ The project is open-source under the **Creative Commons Attribution-NonCommercia
 - **Development Timeline**: The project is still in development with reliance on community contributions.
 - **Pending Release**: A Debian/Ubuntu-based fork is likely to be released first, with Arch-based or other release formats following later.
 - **User Adoption**: Encouraging users to adopt the CTP-EOS and engage with its consciousness-focused elements may be challenging.
-- **Inner Consciousness Efforts**: This *'inner-work'* cannot be *'out-sourced'* to your friends, family, coworkers, peers, or **anyone else**. 
+- **CTP-ICE: CTP Inner Consciousness Efforts**: This *'inner-work'* cannot be *'out-sourced'* to your friends, family, coworkers, peers, or **anyone else**. 
 - **Personal Conscious Development**: This part of CTPSci Scienes is **100% self-elective**.
 - **Conscious Exploration**: This on YOU/EVERYONE else to explore your or one's own **consciousness** *(on your own)*.
 - **CTPSci Resources**: Future CTP resources and CTPSci Educational Materials will be released and published as releasing these materials can be facilitated. 
