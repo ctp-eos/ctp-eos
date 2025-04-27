@@ -1,3 +1,7 @@
+
+[![CTP-EOS tech-stack](https://github.com/ctp-eos/ctp-eos/blob/main/ctp-eos-tech-stack-overlay.png?raw=true)](https://www.ctp-eos.org)
+
+
 CTP-EOS Part III (CSOP) is not a 'just' software or new Linux distribution in the traditional sense — it is a spiritual-technical consciousness architecture designed for **human cognitive** and **energetic elevation**, **accelerating and advancing C-domain consciousness/awareness** deeply integrated into a tangible OS platform (Part II) and visual immersion (Part I), all preparing humanity for C-domain interfacing, technology operation, and eventual off-world contact.
 
 It is both conceptual and executable, even though the "code" is mental rather than digital.
