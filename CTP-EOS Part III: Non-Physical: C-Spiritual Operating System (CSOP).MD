@@ -134,9 +134,9 @@ It is both **conceptual and executable**, even though the "code" is **mental** r
 
 ---
 
-*now lay out a **specific visual system map** ("blueprint") showing how 
+*NOW: layout in your mind: a **specific visual system map** ("blueprint") showing how 
 **Parts I, II, and III** interact together to form the complete **CTP-EOS System** 
-(Think of it like a flowchart or architecture diagram)  **NOTE**: work/update pending
+(Think of it like a flowchart or architecture diagram)  **NOTE**: work/update pending. Updated. See below.
 
 ---
 
