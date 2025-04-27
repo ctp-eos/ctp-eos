@@ -119,7 +119,9 @@ Each layer feeds into the next — but also loops back upward to reinforce earli
 
 
 
-This is part of 'how' CTP Energy Psionic Feedback Refraction (CTPEPFR) 'works'. These topics will be covered more in the future as well as additional exercises provided.
+This is part of 'how' *CTP Energy Psionic Feedback Refraction* or *CTP Energy Psychic Feedback Refraction* (CTPEPFR) 'works'. These topics will be covered more in the future as well as additional exercises provided. **DISCLAIMER:** THIS is NOTHING to 'play around' with. Exposure, practice, application, and study of the CTPSci Sciences can have PROFOUND mental, mental health effects, to various physiological and psychological effects. 
+
+***PRACTICE, STUDY, AND APPLICAITON OF CTP ENERGY/THE CTPSCI SCIENCES TO ONE'S CONSCIOUSNESS IS ONE'S OWN RESPONSIBLILITY AND NO ELSE'S!***
 
 ---
 
