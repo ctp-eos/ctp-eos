@@ -1,4 +1,4 @@
-# CTP-EOS (CTP Energy Operating System)
+# About CTP-EOS (CTP Energy Operating System)
 
 CTP-EOS is a multifaceted project by CTP Energy, LLC, blending a tangible Linux-based operating system with a conceptual "non-physical operating system" for the mind. This project aims to bridge current technology with advanced consciousness concepts rooted in **CTP Energy Science** (CTPSci), with a focus on extraterrestrial-grade technologies and UFO disclosure.
 
