@@ -119,8 +119,10 @@ The project is open-source under the **Creative Commons Attribution-NonCommercia
 - **Development Timeline**: The project is still in development with reliance on community contributions.
 - **Pending Release**: A Debian/Ubuntu-based fork is likely to be released first, with Arch-based or other release formats following later.
 - **User Adoption**: Encouraging users to adopt the CTP-EOS and engage with its consciousness-focused elements may be challenging.
-- **Inner Consciousness Efforts** This *'inner-work'* cannot be *'outsourced'* to your friends or **anyone else**. 
-- **This part of CTPSci Scienes is 100% self-elective on YOU/EVERYONE else to explore your or one's own **consciousness** *(on your own)*.
+- **Inner Consciousness Efforts**: This *'inner-work'* cannot be *'out-sourced'* to your friends, family, coworkers, peers, or **anyone else**. 
+- **Personal Conscious Development**:This part of CTPSci Scienes is 100% self-elective.
+- **Conscious Exploration**: This on YOU/EVERYONE else to explore your or one's own **consciousness** *(on your own)*.
+- **CTPSci Resources**: A future CTP resource educational materials will be released and published as releasing these materials can be facilitated. Note: 'CTP' is still an 'early inception', or 'early stage' or [Deep Tech - Wikipedia](https://en.wikipedia.org/wiki/Deep_tech)startup. 
 - **Societal Impact**: The unconventional approach of CTP-EOS may face resistance or inquire massive support from mainstream audiences *(those ready to go the next step)*.
 
 ---
