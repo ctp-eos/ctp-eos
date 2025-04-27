@@ -1,10 +1,10 @@
 # About CTP-EOS™ (CTP Energy Operating System)
 
-**CTP-EOS™** is a multifaceted project by CTP Energy, LLC, blending a tangible Linux-based operating system with a conceptual "non-physical operating system" for the mind. This project aims to bridge current technology with advanced consciousness concepts rooted in **CTP Energy Science** (CTPSci), with a focus on extraterrestrial-grade technologies and UFO disclosure.
+**CTP-EOS™** is a multifaceted project by CTP Energy, LLC, blending a tangible Linux-based operating system with a conceptual *"non-physical operating system" for the mind*. This project aims to bridge current technology with **advanced consciousness concepts** rooted in **CTP Energy Science** (CTPSci), with a focus on extraterrestrial-grade technologies and **UFO disclosure**.
 
 ## Overview
 
-CTP-EOS™ is divided into three distinct parts, each serving a unique purpose but unified under the mission of advancing humanity’s understanding of the "C-domain" (a non-physical realm of higher consciousness) and preparing us for extraterrestrial-grade technologies.
+CTP-EOS is divided into three distinct parts, each serving a unique purpose but unified under the mission of advancing humanity’s understanding of the "C-domain" (a non-physical realm of higher consciousness) and preparing us for extraterrestrial-grade technologies.
 
 - **License**: Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
 - **GitHub Repositories**:
