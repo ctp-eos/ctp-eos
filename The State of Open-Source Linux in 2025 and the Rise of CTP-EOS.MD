@@ -137,5 +137,58 @@ We welcome contributions of all kinds — from code commits and UI improvements 
    ```bash
    git clone https://github.com/ctp-eos/ctp-eos-linux.git
    cd ctp-eos-linux
+
+Great! Here's a **GitHub-style "Contributing" section** for **CTP-EOS Linux**, following up on the "Getting Involved" paragraph:
+
+```markdown
+## 🤝 Contributing to CTP-EOS Linux
+
+We welcome contributions of all kinds — from code commits and UI improvements to documentation, security audits, and kernel modules aligned with CTP Energy Science.
+
+### 🛠️ Development Setup
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/ctp-eos/ctp-eos-linux.git
+   cd ctp-eos-linux
+   ```
+
+2. **Install dependencies** (Arch-based)  
+   ```bash
+   sudo pacman -S base-devel git cmake python
+   ```
+### 🛠️ Install Dependencies (Ubuntu / Debian-based)
+
+Run the following commands to install required packages:
+
+   ```bash
+   sudo apt update
+   sudo apt install -y build-essential git cmake python3 python3-pip libfuse2
+
+
+3. **Run build environment**  
+   ```bash
+   ./scripts/setup-dev-env.sh
+   ```
+
+4. **Launch test environment**  
+   ```bash
+   ./scripts/run-ctp-eos-vm.sh
+   ```
+
 ---
+
+### 🧠 Contributor Guidelines
+
+- Use [CTP-EOS Coding Standards](docs/contributing.md#code-style)
+- Submit changes via pull request to the `dev` branch
+- Include clear commit messages and changelogs
+- Be respectful of our mission and community goals
+
+---
+
+**Dev Notes:** Update Matrix 
+
+
+
 
