@@ -197,5 +197,5 @@ These coding standards are here to ensure that all contributors can work in a co
 Thank you for following the CTP-EOS coding standards! Happy coding! 🛸
 ```
 
----
+
 
