@@ -148,7 +148,7 @@ As of April 29, 2025, Arch Linux reflects several trends:
 - **AI/ML Support**: Bleeding-edge packages like [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), and [CUDA](https://developer.nvidia.com/cuda-toolkit) make Arch a go-to choice for AI developers.
 - **Containerization and Virtualization**: Arch’s minimalism makes it ideal for containerized applications (via [Docker](https://www.docker.com/)) and virtualization technologies (via [QEMU](https://www.qemu.org/)).
 
-```
+---
 
 ### Expanding CTP-EOS Project Scope
 
