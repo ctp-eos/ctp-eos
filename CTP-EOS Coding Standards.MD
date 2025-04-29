@@ -195,7 +195,7 @@ pytest tests/
 These coding standards are here to ensure that all contributors can work in a consistent, efficient, and collaborative environment. Following these practices will help keep the codebase clean and maintainable for years to come.
 
 Thank you for following the CTP-EOS coding standards! Happy coding! 🛸
-```
+
 
 
 
