@@ -180,7 +180,7 @@ Run the following commands to install required packages:
 
 ### 🧠 Contributor Guidelines
 
-- Use [CTP-EOS Coding Standards](docs/contributing.md#code-style)
+- Use [CTP-EOS Coding Standards](https://github.com/ctp-eos/ctp-eos/blob/main/CTP-EOS%20Coding%20Standards.MD)
 - Submit changes via pull request to the `dev` branch
 - Include clear commit messages and changelogs
 - Be respectful of our mission and community goals
