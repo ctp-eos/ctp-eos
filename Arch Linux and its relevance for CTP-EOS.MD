@@ -205,7 +205,7 @@ CTP-EOS originally began as a concept for an Arch-based distribution *(after Res
 
 However, to reach a broader user base and ensure easier adoption, the project will now expand to include ISOs in Ubuntu-fork formats. This shift aims to attract new users who are more familiar with Ubuntu's ecosystem, stability, and user-friendly setup. 
 
-The first release of CTP-EOS will likely be an Ubuntu-based fork, with the Arch-based scientific release following at a later stage. This phased approach allows CTP-EOS to grow its user base while still retaining its core vision of integrating CTP Energy Science/CTPSci Sciences with innovative open-source technologies.
+The first release of CTP-EOS will likely be an Ubuntu-based fork, with the Arch-based scientific release following at a later stage. This phased approach allows CTP-EOS to grow its user base while still retaining its core vision of integrating CTP Energy Science/CTPSci Sciences with innovative open-source technologies. **OTHER CTP-EOS Objectives: Get more users using Linux!**
 
 --- 
 
