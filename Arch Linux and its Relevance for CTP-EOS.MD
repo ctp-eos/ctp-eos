@@ -213,6 +213,7 @@ The first release of CTP-EOS will likely be an Ubuntu-based fork, with the Arch-
 
 Outside of *just* promoting CTPSci Sciences or forwarding **CTP is Disclosure** our objectives are simple:
 
+
 **Get more users using Linux and contributing/promoting Linux skillset development and growing the global Linux community!**
 
 --- 
