@@ -212,6 +212,7 @@ The first release of CTP-EOS will likely be an Ubuntu-based fork, with the Arch-
 ### OTHER CTP-EOS CORE OBJECTIVES
 
 Outside of *just* promoting CTPSci Sciences our objectives are simple:
+
 **Get more users using Linux and contributing/promoting Linux skillset development and growing the global Linux community!**
 
 --- 
