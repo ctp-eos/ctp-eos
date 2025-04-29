@@ -133,7 +133,7 @@ CTP-EOS, an Arch-based Linux distribution under development for CTP Energy Scien
 
 ## Competitive Landscape:
 Arch-based distros like [Manjaro](https://manjaro.org/) (user-friendly, pre-configured), [EndeavourOS](https://endeavouros.com/) (lightweight, Arch-like experience), and [Garuda Linux](https://garudalinux.org/) (gaming-optimized) set a high bar for CTP-EOS.  
-CTP-EOS’s unique selling point—its CTPSci branding and focus on consciousness science—may attract a niche community but risks alienating mainstream Linux users.
+CTP-EOS’s unique selling point—its CTPSci branding and focus on **consciousness science** — may attract a niche community but may alienate *some* mainstream Linux users.
 
 ### Opportunities:
 - By building on Arch, CTP-EOS can tap into the Arch Wiki and community for development support.
