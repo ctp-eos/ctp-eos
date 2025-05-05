@@ -54,9 +54,9 @@ A Kardashev Type III civilization must dominate its galaxy’s matter-energy out
 
 ---
 
-### 4. The CTP Advancement Spectrum (CTPAS)
+### 4. The CTP Advancement Spectrum (CTPCAS)
 
-In response to these limitations, we introduce the **CTP Advancement Spectrum** — a framework that measures civilizational development by consciousness-energy integration and dimensional mastery, not raw energy output:
+In response to these limitations, we introduce the **CTP Conscious Advancement Spectrum** — a framework that measures civilizational development by consciousness-energy integration and dimensional mastery, not *just* raw P-energy output:
 
 | **CTP Level** | **Description** |
 |---------------|-----------------|
