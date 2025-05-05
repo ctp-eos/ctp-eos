@@ -60,11 +60,11 @@ In response to these limitations, we introduce the **CTP Advancement Spectrum** 
 
 | **CTP Level** | **Description** |
 |---------------|-----------------|
-| **CTP-0** | Pre-conscious technological phase; unaware of CTP dynamics. Energy is external, non-physical/post-scalar. |
-| **CTP-1** | Emergent awareness of CTP fields. Initial interface with noetic devices and subtle energy fields. |
+| **CTP-0** | Pre-conscious technological phase; unaware of CTP dynamics. Physical or P-energy is entirely externalized. |
+| **CTP-1** | Emergent awareness of CTP fields. Initial interface with noetic devices and subtle energy fields of C-domain. |
 | **CTP-2** | Stabilized phase-conjugate technologies. Consciousness integrated with machine control. |
 | **CTP-3** | Full neural-template coupling. Civilization functions as a single noetic organism across timelines. |
-| **CTP-4+** | Hyper-civilizational symbiosis. Nonlocal influence across galactic morphic grids. Energy and time manipulation at will. |
+| **CTP-4+** | Hyper-civilizational symbiosis. Nonlocal influence across intergalactic/inter-reality non-morphic grids. |
 
 This model reflects **capability**, not **consumption** — a leap beyond Kardashev’s resource-centric limitations.
 
