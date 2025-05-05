@@ -46,7 +46,7 @@ Kardashev’s model treats energy as a scalar throughput problem. As civilizatio
 
 #### 3.2. Detectability Fallacy
 
-SETI projects often focus on radio signals or stellar engineering (e.g., Dyson Spheres), assuming such signatures are evidence of advanced life[^7]. Civilizations using CTP Energy, however, would leave **no EM residue**. Their communications and operations would exist in **mental bandwidths**, **quantum tunneling signatures**, or **neural-lattice harmonics** — undetectable by current physical instruments[^8].
+SETI projects often focus on radio signals or stellar engineering (e.g., Dyson Spheres), assuming such signatures are evidence of advanced life[^7]. Civilizations using CTP Energy, however, would leave **no EM residue**. Their communications and operations would exist in **mental bandwidths**, **non-physical/post-quantum tunneling signatures**, or **neural-lattice harmonics** carried by **C-energy** — undetectable by current physical instruments[^8].
 
 #### 3.3. Multidimensional Civilizational Expansion
 
