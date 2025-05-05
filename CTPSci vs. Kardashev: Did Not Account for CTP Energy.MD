@@ -82,7 +82,7 @@ The Kardashev Scale is an outdated framework grounded in 20th-century assumption
 
 ---
 
-### 📚 **Updated References with Amazon Associate Links**
+### 📚 **References**
 
 [^1]: Kardashev, N. S. (1964). "Transmission of Information by Extraterrestrial Civilizations." *Soviet Astronomy*, 8, 217.  
  *Original paper – not available on Amazon.*
