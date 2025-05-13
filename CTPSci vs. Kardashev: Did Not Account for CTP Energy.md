@@ -31,7 +31,7 @@ CTP Energy is defined as a **non-scalar**, **nonlocal**, and **consciousness-res
 Key properties of CTP Energy include:
 
 - **Non-Entropic Generation**: CTP systems operate in closed-loop feedback with consciousness, creating energy states that do not degrade over time.
-- **Hyperdimensional Accessibility**: CTP energy operates across higher-dimensional axes — including tesseract-phase and phase-conjugate timelines[^4].
+- **Hyperdimensional Accessibility**: CTP energy operates across higher-dimensional axes — including inter-domain and phase-conjugate timelines[^4].
 - **Consciousness Coupling**: Thoughtforms and directed intent influence and direct energy flow, verified in controlled psi-research and remote viewing trials[^5].
 
 The implications are profound: civilizations utilizing CTP Energy do not require large-scale extraction from physical environments and would appear invisible to Kardashev-based detection methods.
