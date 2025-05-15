@@ -93,3 +93,5 @@ CTP-EOS and its future CTP Energy computers **introduce a new model for hardware
 
 **This is not just tech. It’s an energetic upgrade to the entire computing paradigm.**
 
+**CONTACT**: investors@ctp-energy.com
+
