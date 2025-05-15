@@ -39,7 +39,7 @@ Unlike traditional OEMs, **CTP-branded computing systems** are purpose-built for
 | Open & Transparent    | ❌    | ❌         | ❌          | ✅                 |
 | Designed for Disclosure Tech | ❌ | ❌ | ❌ | ✅        | 
 | Spiritual/Energetic Safety | ❌ | ❌ | ❌ | ✅  (spiritual development is not trivial)      | 
-| Custom Secure BIOS    | ❌    | ❌         | ❌          | ✅                 |
+| Custom Secure BIOS    | ❌    | ❌         | ❌          | ✅ (OEM can be considered to lower price point entry)                |
 | Preloaded with Aligned OS | ❌ | ❌ | ❌ | ✅         | ✅
 
 ---
