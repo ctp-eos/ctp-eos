@@ -13,7 +13,7 @@
 ## The Vision
 CTP-EOS isn’t just another Linux distribution—it’s a *movement*. Built on the groundbreaking CTP Energy Science (CTPSci), discovered by Drazen Premate—the unsung successor to Nikola Tesla—CTP-EOS aims to bridge humanity’s technological present with its interstellar future. As the "Disclosure Linux distro suite," it’s designed to empower users with a secure, customizable OS while introducing a paradigm-shifting framework for consciousness (C-domain) that prepares us for extraterrestrial-level advancements. 
 
-With 74% of the universe’s mass-energy attributed to dark energy, 22% to dark matter, and just 0.4% to normal matter ([NASA, 2025](https://t.co/GeJqKGs4AT)), CTP-EOS reimagines this cosmic reality as C-energy (non-physical), T-energy (other C-ranges), and P-energy (observable universe), offering a bold new model for understanding existence itself.
+With 74% of the universe’s mass-energy attributed to dark energy, 22% to dark matter, and just 0.4% to normal matter ([NASA, 2025](https://t.co/GeJqKGs4AT)), CTP-EOS reimagines this cosmic reality as C-energy (non-physical), T-energy (other physical C-ranges presently undetectable), and P-energy (observable universe), offering a bold new model for understanding existence itself.
 
 ## What We’re Building
 CTP-EOS is a three-part ecosystem:  
