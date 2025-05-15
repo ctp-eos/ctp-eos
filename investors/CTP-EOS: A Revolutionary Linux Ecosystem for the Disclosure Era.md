@@ -42,7 +42,7 @@ We’re seeking:
 - Your support will be showcased on our GitHub and X platforms, aligning your brand with the future of humanity’s technological and spiritual evolution.  
 - **Community Advocates:** Spread the word using #CTPEOS, #CTPisDisclosure, and #Linuxcommunity.
 - Share our vision with #ufotwitter, #uaptwitter, and #uapx—because Disclosure isn’t just a conversation, it’s a movement we’re powering with CTP-EOS.
-- - **Early Investors:** Smart-money that recognizes market potential BEFORE anyone else *(others have dissmissed)*
+- **Early Investors:** Smart-money that recognizes market potential BEFORE anyone else *(others have dissmissed)*
 
 ## The Bigger Picture
 CTP-EOS is more than an operating system; it’s a gateway to the C-domain—the pathway to our higher mind and collective potential. Inspired by Drazen Premate’s vision, which builds on Nikola Tesla’s unfinished work, we’re pioneering a post-quantum science that Tesla predicted would outpace centuries of physical science progress in just a decade. 
