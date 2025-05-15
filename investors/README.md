@@ -1,4 +1,4 @@
-# CTP-EOS Hardware & Brand Market Strategy
+# CTP-EOS + CTP Hardware & Brand Market Strategy
 
 ## CTP-EOS: The Branded OS Launching a New Era of Computing
 
