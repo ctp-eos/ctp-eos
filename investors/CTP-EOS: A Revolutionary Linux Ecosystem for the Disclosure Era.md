@@ -18,10 +18,10 @@ With 74% of the universe’s mass-energy attributed to dark energy, 22% to dark 
 ## What We’re Building
 CTP-EOS is a three-part ecosystem:  
 1. **Part I: Universal Theming** - Custom wallpapers, GTK themes, and branding for any OS, inviting users into the CTP universe with a sleek, futuristic aesthetic (see our latest theming experiments on Arch, May 15, 2025, [@resofactor](https://x.com/resofactor/status/1923026490616074275)).  
-2. **Part II: Linux Powerhouse** - A multi-format Linux OS (Arch, Debian, Ubuntu) featuring:  
-   - Custom repos, window manager configs (e.g., i3-like setups), and PAMAC/Octopi package managers.  
+2. **Part II: Linux Powerhouse** - A multi-format Linux OS *(Arch, Ubuntu)* featuring:  
+   - Custom repos, window manager configs *(e.g., i3-like setups)*, and PAMAC/Octopi package managers.  
    - Security-first design with kernel hardening and sandboxing, inspired by Qubes OS.  
-   - Tools for creators (e.g., Stargate DAW) and developers, all 100% free under CC BY-NC 4.0.  
+   - Tools for creators *(e.g., Stargate, Tracktion Waveform DAW, video editors, and more)* and resources for developers.
 3. **Part III: C-Spiritual OS** - A non-physical operating system for your mind, tapping into the C-domain to unlock higher consciousness. This is the prerequisite for humanity to build CTP Gravitic Propulsion Systems and achieve interstellar travel in our lifetime.
 
 ## Why It Matters Now
