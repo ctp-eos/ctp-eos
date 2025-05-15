@@ -85,7 +85,8 @@ This user class has **never been targeted before** by any Linux distro:
 
 ---
 
-## VI. Ecosystem Value Projections
+## VI. Ecosystem Value Projections 
+*(intial figures projects - more industry/market analysis will follow/to come)*
 
 | Sector                            | Global Market | CTP Target Share | Projected Value |
 | --------------------------------- | ------------- | ---------------- | --------------- |
