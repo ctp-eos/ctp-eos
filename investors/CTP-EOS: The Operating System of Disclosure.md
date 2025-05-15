@@ -51,7 +51,9 @@ This user class has **never been targeted before** by any Linux distro:
 - Content creators
 - Alt-researchers
 - UFO/ET community
-- Holistic healers and sound artists *(coming reports/analysis will include global EDM/psytrance community figures)* 
+- Holistic healers 
+- Global spiritual/New Age/wellness industry *(Secondary reports/analysis will include global wellness holistic industry figures)* 
+- sound artists/desktop production/desktop producers *(other coming reports/analysis will include global EDM/psytrance community figures)* 
 
 > CTP-EOS unlocks a **new class of adopters and first-time Linux users**.
 
