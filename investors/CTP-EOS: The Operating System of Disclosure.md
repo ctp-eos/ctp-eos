@@ -129,3 +129,4 @@ CTP-EOS is more than a product. It’s a **technological embodiment of a global 
 
 > “**CTP is Disclosure. CTP-EOS is the architecture of that disclosure.**”
 
+**CONTACT**: investors@ctp-energy.com
