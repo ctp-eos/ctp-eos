@@ -259,6 +259,7 @@ For licensing inquiries or commercial use, please contact: 📧 **legal@ctp-eos.
 ![CTP Spiritual Software](https://img.shields.io/badge/CTP_Spiritual_Software-Transcendent_Tech-purple?logo=akashic&logoColor=white) ![Linux](https://img.shields.io/badge/platform-Linux-FCC624?logo=linux&logoColor=black) ![Disclosure](https://img.shields.io/badge/Disclosure-Yes-cyan) ![Drazen - CTP](https://img.shields.io/badge/Drazen-CTP-blue?logo=lightning&logoColor=white)
 
 
+> **Affiliate Disclosure**: Some referenced book titles on this GitHub profile may contain Amazon affiliate links. As an Amazon Associate, CTP Energy earns from qualifying purchases. Proceeds support our research and science initiatives.
 
 
 
