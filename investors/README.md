@@ -75,7 +75,7 @@ By creating a **unified OS + hardware stack**, the CTP brand captures:
 - **Higher-margin device sales** (preloaded with value-add software)
 - **Longer-term OS loyalty** through CTP-EOS updates
 - **Vertically integrated brand identity** (from kernel to keyboard)
-- **First-mover advantage** in the Disclosure tech niche - better positioned than JUST *Alienware*)
+- **First-mover advantage** in the Disclosure tech niche *(- better positioned than JUST **Alienware**)*
 
 Projected ecosystem synergy value by 2030:
 
