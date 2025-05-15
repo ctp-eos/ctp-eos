@@ -10,7 +10,9 @@ However, certain project-based subsidiaries or **Special Purpose Vehicles (SPVs)
 
 These offerings will be conducted as **distinct, legally separated entities**, and subject to their own compliance, disclosure, and investor qualification processes. All forward-looking statements included herein are subject to known and unknown risks, assumptions, and uncertainties. 
 
-No assurances are made regarding future performance, technological viability, or investment outcomes. Interested parties are encouraged to perform independent due diligence and consult with qualified legal and financial advisors before making investment decisions. The Company assumes **no obligation to update** this notice or any accompanying materials unless required by law.
+No assurances are made regarding future performance, technological viability, or investment outcomes. 
+
+Interested parties are encouraged to perform independent due diligence and consult with qualified legal and financial advisors before making investment decisions. The Company assumes **no obligation to update** this notice or any accompanying materials unless required by law.
 
 --- 
 
