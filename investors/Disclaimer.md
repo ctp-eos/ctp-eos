@@ -14,6 +14,6 @@ The Company assumes **no obligation to update** this notice or any accompanying 
 
 --- 
 
-**Contact:** 
+**Contact:**   
 Investors: (investors@ctp-energy.com)  
 Legal: (legal@ctp-energy.com)  
