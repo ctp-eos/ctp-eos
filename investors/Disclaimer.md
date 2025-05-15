@@ -12,6 +12,8 @@ All forward-looking statements included herein are subject to known and unknown 
 
 The Company assumes **no obligation to update** this notice or any accompanying materials unless required by law.
 
+--- 
+
 **Contact:** 
-Investors: (investors@ctp-energy.com)
-Legal: (legal@ctp-energy.com)
+Investors: (investors@ctp-energy.com)  
+Legal: (legal@ctp-energy.com)  
