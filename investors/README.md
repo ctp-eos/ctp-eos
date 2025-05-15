@@ -38,9 +38,9 @@ Unlike traditional OEMs, **CTP-branded computing systems** are purpose-built for
 | Proprietary Lock-In   | ✅    | ✅         | ✅          | ❌                 |
 | Open & Transparent    | ❌    | ❌         | ❌          | ✅                 |
 | Designed for Disclosure Tech | ❌ | ❌ | ❌ | ❌        | ✅
-| Spiritual/Energetic Safety | ❌ | ❌ | ❌ | ✅        |
+| Spiritual/Energetic Safety | ❌ | ❌ | ❌ | ✅  (spiritual development is not trivial)      | 
 | Custom Secure BIOS    | ❌    | ❌         | ❌          | ✅                 |
-| Preloaded with Aligned OS | ❌ | ❌ | ❌ | ✅         |
+| Preloaded with Aligned OS | ❌ | ❌ | ❌ | ✅         | ✅
 
 ---
 
