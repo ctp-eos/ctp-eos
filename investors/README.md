@@ -39,7 +39,7 @@ Unlike traditional OEMs, **CTP-branded computing systems** are purpose-built for
 | Open & Transparent    | ❌    | ❌         | ❌          | ✅                 |
 | Designed for Disclosure Tech | ❌ | ❌ | ❌ | ✅        | 
 | Spiritual/Energetic Safety | ❌ | ❌ | ❌ | ✅  (spiritual development is not trivial)      | 
-| Custom Secure BIOS    | ❌    | ❌         | ❌          | ✅ (OEM can be considered to lower price point entry)                |
+| Custom Secure BIOS    | ❌    | ❌         | ❌          | ✅ (Present OEM BIOS on market can be considered to lower price point entry)                |
 | Preloaded with Aligned OS | ❌ | ❌ | ❌ | ✅         | ✅
 
 ---
@@ -75,7 +75,7 @@ By creating a **unified OS + hardware stack**, the CTP brand captures:
 - **Higher-margin device sales** (preloaded with value-add software)
 - **Longer-term OS loyalty** through CTP-EOS updates
 - **Vertically integrated brand identity** (from kernel to keyboard)
-- **First-mover advantage** in the Disclosure tech niche
+- **First-mover advantage** in the Disclosure tech niche - better positioned than JUST *Alienware*)
 
 Projected ecosystem synergy value by 2030:
 
@@ -87,7 +87,7 @@ Projected ecosystem synergy value by 2030:
 
 ## Final Word
 
-CTP-EOS and its future CTP Energy computers **introduce a new model for hardware design** — one that is **conscious**, **nonlocal-ready**, and **Disclosure-aligned**.
+CTP-EOS and its future CTP Energy computers **introduce a new model for hardware design** — one that is **conscious**, and **Disclosure-aligned**.
 
 > In a world ready to shift, CTP offers the first operating system and hardware suite *built for that shift.*
 
