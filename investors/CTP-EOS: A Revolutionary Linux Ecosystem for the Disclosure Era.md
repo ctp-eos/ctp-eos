@@ -40,7 +40,8 @@ We’re seeking:
 - Let’s make CTP-EOS the go-to distro for the Disclosure era.  
 - **Sponsors & Donors:** Become a CTP Energy Project Sponsor (CTPEPS) to fuel this revolution.
 - Your support will be showcased on our GitHub and X platforms, aligning your brand with the future of humanity’s technological and spiritual evolution.  
-- **Community Advocates:** Spread the word using #CTPEOS, #CTPisDisclosure, and #Linuxcommunity. Share our vision with #ufotwitter, #uaptwitter, and #uapx—because Disclosure isn’t just a conversation, it’s a movement we’re powering with CTP-EOS.
+- **Community Advocates:** Spread the word using #CTPEOS, #CTPisDisclosure, and #Linuxcommunity.
+- Share our vision with #ufotwitter, #uaptwitter, and #uapx—because Disclosure isn’t just a conversation, it’s a movement we’re powering with CTP-EOS.
 - - **Early Investors:** Smart-money that recognizes market potential BEFORE anyone else *(others have dissmissed)*
 
 ## The Bigger Picture
