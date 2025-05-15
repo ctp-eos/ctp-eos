@@ -25,7 +25,8 @@ CTP-EOS is a three-part ecosystem:
 3. **Part III: C-Spiritual OS** - A non-physical operating system for your mind, tapping into the C-domain to unlock higher consciousness. This is the prerequisite for humanity to build CTP Gravitic Propulsion Systems and achieve interstellar travel in our lifetime.
 
 ## Why It Matters Now
-The timing couldn’t be more critical. As global interest in UAP/UFO disclosure surges—evidenced by high-profile SCIF meetings with Rep. Eric Burlison, David Grusch, and AARO (May 14, 2025, [@AskaPol_UAPs](https://x.com/AskaPol_UAPs/status/1922779176836215046))—CTP-EOS positions itself as the technological backbone of the #Disclosure movement. Our platform doesn’t just offer software; it offers a new way of thinking, aligning with the consciousness shift ***(C-shift)*** that’s already underway. On X, #ufotwitter and #uaptwitter communities are buzzing, yet they lack a unifying tech platform—CTP-EOS fills that gap.
+The timing couldn’t be more critical. As global interest in UAP/UFO disclosure surges—evidenced by high-profile SCIF meetings with Rep. Eric Burlison, David Grusch, and AARO (May 14, 2025, [@AskaPol_UAPs](https://x.com/AskaPol_UAPs/status/1922779176836215046))—CTP-EOS positions itself as the technological backbone of the #Disclosure movement. Our platform doesn’t just offer software; it offers a new way of thinking, aligning with the consciousness shift ***(C-shift)*** that’s already underway.   
+On X, #ufotwitter and #uaptwitter communities are buzzing, yet they lack a unifying tech platform—CTP-EOS fills that gap.
 
 ## Current Momentum
 - **Theming Breakthroughs:** Our May 15, 2025, post showcases a stunning Arch-based desktop with custom GTK themes, using PAMAC for package management. We’re calling on #Linuxdevs to help structure ISOs/installers for Debian/Ubuntu forks, potentially using Octopi, to expand our reach.  
