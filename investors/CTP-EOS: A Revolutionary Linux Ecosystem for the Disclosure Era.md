@@ -35,13 +35,17 @@ The timing couldn’t be more critical. As global interest in UAP/UFO disclosure
 
 ## Call to Action
 We’re seeking:  
-- **Linux Developers:** Join us to build ISOs, refine installers (Calamares, Ubiquity), and enhance security features. Let’s make CTP-EOS the go-to distro for the Disclosure era.  
-- **Sponsors & Donors:** Become a CTP Energy Project Sponsor (CTPEPS) to fuel this revolution. Your support will be showcased on our GitHub and X platforms, aligning your brand with the future of humanity’s technological and spiritual evolution.  
+- **Linux Developers:** Join us to build ISOs, refine installers (Calamares, Ubiquity), and enhance security features.
+- Let’s make CTP-EOS the go-to distro for the Disclosure era.  
+- **Sponsors & Donors:** Become a CTP Energy Project Sponsor (CTPEPS) to fuel this revolution.
+- Your support will be showcased on our GitHub and X platforms, aligning your brand with the future of humanity’s technological and spiritual evolution.  
 - **Community Advocates:** Spread the word using #CTPEOS, #CTPisDisclosure, and #Linuxcommunity. Share our vision with #ufotwitter, #uaptwitter, and #uapx—because Disclosure isn’t just a conversation, it’s a movement we’re powering with CTP-EOS.
 - - **Early Investors:** Smart-money that recognizes market potential BEFORE anyone else *(others have dissmissed)*
 
 ## The Bigger Picture
-CTP-EOS is more than an operating system; it’s a gateway to the C-domain—the pathway to our higher mind and collective potential. Inspired by Drazen Premate’s vision, which builds on Nikola Tesla’s unfinished work, we’re pioneering a post-quantum science that Tesla predicted would outpace centuries of physical science progress in just a decade. While the physical universe (0.4% P-energy) is what we see, CTP-EOS taps into the unseen 74% C-energy and 22% T-energy, redefining gravity ([Thread 1](https://x.com/CloserToTruth/status/1922995379953418736)) and reality itself. This isn’t speculative fiction—it’s the foundation for CTP Technologies like gravitic propulsion, which will one day carry humanity to the stars.
+CTP-EOS is more than an operating system; it’s a gateway to the C-domain—the pathway to our higher mind and collective potential. Inspired by Drazen Premate’s vision, which builds on Nikola Tesla’s unfinished work, we’re pioneering a post-quantum science that Tesla predicted would outpace centuries of physical science progress in just a decade. 
+
+While the physical universe (0.4% P-energy) is what we see, CTP-EOS taps into the unseen 74% C-energy and 22% T-energy, redefining gravity ([Thread 1](https://x.com/CloserToTruth/status/1922995379953418736)) and reality itself. This isn’t speculative fiction—it’s the foundation for CTP Technologies like gravitic propulsion, which will one day carry humanity to the stars *(within our lifetime!)*.
 
 ## Roadmap Ahead
 - **Short-Term (Q3-Q4 2025):** Release initial Ubuntu/Arch-based ISOs with custom theming and security features. Expand to Debian/Ubuntu forks with community support.  
