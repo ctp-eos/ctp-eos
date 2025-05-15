@@ -31,7 +31,7 @@ On X, #ufotwitter and #uaptwitter communities are buzzing, yet they lack a unify
 ## Current Momentum
 - **Theming Breakthroughs:** Our May 15, 2025, post showcases a stunning Arch-based desktop with custom GTK themes, using PAMAC for package management. We’re calling on #Linuxdevs to help structure ISOs/installers for Debian/Ubuntu forks, potentially using Octopi, to expand our reach.  
 - **Community Building:** We’ve created a community repository (May 15, 2025, [@resofactor](https://x.com/resofactor/status/1922964703401082929)) and are rallying contributors for theming, security, and documentation.  
-- **Cultural Resonance:** We’re engaging the #CTPisDisclosure movement, tying CTP-EOS to broader discussions on gravity as a "code" in CTPEnergy ([Thread 1](https://x.com/Cl **Tructure (TrThread1)) and the cosmic energy breakdown ([Thread 2](https://x.com/PhysInHistory/status/1922982351170068697)), positioning us as thought leaders in this space.
+- **Cultural Resonance:** We’re engaging the #CTPisDisclosure movement, tying CTP-EOS to broader discussions on gravity as a "code" in CTPEnergy and the cosmic energy breakdown ([Thread 2](https://x.com/PhysInHistory/status/1922982351170068697)), positioning us as thought leaders in this space.
 - **Early Investors:** Will be hailed, cited, documented, and logged as supporting CTP before ANYONE else.
 
 ## Call to Action
