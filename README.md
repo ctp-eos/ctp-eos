@@ -22,10 +22,13 @@ CTP-EOS™ is more than software. It is a transformational platform—**a bridge
 
 *Linux-based Operating System for Creative & Secure Use*
 
-* Based on Linux with Qubes-like VM isolation
-* Hardened security with postquantum cryptographic goals
-* Developer tools for metaphysical science simulation
-* Supports modular tiling window managers and AI-aided shell scripting
+* **Security**: Based on Linux with Qubes-like VM isolation
+* **Harder OS**: Hardened security with postquantum cryptographic goals
+* **Developers**: Developer tools for conscious coding, digital applications, to metaphysical science simulation
+* **Multimedia applications**: from music, recording, multitracking, VSTs, audio software, video editing, to content creation
+* **Office tools**: full office tools and business tools for the spiritual or **Conscious Entrepreneur**.
+* **Popular Linux desktop environments**: from KDE, Gnome, Cinnamon, Budgie, Mate, XFCE, and many others...
+* **Fully customizable UI**: Supports modular tiling window managers and AI-aided shell scripting
 
 #### **PART III: THE METAPHYSICAL OPERATING SYSTEM**
 
@@ -37,7 +40,7 @@ CTP-EOS™ is more than software. It is a transformational platform—**a bridge
 * CTPSci Curriculum
 * CTPSci Curriculum Development
 * CTPSci Education
-* CTPSci Entrainment
+* CTPSci Entrainment *(personal conscious activiatation and higher consciousness development)*
 * CTPSci Training *(some to be Free Open-Source others to be corporate seminars and workshops)*
 
 ---
@@ -78,7 +81,14 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
   - 2019 - Drazen passes in state ward ([*by then, Drazen was mentally broken after several years of hardships*](https://www.buzzfeednews.com/article/heidiblake/conservatorship-investigation-free-britney-spears)).<br>  
   - 2021 - December 2021 *Resofactor* learns of Drazen's passing.
   - 2022 - *Resofactor* initiates and launches **CTP Phase II**.
+  - 2023 - David Grush story breaks mainstream news
+  - 2024 - CTP-EOS conceived
+         - Birth of CTP is Disclosure Movement
+         - Fall 2024 - creation of **CTP-EOS GitHub**
   - 2025 - Social media still/lost seeking answers to UFO/UAP phenomena - only focusing on mainstream reporting and news.
+         - Reso continues pressing CTPSci Sciences forward
+         - CTP's **Call to Purpose Campaign** conception 
+         - CTP Conscious Development Project (CTPCDP) Open-Sourced    
 
 ---
 
