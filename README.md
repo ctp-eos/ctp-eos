@@ -1,8 +1,8 @@
 ### 🚀 What is CTP-EOS™?
 
-**CTP-EOS™ (The CTP Energy Operating System)** is a next-generation Linux distribution designed to integrate metaphysical sciences, advanced extraterrestrial research, and bleeding-edge postquantum computing concepts. It is the first operating system built on the principles of **CTP Energy Science**—a radical framework exploring consciousness, nonlocality, and intelligent design within energetic systems.
+**CTP-EOS™ (The CTP Energy Operating System)** or the ***CTP Extraterretrial Operating System*** is a next-generation Linux distribution designed to integrate metaphysical sciences, advanced extraterrestrial research, and bleeding-edge post-quantum computing concepts. It is the first operating system built on the principles of **CTP Energy Science**—a radical framework exploring consciousness, non-locality, and intelligent design within energetic systems.
 
-CTP-EOS™ is more than software. It is a transformational platform—**a bridge between conventional computation and metaphysical activation**.
+CTP-EOS™ is more than software. It is a transformational platform—**a bridge between conventional computation and metaphysical activation** *(for one's mind)*.
 
 Whether you're a designer, developer, mystic, or investor, **CTP-EOS™ is your entry point into the future of human evolution.**
 
@@ -55,16 +55,19 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
  - Began 20 years of study, therein, without funding or capital.
 * **1990s**: Continued undisclosed breakthroughs and pioneering into C-domain.
 * **2000s**: Conducted basic experiments and remote information transport
-  - 2004 initial outreach to Nikola Tesla groups worldwide, proclaiming discovery of 'CTP'; the *non-physical science* and *greater energy* force Nikola Tesla never solved during his lifetime. All Tesla groups met Drazen with dismissal or disregard.
+  - 2004 - Initial outreach to Nikola Tesla groups worldwide, proclaiming discovery of 'CTP'; the *non-physical science* and *greater energy* force Nikola Tesla never solved during his lifetime. All Tesla fan-groups met Drazen with dismissal or disregard.
   - 2004 - first published pages on original CTP Energy site.
   - 2005 - Resofactor joins Drazen's original CTP Phase 1 operations full-time.
-  - 2006 - MySpace campaigns met with severe backlash, hostility, and contempt. Two years looking for angels/capital for CTP.
+  - 2006 - MySpace campaigns met with severe backlash, hostility, and contempt.
+    - Two to four years looking for angels/capital for CTP.
+    - Interest shown, however, no committing interests close.
+    - *(Ontologiclal filters to CTP override most people's thinking processes - when first exposed)*
   - 2008 - Drazen shelved CTP to focus on NEWEUROPE as primary entrepreneurial focus.
   - 2009 - Receives LOI from Dubai group for themepark venture. Returns to US for early stage capital. No movement from US sources.
   - 2012 - Drazen never receives support for any venture proposals. Everything collapses.
   - 2013 - Drazen ends up homeless of streets of Orlando. (final years much hardships similar to Nikola Tesla's)
   - 2016 - Drazen ends up in state ward, forgotten, destiute.
-  - 2019 - Drazen passes in state ward ([by then, broken after several years of hardships](https://www.buzzfeednews.com/article/heidiblake/conservatorship-investigation-free-britney-spears)).  
+  - 2019 - Drazen passes in state ward ([*by then, Drazen was mentally broken after several years of hardships*](https://www.buzzfeednews.com/article/heidiblake/conservatorship-investigation-free-britney-spears)).  
 
 **CTP-EOS™ is our tribute, memory, dedication, and extension of his life's work.**
 
@@ -72,13 +75,13 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
 
 ### 🌀 What is CTP Energy Science?
 
-**CTP Energy Science (CTPSci)** posits that all living systems interface with an intelligent, nonlocal energy field—the **C-domain**. This domain is not bound by space-time but is instead structured around harmonic frequency states, intention, and universal syntax.
+**CTP Energy Science (CTPSci)** posits that all living systems interface with an intelligent, non-local energy field—the **C-domain** behind the creation of physical matter & energy. This domain is not bound by space-time but is instead structured around harmonic frequency states, intention, and universal syntax - above/outside physical quantum states.
 
 * **Biocommunication** is not pseudoscience, but a measurable effect
-* **Plants, humans, and machines** all interact with C-domain data via the C-body.
-* **Software can be designed to engage this layer** of intelligent causality
+* **Plants, humans and all living biological entities** all interact with C-domain data via the C-body.
+* **Software can *(eventually)* be designed to engage this layer** of intelligent causality
 
-**CTP-EOS™ is the first operating system that operates on this metaphysical layer.**
+**CTP-EOS™ is the first operating system that will entrain the mind to further ***interface*** with this C-domain layer.**
 
 ---
 
@@ -90,7 +93,7 @@ We are not building just another Linux fork—we are building:
 
 * A **spiritual-technical bridge** to future knowledge systems
 * A **secure OS** for researchers and consciousness practitioners
-* A **living artifact** of postquantum metaphysical science
+* A **living artifact** of postquantum non-hysical science *(for higher conscious development of one's C-spiritual or C-capacities)*
 
 As disclosure accelerates and energy technologies are unveiled, **CTP-EOS™ offers an entry point into human-sovereign evolution**.
 
@@ -104,7 +107,7 @@ We are actively building an interdimensional development team. Whether you're co
 
 * Contribute to our GitHub repos (CTPwm, CTP-core, metaphysics-sim)
 * Create new tiling WMs or develop plugins for energy monitoring
-* Help package, theme, and harden our Arch-based ISO
+* Help package, theme, and harden our multi format-based Linux ISOs ***(Arch/Debian forks)***
 
 #### 🎨 Artists & Designers
 
@@ -113,8 +116,13 @@ We are actively building an interdimensional development team. Whether you're co
 
 #### 🧠 Researchers
 
-* Validate energetic interaction with hardware/software
+* Validate energetic interaction between C/P-bodies
+* Document conscious expansion
+* Empower the C-body
+* Expand Mind/conscious capacities
 * Explore CTPSci protocols within psi labs or remote viewing experiments
+* CTP Practicioners become their own CTPSci Scientists *(independently)*
+  - *("Your mind is your own C-domain laboratoryᵀᴹ!")*
 
 #### 💸 Donors & Investors
 
@@ -124,7 +132,7 @@ We are actively building an interdimensional development team. Whether you're co
 
 📨 Contact us: \[[info@ctp-energy.com](mailto:info@ctp-energy.com]
 
-GitHub (github.com/ctp-eos)
+### GitHub (https://github.com/ctp-eos)
 
 ---
 
@@ -136,7 +144,7 @@ In a world waking up to suppressed tech, nonlocality, and planetary transformati
 
 Join us.
 
-> **CTP-EOS™: Reimagining Human Software for the Stars.**
+> **CTP-EOS™: Reimagining Human C-Software for the Stars.**
 
 ---
 
