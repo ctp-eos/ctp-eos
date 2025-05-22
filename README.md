@@ -140,7 +140,7 @@ We are actively building an interdimensional development team. Whether you're co
 
 * CTP-EOS Community/Social Developers *(growing the CTP-EOS community)*
 * CTP-EOS requires a co-lead developer to produce the actual ISO installers
-  - *(Calamares-Arch /Ubuntu forks i.e. Subiquity, Uubiquity, Cubic)*
+  - *(Calamares-Arch /Ubuntu forks i.e. Subiquity, Ubiquity, Cubic installers)*
 * Contribute to our GitHub repos *(CTPwm, CTP-core, metaphysics-sim)*
 * Create new tiling WMs or develop plugins
 * Custom CTP-EOS Window Managers *(including .configs/dot files)*
