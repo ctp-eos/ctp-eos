@@ -21,7 +21,7 @@ CTP-EOS™ is more than software. It is a transformational platform—**a bridge
 
 *Linux-based Operating System for Creative & Secure Use*
 
-* Based on Arch Linux with Qubes-like VM isolation
+* Based on Linux with Qubes-like VM isolation
 * Hardened security with postquantum cryptographic goals
 * Developer tools for metaphysical science simulation
 * Supports modular tiling window managers and AI-aided shell scripting
@@ -72,8 +72,8 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
   - 2016 - Drazen ends up in state ward, forgotten, destitute.<br>
   - 2019 - Drazen passes in state ward ([*by then, Drazen was mentally broken after several years of hardships*](https://www.buzzfeednews.com/article/heidiblake/conservatorship-investigation-free-britney-spears)).<br>  
   - 2021 - December 2021 *Resofactor* learns of Drazen's passing.
-  - 2022 - Resofactor initiates and launches **CTP Phase II**.
-  - 2025 - Social media still seeking answers to UFO/UAP phenomena - only focusing on mainstream reporting and mainstream news.
+  - 2022 - *Resofactor* initiates and launches **CTP Phase II**.
+  - 2025 - Social media still/lost seeking answers to UFO/UAP phenomena - only focusing on mainstream reporting and news.
   
 **CTP-EOS™ is our tribute, memory, dedication, and extension of his life's work.**
 
@@ -112,7 +112,7 @@ We are actively building an interdimensional development team. Whether you're co
 
 #### 👨‍💻 Developers
 
-* Contribute to our GitHub repos (CTPwm, CTP-core, metaphysics-sim)
+* Contribute to our GitHub repos *(CTPwm, CTP-core, metaphysics-sim)*
 * Create new tiling WMs or develop plugins for energy monitoring
 * Help package, theme, and harden our multi format-based Linux ISOs ***(Arch/Debian forks)***
 
@@ -135,7 +135,7 @@ We are actively building an interdimensional development team. Whether you're co
 
 * Sponsor ongoing dev or science projects
 * Get early access to postquantum integration tools
-* Fund metaphysical interface devices (e.g. plant UI, subtle field sensors)
+* Fund interface devices to CTP R&D
 
 📨 Contact us: \[[info@ctp-energy.com](mailto:info@ctp-energy.com]
 
@@ -151,7 +151,7 @@ In a world waking up to suppressed tech, nonlocality, and planetary transformati
 
 Join us.
 
-> **CTP-EOS™: Reimagining Human C-Software for the Stars.**
+> **CTP-EOS™: Reimagining C-Software for the Next Stage of Higher Conscious Evolution.**
 
 ---
 
