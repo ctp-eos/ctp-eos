@@ -153,7 +153,7 @@ We are actively building an interdimensional development team. Whether you're co
 * Document conscious expansion
 * Empower the C-body
 * Expand Mind/conscious capacities
-* Empower T-energy connection/bridge between non-physical C/physica P-bodies
+* Empower T-energy connection/bridge between non-physical C/physical P-bodies
 * Explore CTPSci protocols within psi labs or remote viewing experiments
 * CTP Practitioner(s) become their own CTPSci Scientists *(independently)*
   - *("Your mind is your own C-domain laboratoryᵀᴹ!")*
