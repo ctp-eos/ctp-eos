@@ -44,13 +44,13 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
 #### Timeline Highlights:
 
 * **1960-1970s**: Foreign Exchange Student from Crotia.<br>
-- Attended High School in Erie, Pennsylvania.<br>
-- Attended college in US.<br>
- - Drazen Premate received his bachelor's degree in physics from the University of Central Florida.<br>
- - Drazen Premate received his Master's degree in Space Technology from the Florida Institute of Technology (FIT).<br>
+  - Attended High School in Erie, Pennsylvania.<br>
+  - Attended college in US.<br>
+   - Drazen Premate received his bachelor's degree in physics from the University of Central Florida.<br>
+   - Drazen Premate received his Master's degree in Space Technology from the Florida Institute of Technology (FIT).<br>
 * **1980s**: Formulated CTPSci—his model for CTP Energy intelligence<br>
- - First discovery of the C-domain, March 1985.<br>
- - Began 20 years of study, therein, without funding or capital.<br>
+  - First discovery of the C-domain, March 1985.<br>
+  - Began 20 years of study, therein, without funding or capital.<br>
 * **1990s**: Continued undisclosed breakthroughs and pioneering into C-domain.<br>
 * **2000s**: Conducted basic experiments and remote information transport<br>
   - 2004 - Initial outreach to Nikola Tesla groups worldwide, proclaiming discovery of 'CTP';<br>
