@@ -84,11 +84,11 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
 
 **CTP-EOS™ is our tribute, memory, dedication, and extension of his life's work.**
 
-**CTP-EOS™ is also to be one of our first CTP products-to-market.**
+[**CTP-EOS™](https://linkedin.com/showcase/ctp-eos) is also to be one of our first CTP **products-to-market**.
 
 ---
 
-### 🌀 What is CTP Energy Science?
+### 🌀 What is CTP Energy Science (CTPSci)?
 
 **CTP Energy Science (CTPSci)** posits that all living systems interface with an intelligent, non-local energy field—the **C-domain** behind the creation of all physical matter & energy. This domain is not bound by space-time but is instead structured around harmonic frequency states, intention, and universal syntax - above/outside physical quantum states.
 
