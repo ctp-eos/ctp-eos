@@ -82,10 +82,12 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
   - 2019 - Drazen passes in state ward ([*by then, Drazen was mentally broken after several years of hardships*](https://www.buzzfeednews.com/article/heidiblake/conservatorship-investigation-free-britney-spears)).<br>  
   - 2021 - December 2021 *Resofactor* learns of Drazen's passing.<br>
   - 2022 - *Resofactor* initiates and launches **CTP Phase II**.<br>
-  - 2023 - David Grush story breaks mainstream news.<br>
+  - 2023 - David Grusch story breaks mainstream news.<br>
+         - Public interest in UFOs/UAPS hits new all-time high.<br>
          - Early stages of **CTP is Disclosure** is intiated on social media.<br>
          - Most UFO activists either dismiss, ignore, or go into ontological shock.<br>
          - Reso still struggles for support. Greatly ignored by 'peers'.
+         - All major big name UFO media pundits and podcasters 100% unresponsive.
   - 2024 - CTP-EOS™ conceived<br>
          - Reso envisions CTP-EOS™ as the *Disclosure Linux* unlike any other *distro*.<br>
          - Birth of *official* CTP is Disclosure Movement (CTPIDM).<br>
