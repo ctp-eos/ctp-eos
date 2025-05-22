@@ -40,7 +40,7 @@ CTP-EOS™ is more than software. It is a transformational platform—**a bridge
 * CTPSci Curriculum
 * CTPSci Curriculum Development
 * CTPSci Education
-* CTPSci Entrainment *(personal conscious activiatation and higher consciousness development)*
+* CTPSci Entrainment *(personal conscious activatation and higher consciousness development)*
 * CTPSci Training *(some to be Free Open-Source others to be corporate seminars and workshops)*
 
 ---
