@@ -79,17 +79,17 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
   - 2013 - Drazen ends up homeless of streets of Orlando. *(final years much hardships similar to Nikola Tesla's)*<br>
   - 2016 - Drazen ends up in state ward, forgotten, destitute.<br>
   - 2019 - Drazen passes in state ward ([*by then, Drazen was mentally broken after several years of hardships*](https://www.buzzfeednews.com/article/heidiblake/conservatorship-investigation-free-britney-spears)).<br>  
-  - 2021 - December 2021 *Resofactor* learns of Drazen's passing.
-  - 2022 - *Resofactor* initiates and launches **CTP Phase II**.
-  - 2023 - David Grush story breaks mainstream news
-  - 2024 - CTP-EOS conceived
-         - Birth of CTP is Disclosure Movement
-         - Fall 2024 - creation of **CTP-EOS GitHub**
-  - 2025 - Social media still/lost seeking answers to UFO/UAP phenomena - only focusing on mainstream reporting and news.
-         - Reso continues pressing CTPSci Sciences forward
-         - CTP's **Call to Purpose Campaign** conception 
-         - CTP Conscious Development Project (CTPCDP) Open-Sourced    
-
+  - 2021 - December 2021 *Resofactor* learns of Drazen's passing.<br>
+  - 2022 - *Resofactor* initiates and launches **CTP Phase II**.<br>
+  - 2023 - David Grush story breaks mainstream news<br>
+  - 2024 - CTP-EOS conceived<br>
+         - Birth of CTP is Disclosure Movement<br>
+         - Fall 2024 - creation of **CTP-EOS GitHub**<br>
+  - 2025 - Social media still/lost seeking answers to UFO/UAP phenomena - only focusing on mainstream reporting and news.<br>
+         - Reso continues pressing CTPSci Sciences forward<br>
+         - CTP's **Call to Purpose Campaign** conception<br>
+         - CTP Conscious Development Project (CTPCDP) Open-Sourced<br>
+         
 ---
 
 **CTP-EOS™ is our tribute, memory, dedication, and extension of his life's work.**
