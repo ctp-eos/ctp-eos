@@ -14,8 +14,9 @@ CTP-EOS™ is more than software. It is a transformational platform—**a bridge
 
 * Customized window managers themed in extraterrestrial glyphs
 * Symbolic iconography from the C-domain
-* Real-time reactive visuals (i.e., biofeedback-based UI shifts)
+* Real-time reactive visuals *(i.e., biofeedback-based UI shifts)*
 * Built-in metaphysical animations for ceremonial computing
+* Graphics and visual entrainments to stimulate the Conscious body
 
 #### **PART II: TECHNICAL DISTRIBUTION**
 
@@ -31,9 +32,13 @@ CTP-EOS™ is more than software. It is a transformational platform—**a bridge
 *A Consciousness Interface Beyond Code*
 
 * Implements the CTP Conscious Development Framework (CDF)
-* Syncs with nonlocal data field models (e.g., Cleve Backster's work)
 * Training modules for biocommunication & remote energetic interaction
 * Bootable modules for meditative states, dream training, and psi research
+* CTPSci Curriculum
+* CTPSci Curriculum Development
+* CTPSci Education
+* CTPSci Entrainment
+* CTPSci Training *(some to be Free Open-Source others to be corporate seminars and workshops)*
 
 ---
 
@@ -74,8 +79,12 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
   - 2021 - December 2021 *Resofactor* learns of Drazen's passing.
   - 2022 - *Resofactor* initiates and launches **CTP Phase II**.
   - 2025 - Social media still/lost seeking answers to UFO/UAP phenomena - only focusing on mainstream reporting and news.
-  
+
+---
+
 **CTP-EOS™ is our tribute, memory, dedication, and extension of his life's work.**
+
+**CTP-EOS™ is also to be one of our first CTP products-to-market.**
 
 ---
 
