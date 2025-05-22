@@ -53,7 +53,9 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
  - Began 20 years of study, therein, without funding or capital.<br>
 * **1990s**: Continued undisclosed breakthroughs and pioneering into C-domain.<br>
 * **2000s**: Conducted basic experiments and remote information transport<br>
-  - 2004 - Initial outreach to Nikola Tesla groups worldwide, proclaiming discovery of 'CTP'; the *non-physical science* and *greater energy* force Nikola Tesla never solved during his lifetime. All Tesla fan-groups met Drazen with dismissal or disregard.<br>
+  - 2004 - Initial outreach to Nikola Tesla groups worldwide, proclaiming discovery of 'CTP';<br>
+    the *non-physical science* and *greater energy* force Nikola Tesla never solved during his lifetime.<br>
+    All Tesla fan-groups met Drazen with dismissal or disregard.<br>
   - 2004 - first published pages on original CTP Energy site.<br>
   - 2005 - Resofactor joins Drazen's original CTP Phase 1 operations full-time.<br>
   - 2006 - MySpace campaigns met with severe backlash, hostility, and contempt.<br>
@@ -64,7 +66,7 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
   - 2009 - Receives LOI from Dubai group for themepark venture. Returns to US for early stage capital. No movement from US sources.<br>
   - 2012 - Drazen never receives support for any venture proposals. Everything collapses.<br>
   - 2013 - Drazen ends up homeless of streets of Orlando. *(final years much hardships similar to Nikola Tesla's)*<br>
-  - 2016 - Drazen ends up in state ward, forgotten, destiute.<br>
+  - 2016 - Drazen ends up in state ward, forgotten, destitute.<br>
   - 2019 - Drazen passes in state ward ([*by then, Drazen was mentally broken after several years of hardships*](https://www.buzzfeednews.com/article/heidiblake/conservatorship-investigation-free-britney-spears).<br>  
 
 **CTP-EOS™ is our tribute, memory, dedication, and extension of his life's work.**
