@@ -153,7 +153,7 @@ We are actively building an interdimensional development team. Whether you're co
 * Empower the C-body
 * Expand Mind/conscious capacities
 * Explore CTPSci protocols within psi labs or remote viewing experiments
-* CTP Practicioners become their own CTPSci Scientists *(independently)*
+* CTP Practitioner become their own CTPSci Scientists *(independently)*
   - *("Your mind is your own C-domain laboratoryᵀᴹ!")*
 
 #### 💸 Donors & Investors
