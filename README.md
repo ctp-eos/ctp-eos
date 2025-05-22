@@ -43,7 +43,7 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
 
 #### Timeline Highlights:
 
-* **1960-1970s**: Foreign Exchange Student from Crotia.<br>
+**1960-1970s**: Foreign Exchange Student from Crotia.<br>
 - Attended High School in Erie, Pennsylvania.<br>
 - Attended college in US.<br>
  - Drazen Premate received his bachelor's degree in physics from the University of Central Florida.<br>
