@@ -88,7 +88,7 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
          - Most UFO activists either dismiss, ignore, or go into ontological shock.<br>
          - Reso still struggles for support. Greatly ignored by 'peers'.<br>
          - All major big name UFO media pundits and podcasters unresponsive.<br>
-         - All major UFO/UAP disclosure advocacy groups unresponsive.<br>
+         - All major UFO/UAP disclosure advocacy groups/orgs unresponsive.<br>
          - UAP caucus/all political figures interested in UFOs/UAPs unresponsive.<br>
   - 2024 - CTP-EOS™ conceived<br>
          - Reso envisions CTP-EOS™ as the *Disclosure Linux* unlike any other *distro*.<br>
