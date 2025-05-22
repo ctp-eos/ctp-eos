@@ -64,8 +64,8 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
     - *(Ontologiclal filters to CTP override most people's thinking processes - when first exposed)*<br>
   - 2008 - Drazen shelved CTP to focus on NEWEUROPE as primary entrepreneurial focus.<br>
   - 2009 - Receives LOI from Dubai group for themepark venture.<br>
-         - Returns to US for early stage capital.
-         - Drazen's name attached to CTP Energy Science carries too much stigma.
+         - Returns to US for early stage capital.<br>
+         - Drazen's name attached to CTP Energy Science carries too much stigma.<br>
          - No movement or support from any US sources.<br>
   - 2012 - Drazen never receives support for any venture proposals. Everything collapses.<br>
   - 2013 - Drazen ends up homeless of streets of Orlando. *(final years much hardships similar to Nikola Tesla's)*<br>
