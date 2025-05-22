@@ -69,7 +69,7 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
   - 2006 - MySpace campaigns met with severe backlash, hostility, and contempt.<br>
     - Two to four years looking for angels/capital for CTP.<br>
     - Interest shown, however, no committing interests close.<br>
-    - *(Human ontologiclal filters override many people's thinking processes - when first exposed to CTP)*<br>
+    - *(Human *ontological filters* override many people's thinking processes - when first exposed to CTP)*<br>
   - 2008 - Drazen shelved CTP to focus on NEWEUROPE as primary entrepreneurial focus.<br>
   - 2009 - Receives LOI from Dubai group for themepark venture.<br>
          - Returns to US for early stage capital.<br>
