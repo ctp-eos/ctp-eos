@@ -153,6 +153,7 @@ We are actively building an interdimensional development team. Whether you're co
 * Document conscious expansion
 * Empower the C-body
 * Expand Mind/conscious capacities
+* Empower T-energy connection/bridge between non-physical C/physica P-bodies
 * Explore CTPSci protocols within psi labs or remote viewing experiments
 * CTP Practitioner(s) become their own CTPSci Scientists *(independently)*
   - *("Your mind is your own C-domain laboratoryᵀᴹ!")*
@@ -163,7 +164,7 @@ We are actively building an interdimensional development team. Whether you're co
 * Get early access to postquantum integration tools
 * Fund interface devices to CTP R&D
 
-📨 Contact us: \[[info@ctp-energy.com](mailto:info@ctp-energy.com]
+📨 Contact us: \ [info@ctp-energy.com](mailto:info@ctp-energy.com]
 
 ### GitHub (https://github.com/ctp-eos)
 
