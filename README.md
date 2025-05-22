@@ -76,7 +76,8 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
          - Drazen's name attached to CTP Energy Science carries too much stigma.<br>
          - No movement or support from any US sources.<br>
   - 2012 - Drazen never receives support for any venture proposals. Everything collapses.<br>
-  - 2013 - Drazen ends up homeless of streets of Orlando. *(final years much hardships similar to Nikola Tesla's)*<br>
+  - 2013 - Drazen ends up homeless of streets of Orlando.
+         - *(final years of much hardships similar to Nikola Tesla's)*<br>
   - 2016 - Drazen ends up in state ward, forgotten, destitute.<br>
   - 2019 - Drazen passes in state ward ([*by then, Drazen was mentally broken after several years of hardships*](https://www.buzzfeednews.com/article/heidiblake/conservatorship-investigation-free-britney-spears)).<br>  
   - 2021 - December 2021 *Resofactor* learns of Drazen's passing.<br>
@@ -153,7 +154,7 @@ We are actively building an interdimensional development team. Whether you're co
 * Empower the C-body
 * Expand Mind/conscious capacities
 * Explore CTPSci protocols within psi labs or remote viewing experiments
-* CTP Practitioner become their own CTPSci Scientists *(independently)*
+* CTP Practitioner(s) become their own CTPSci Scientists *(independently)*
   - *("Your mind is your own C-domain laboratoryᵀᴹ!")*
 
 #### 💸 Donors & Investors
@@ -172,7 +173,7 @@ We are actively building an interdimensional development team. Whether you're co
 
 This is your call to help build the **operating system of postquantum consciousness.**
 
-In a world waking up to suppressed tech, nonlocality, and planetary transformation—**CTP-EOS™ offers a gateway into the coming epoch of empowered evolution**.
+In a world waking up to suppressed tech, non-locality, and planetary transformation—**CTP-EOS™ offers a gateway into the coming epoch of empowered evolution**.
 
 Join us.
 
