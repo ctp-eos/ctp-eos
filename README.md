@@ -89,7 +89,7 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
   - 2024 - CTP-EOS™ conceived<br>
          - Reso envisions CTP-EOS™ as the *Disclosure Linux* unlike any other *distro*.<br>
          - Birth of *official* CTP is Disclosure Movement (CTPIDM).<br>
-         - Fall 2024 - creation of **CTP-EOS GitHub**.<br>
+         - September/Fall 2024 - creation of **CTP-EOS GitHub**.<br>
   - 2025 - Social media still/lost seeking answers to UFO/UAP phenomena - only focusing on mainstream reporting and news.<br>
          - Reso continues pressing CTPSci Sciences forward.<br>
          - Publishing and populating CTP-EOS repositories with CTPSci Science articles and content.<br>
