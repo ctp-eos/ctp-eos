@@ -30,9 +30,9 @@ CTP-EOS™ is more than software. It is a transformational platform—**a bridge
 * **Popular Linux desktop environments**: from KDE, Gnome, Cinnamon, Budgie, Mate, XFCE, and many others...
 * **Fully customizable UI**: Supports modular tiling window managers and AI-aided shell scripting
 
-#### **PART III: CSOP: THE NON-PHYSICAL OPERATING SYSTEM**
+#### **PART III: CE-OS™: THE CONSCIOUS ENERGY - OPERATING SYSTEM**
 
-*A Consciousness Interface Beyond Code* *(or the C-Spiritual Operating System)*
+*A Consciousness Interface Beyond Code* *(or the CE-OS™ Non-physical Operating System)*
 
 * Implements the CTP Conscious Development Framework (CDF)
 * Training modules for biocommunication & remote energetic interaction
@@ -99,6 +99,7 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
          - Publishing and populating CTP-EOS repositories with CTPSci Science articles and content.<br>
          - CTP's **Call to Purpose Campaign** conception.<br>
          - CTP Conscious Development Project (CTPCDP) Open-Sourced.<br>
+         - CE-OS™ framework initiated.<br>   
          - CTP continues...<br>
 
 ---
@@ -128,9 +129,9 @@ Modern computing ends at the edge of digital domain information. **CTP-EOS™ go
 
 We are not building just another Linux fork—we are building:
 
-* A **spiritual-technical bridge** to future knowledge systems
+* A **conscious-technical bridge** to future knowledge systems
 * A **secure OS** for researchers and consciousness practitioners
-* A **living artifact** of postquantum non-hysical science *(for higher conscious development of one's C-spiritual or C-capacities)*
+* A **living artifact** of postquantum non-hysical science *(for higher conscious development of one's C-conscious or C-capacities)*
 
 As disclosure accelerates and energy technologies are unveiled, **CTP-EOS™ offers an entry point into human-sovereign evolution**.
 
@@ -163,7 +164,7 @@ We are actively building an interdimensional development team. Whether you're co
 
 * Validate energetic interaction between C/P-bodies
 * Document conscious expansion
-* Empower the C-body
+* Empower the non-physical C-body or Conscious Body
 * Expand Mind/conscious capacities
 * Empower T-energy connection/bridge between non-physical C/physical P-bodies
 * Explore CTPSci protocols within psi labs or remote viewing experiments
@@ -218,8 +219,8 @@ CTP-EOS™ will look rather similiar, however with our own custom wallpapers, CT
 
 
 Part III of **CTP-EOS™** is where things will/do get 'really' interesting.
-- *CTP-EOS™* (part III) is the basis of an off-world originating *(in real-life EXTRATERRESTRIAL)* truly non-physical/C-spiritual Operating System (CSOP) for one's mind and one's very consciousness!
-- CTP-EOS™ based on the highly advanced CTPSci Sciences: *a new science at least 50 years from our future!*
+- *CTP-EOS™* (part III) is the basis of an off-world originating *(in real-life EXTRATERRESTRIAL)* truly non-physical/Conscious Energy - Operating System (CE-OS™) for one's mind and one's very consciousness!
+- CE-OS™ is based on the highly advanced CTPSci Sciences: *a new science at least 50 years from our future!*
 - Discovered by **Drazen Premate** who was-is the unsung successor to Nikola Tesla.
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/new-consciousness.jpeg) 
@@ -242,7 +243,7 @@ Part III of **CTP-EOS™** is where things will/do get 'really' interesting.
 - CTP Energy is/are the TOTAL CTP forces that comprise ALL domains of all (non)physical realities *(of ALL C/P-existences)*.
 - CTPSci is the Science of Consciousness, itself - from C-domain.
 - CTPSci is the science and study of non-physical Conscious or C-energy, the C-domain, and future revolutionary applications of the CTP Energy Cycle™.
-- CTP-EOS™ represents a forward-thinking-future-consciousness based on advanced C-sciences of C-domain bundled WITH Linux.
+- CTP-EOS™/CE-OS™ represents a forward-thinking-future-consciousness based on advanced C-sciences of C-domain bundled WITH Linux.
  
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/cdomain.jpeg) 
 
@@ -285,7 +286,7 @@ OR LEARN HOW TO APPLY THE NON-PHYSICAL ASPECTS OF THE CTP-EOS™ TO MY MIND?"
 
 - CTP-EOS™ is part of the C-spiritual or non-physical operating system and non-physical CTP Technologies™, CTP Spiritual Technologies™, or CTP C-Spiritual Technologies™ utilized by advanced civilizations of the C-domain *(multiverse)*.
 - Learning the 'conscious' aspects of the CTPSci Sciences *(themselves)* will be prerequite(s) in order to properly interface with and utilize advanced CTP Energy Systems and future physical CTP deeptech deeptech technologies of the future.
-- Thus, the *'CTP-EOS™'* must be learned and applied to one's mind and one's consciousness, many years before the future CTP Energy Systems themselves can ever be realized.
+- Thus, the *'CE-OS™'* must be learned and applied to one's mind and one's consciousness, many years before the future CTP Energy Systems themselves can ever be realized.
 - Humanity must *scale* itself UP and-to become an extraterrestrial-level of consciousness and *new civilization* ourselves!
 - Future advanced CTP Energy Systems & CTP Technologies must be earned from C-domain!
 - This begins advancing our consciousness *forward* into C-domain and *'connecting'* and *'threading*' our minds further in
@@ -424,6 +425,7 @@ All terms, symbols, technologies, concepts, and materials associated with:
 - **CTPSci Science**
 - **CTPSci Sciences**
 - **CTP-EOS**
+- **CE-OS**
 - **CTP Technologies**
 - and all related expressions and modules
 
