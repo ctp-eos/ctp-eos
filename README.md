@@ -411,8 +411,8 @@ There are many answers to that question! For now, *think* of C-domain in this wa
 
 We can call 'C-domain' can be **thought** of as the pathway, conduit, or 'portal' into one's own Higher Genius! 
 
-The study, **Conscious Effort(s)** or *C-effort(s)* and application of this CTPSci Science our mind(s) *(this journey inward will require time, application, practice, and most importantly C-DEDICATION and C-EFFORTS)* - the CTPSci Sciences provides access to a new untapped higher domain consciousness that already exists within EACH of us! 
-Our TRUE ***C-spiritual Higher Intelligence!***
+The study, **Conscious Effort(s)** or *C-effort(s)* and application of this CTPSci Science our mind(s) *(this journey inward will require time, application, practice, and most importantly C-dedication and Conscious Efforts or C-efforts)* - the CTPSci Sciences provides access to a new untapped higher domain consciousness that already exists within EACH of us! 
+Our TRUE ***Higher Conscious C-domain Intelligence!***
 
 ---
 
@@ -432,7 +432,7 @@ OR LEARN HOW TO APPLY THE NON-PHYSICAL ASPECTS OF THE CTP-EOS™ TO MY MIND?"
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/CTP%20Sci%20Student.png)
 
-- CTP-EOS™ is part of the C-spiritual or non-physical operating system and non-physical CTP Technologies™, CTP Spiritual Technologies™, or CTP C-Spiritual Technologies™ utilized by advanced civilizations of the C-domain *(multiverse)*.
+- CTP-EOS™ is part of the CE-OS™ or non-physical operating system and non-physical CTP Technologies™ utilized by advanced civilizations of the C-domain *(multiverse)*.
 - Learning the 'conscious' aspects of the CTPSci Sciences *(themselves)* will be prerequite(s) in order to properly interface with and utilize advanced CTP Energy Systems and future physical CTP deeptech deeptech technologies of the future.
 - Thus, the *'CE-OS™'* must be learned and applied to one's mind and one's consciousness, many years before the future CTP Energy Systems themselves can ever be realized.
 - Humanity must *scale* itself UP and-to become an extraterrestrial-level of consciousness and *new civilization* ourselves!
