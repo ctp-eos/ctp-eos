@@ -21,10 +21,10 @@ It is the computing layer of an **emergent third scientific paradigm** or **Cons
 
 ```
             🔺
-         CTP-EOS™
+          CTP-EOS™
         (Ontological)
        /             \
-Religion–Spirituality   Physical Sciences
+Religion–New Age  Physical Sciences
 ```
 
 ### Why this triangle?
