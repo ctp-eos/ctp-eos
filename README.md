@@ -1,19 +1,19 @@
-# 🔷 CTP-EOS Linux
+# 🔷 CTP-EOS™ Linux
 
-**CTP Energy Ontological Sciences Operating System**
+**CTP Energy Ontological Sciences Operating System™**
 *A Conscious-Aware OS Framework for a Post-Materialist Civilization*
 
 ---
 
-## 🔺 The Ontological Triangle
+## 🔺 The CTP Energy Ontological Triangle™ (CTPEOT)
 
-CTP-EOS is more than a Linux distribution.
-It is the computing layer of an **emergent third scientific paradigm**:
+CTP-EOS™ is more than a Linux distribution.
+It is the computing layer of an **emergent third scientific paradigm** or **Conscious Third Paradigm(CTP)**:
 **CTPSci Sciences (CTP Energy Ontological Sciences)**.
 
 ```
-          🔺
-         CTP-EOS
+            🔺
+         CTP-EOS™
         (Ontological)
        /             \
 Religion–Spirituality   Physical Sciences
@@ -30,7 +30,7 @@ Most of modern thought splits reality in two:
 
   * Objective, quantifiable, reproducible
 
-**CTP-EOS** represents the **apex** of a third path:
+**CTP-EOS™** represents the **apex** of a third path:
 📐 An **upward ontological paradigm** where:
 
 * Consciousness is not a byproduct — it's **primary**
@@ -48,15 +48,15 @@ Most of modern thought splits reality in two:
 CTP-EOS is the **OS of Ontological Disclosure**.
 It is designed to power the technologies, sciences, and interfaces of a **post-materialist civilization**.
 
-> “We are not blending mysticism and science.
-> We are transcending both through a higher-order ontological frame.”
-> — *CTP Energy Science Foundation*
+> *“We are not blending mysticism and science.
+> We are transcending both through a higher-order ontological frame.”*
+> — CTP Energy Science Foundation
 
 ---
 
 ## 🧭 What Is CTP-EOS?
 
-CTP-EOS is a custom conscious-tech Linux operating system.
+CTP-EOS™ is a custom conscious-tech Linux operating system.
 It is designed to:
 
 * Integrate deep consciousness-aware principles from CTPSci Sciences
@@ -107,7 +107,7 @@ cd ctp-eos
 
 ## 🌌 Vision
 
-CTP-EOS is the first step in a **conscious-aware computing model**.
+CTP-EOS™ is the first step in a **conscious-aware computing model**.
 It is aligned with technologies meant to interface with:
 
 * CTP Gravitic Propulsion
@@ -116,7 +116,7 @@ It is aligned with technologies meant to interface with:
 * Remote Biochemical Interfaces
 * Multi-domain operating environments (C, Q, and B Domains)
 
-CTP-EOS is built to serve **those building the future** — not those maintaining the past.
+CTP-EOS™ is built to serve **those building the future** — not those maintaining the past.
 
 ---
 
