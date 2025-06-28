@@ -1,6 +1,6 @@
 ### 🚀 What is CTP-EOS™?
 
-**CTP-EOS™ (The CTP Energy Operating System)** or the ***CTP Extraterrestrial Operating System*** is a next-generation Linux distribution designed to integrate ontoenergetic sciences, advanced extraterrestrial research, and bleeding-edge post-quantum computing concepts. It is the first operating system built on the principles of **CTP Energy Science**—a radical framework exploring consciousness, non-locality, and intelligent design within energetic systems.
+**CTP-EOS™ (The CTP Energy Operating System)** or the ***CTP Extraterrestrial Operating System*** is a next-generation Linux distribution designed to integrate CTP Ontoenergetic Sciences (CTPOS), advanced extraterrestrial research, and bleeding-edge post-quantum computing concepts. It is the first operating system built on the principles of **CTP Energy Science**—a radical framework exploring consciousness, non-locality, and intelligent design within energetic systems.
 
 CTP-EOS™ is more than software. It is a personal transformational platform—**a bridge between conventional computation and CTP Mind activation** *(for one's mind)*. Whether you're a designer, developer, investor, or CTPSci scientist, student, aspirant, or practitioner—**CTP-EOS™ is your entry point into the future of human evolution.**
 
@@ -15,7 +15,7 @@ CTP-EOS™ is more than software. It is a personal transformational platform—*
 * Customized window managers themed in extraterrestrial glyphs
 * Symbolic iconography from the C-domain
 * Real-time reactive visuals *(i.e., biofeedback-based UI shifts)*
-* Built-in metaphysical animations for ceremonial computing
+* Built-in CTP ontoenergetic animations for conscious-experiential computing
 * Graphics and visual entrainments to stimulate the Conscious body
 
 #### **PART II: TECHNICAL DISTRIBUTION**
