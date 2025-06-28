@@ -343,7 +343,11 @@ Join us.
 
 - 👋 Hi, I’m @ctp-eos *(or the 'CTP Energy Operating System™' or also the 'CTP Extraterrestrial Operating System™')*
 
-[![CTP-EOS Logo](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/CTP-EOS-default-tri-logo.png?raw=true)](https://www.ctp-eos.org)
+<p align="center">
+  <a href="https://www.ctp-eos.org">
+    <img src="https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/CTP-EOS-default-tri-logo.png?raw=true" width="800px" alt="CTP-EOS logo"/>
+  </a>
+</p>
 
 - CTP-EOS™ will be/is divided into THREE MAIN parts.
 
