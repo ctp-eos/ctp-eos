@@ -345,7 +345,7 @@ Join us.
 
 <p align="center">
   <a href="https://www.ctp-eos.org">
-    <img src="https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/CTP-EOS-default-tri-logo.png?raw=true" width="800px" alt="CTP-EOS logo"/>
+    <img src="https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/CTP-EOS-default-tri-logo.png?raw=true" width="600px" alt="CTP-EOS logo"/>
   </a>
 </p>
 
