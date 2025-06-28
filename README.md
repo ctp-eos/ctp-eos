@@ -1,6 +1,6 @@
 ### 🚀 What is CTP-EOS™?
 
-**CTP-EOS™ (The CTP Energy Operating System)** or the ***CTP Extraterrestrial Operating System*** is a next-generation Linux distribution designed to integrate metaphysical sciences, advanced extraterrestrial research, and bleeding-edge post-quantum computing concepts. It is the first operating system built on the principles of **CTP Energy Science**—a radical framework exploring consciousness, non-locality, and intelligent design within energetic systems.
+**CTP-EOS™ (The CTP Energy Operating System)** or the ***CTP Extraterrestrial Operating System*** is a next-generation Linux distribution designed to integrate ontoenergetic sciences, advanced extraterrestrial research, and bleeding-edge post-quantum computing concepts. It is the first operating system built on the principles of **CTP Energy Science**—a radical framework exploring consciousness, non-locality, and intelligent design within energetic systems.
 
 CTP-EOS™ is more than software. It is a personal transformational platform—**a bridge between conventional computation and CTP Mind activation** *(for one's mind)*. Whether you're a designer, developer, investor, or CTPSci scientist, student, aspirant, or practitioner—**CTP-EOS™ is your entry point into the future of human evolution.**
 
@@ -26,7 +26,7 @@ CTP-EOS™ is more than software. It is a personal transformational platform—*
 * **Harder OS**: Hardened security with postquantum cryptographic goals
 * **Developers**: Developer tools for conscious coding, digital applications, to metaphysical science simulation
 * **Multimedia applications**: from music, recording, multitracking, VSTs, audio software, video editing, to content creation
-* **Office tools**: full office tools and business tools for the spiritual or **Conscious Entrepreneur**.
+* **Office tools**: full office tools and business tools for the **Conscious Entrepreneur**.
 * **Popular Linux desktop environments**: from KDE, Gnome, Cinnamon, Budgie, Mate, XFCE, and many others...
 * **Fully customizable UI**: Supports modular tiling window managers and AI-aided shell scripting
 
