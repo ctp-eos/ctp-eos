@@ -1,3 +1,147 @@
+# 🔷 CTP-EOS Linux
+
+**CTP Energy Ontological Sciences Operating System**
+*A Conscious-Aware OS Framework for a Post-Materialist Civilization*
+
+---
+
+## 🔺 The Ontological Triangle
+
+CTP-EOS is more than a Linux distribution.
+It is the computing layer of an **emergent third scientific paradigm**:
+**CTPSci Sciences (CTP Energy Ontological Sciences)**.
+
+```
+          🔺
+         CTP-EOS
+        (Ontological)
+       /             \
+Religion–Spirituality   Physical Sciences
+```
+
+### Why this triangle?
+
+Most of modern thought splits reality in two:
+
+* 🧘 **Religion / Spirituality** (Left angle)
+
+  * Subjective, symbolic, experiential
+* 🔬 **Physical Sciences** (Right angle)
+
+  * Objective, quantifiable, reproducible
+
+**CTP-EOS** represents the **apex** of a third path:
+📐 An **upward ontological paradigm** where:
+
+* Consciousness is not a byproduct — it's **primary**
+* Matter and energy are **derivatives of conscious fields**
+* Anomalous, nonlocal, and bio-interactive effects are **engineerable**
+
+### What does this unlock?
+
+* 🛸 Gravitic Propulsion Architecture (CTP ARcliner Craft)
+* 🧠 Conscious OS Interfaces and Domain Hooks
+* 📡 Remote Biological-Signal Sensing
+* 🔐 Secure, modular, Qubes-style operating frameworks
+* 🧬 Unified Conscious–Physical Tech Development Platform
+
+CTP-EOS is the **OS of Ontological Disclosure**.
+It is designed to power the technologies, sciences, and interfaces of a **post-materialist civilization**.
+
+> “We are not blending mysticism and science.
+> We are transcending both through a higher-order ontological frame.”
+> — *CTP Energy Science Foundation*
+
+---
+
+## 🧭 What Is CTP-EOS?
+
+CTP-EOS is a custom conscious-tech Linux operating system.
+It is designed to:
+
+* Integrate deep consciousness-aware principles from CTPSci Sciences
+* Support ontological experimentation and anomaly-valid tech stacks
+* Operate securely, modularly, and efficiently on modern and embedded systems
+* Provide a template for next-generation human–field–machine interaction
+
+---
+
+## 🚀 Features
+
+* 🪟 **XFCE Desktop + CTP Tiling Window Managers**
+* 💽 **Fully Branded Calamares Installer**
+* 🔐 **Qubes-style VM Isolation (Planned)**
+* 🧠 **Conscious-Aware System Hooks (Planned)**
+* 🎨 Custom splash screens, themes, and CTP-EOS identity
+* 🧬 Bio-ontological extensions (CTP Life Sciences Dev Hooks)
+* 🌐 Wayland-ready stack with hardened security defaults
+* 🧾 Default user: `CTP-EOS`, password: `ctp-eos` (Live ISO)
+
+---
+
+## 📦 Installation
+
+📥 ISO: [Download Latest ISO Release](#) *(link to release once available)*
+
+To build or test:
+
+```bash
+git clone https://github.com/ctp-eos/ctp-eos.git
+cd ctp-eos
+./build.sh   # Custom Arch/Alma ISO builder coming soon
+```
+
+---
+
+## 🛠 Roadmap
+
+* [x] Custom ISO with Calamares + XFCE
+* [x] Triangle-based Ontology Branding + Installer
+* [ ] CTP Tiling Window Manager Alpha (OntoWM)
+* [ ] VM-Aware Firewall + Qubes Networking Emulation
+* [ ] Conscious Signal Interface Drivers
+* [ ] ARcliner Craft Integration Layer
+* [ ] Developer SDK for CTPSci-compatible modules
+
+---
+
+## 🌌 Vision
+
+CTP-EOS is the first step in a **conscious-aware computing model**.
+It is aligned with technologies meant to interface with:
+
+* CTP Gravitic Propulsion
+* Nonlocal Communications
+* Energy-Sensitive Field Systems
+* Remote Biochemical Interfaces
+* Multi-domain operating environments (C, Q, and B Domains)
+
+CTP-EOS is built to serve **those building the future** — not those maintaining the past.
+
+---
+
+## 🤝 Contribution
+
+We welcome contributors aligned with the vision of ontological tech and post-materialist science.
+
+Please review the [Contribution Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md).
+
+---
+
+## 📚 Learn More
+
+* 🌐 [CTP Energy Science](https://ctp-energy.com) *(placeholder)*
+* 📄 CTPSci Whitepaper (Coming Soon)
+* 📼 ARcliner Craft Tech Overview (In development)
+* 📦 [Download Releases](#)
+
+---
+
+© CTP Energy, LLC | CTPSci Foundation | 2025
+*“Where matter, mind, and meaning become programmable.”*
+
+---
+
 ### 🚀 What is CTP-EOS™?
 
 **CTP-EOS™ (The CTP Energy Operating System)** or the ***CTP Extraterrestrial Operating System*** is a next-generation Linux distribution designed to integrate CTP Ontoenergetic Sciences (CTPOS), advanced extraterrestrial research, and bleeding-edge post-quantum computing concepts. It is the first operating system built on the principles of **CTP Energy Science**—a radical framework exploring consciousness, non-locality, and intelligent design within energetic systems.
