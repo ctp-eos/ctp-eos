@@ -124,7 +124,7 @@ CTP-EOS is built to serve **those building the future** — not those maintainin
 
 We welcome contributors aligned with the vision of ontological tech and post-materialist science.
 
-Please review the [Contribution Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md).
+Please review the [Contribution Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md). *(documentation pending once available)*
 
 ---
 
