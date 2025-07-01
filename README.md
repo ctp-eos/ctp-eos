@@ -442,9 +442,13 @@ CTPSci Sciences are a **THE PREREQUISITE** for humanity to achieve interstellar 
 ---
 
 ### WHY STUDY/APPLY CTP ENERGY? 
-OR LEARN HOW TO APPLY THE NON-PHYSICAL ASPECTS OF THE CTP-EOS™ TO MY MIND?"
+OR LEARN HOW TO APPLY THE NON-PHYSICAL ASPECTS OF THE CTP-EOS™/CE-OS™ TO MY MIND?"
 
-![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/CTP%20Sci%20Student.png)
+<p align="center">
+  <a href="https://www.ctp-eos.org">
+    <img src="https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/CTP%20Sci%20Student.png?raw=true" width="800px" alt="CTP Sci Student"/>
+  </a>
+</p>
 
 - CTP-EOS™ is part of the CE-OS™ or non-physical operating system and non-physical CTP Technologies™ utilized by advanced civilizations of the C-domain *(multiverse)*.
 - Learning the 'conscious' aspects of the CTPSci Sciences *(themselves)* will be prerequite(s) in order to properly interface with and utilize advanced CTP Energy Systems and future physical CTP deeptech deeptech technologies of the future.
