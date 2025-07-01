@@ -415,12 +415,10 @@ There are many answers to that question! For now, *think* of C-domain in this wa
 
 <p align="center">
   <a href="https://www.ctp-eos.org">
-    <img src="https://raw.githubusercontent.com/ctp-eos/git.hub.profile.grahics/main/journey%20inward%20via%20cdomain%20-%20through%20the%20conscious%20lens.png"?raw=true" width="800px" alt="CTP-EOS Ontological Model"/>
+    <img src="https://raw.githubusercontent.com/ctp-eos/git.hub.profile.grahics/main/journey%20inward%20via%20cdomain%20-%20through%20the%20conscious%20lens.png" width="800px" alt="Journey Inward"/>
   </a>
 </p>
 
-
-<img src=" alt="Journey Inward" width="800px">
 
 
 
