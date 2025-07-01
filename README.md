@@ -414,7 +414,14 @@ There are many answers to that question! For now, *think* of C-domain in this wa
 
 **C-DOMAIN: THE GATEWAY INTO OUR HIGHER MIND & OUR HIGHER SELVES!**
 
-<img src="https://raw.githubusercontent.com/ctp-eos/git.hub.profile.grahics/main/journey%20inward%20via%20cdomain%20-%20through%20the%20conscious%20lens.png" alt="Journey Inward" width="800px">
+<p align="center">
+  <a href="https://www.ctp-eos.org">
+    <img src="https://raw.githubusercontent.com/ctp-eos/git.hub.profile.grahics/main/journey%20inward%20via%20cdomain%20-%20through%20the%20conscious%20lens.png"?raw=true" width="800px" alt="CTP-EOS Ontological Model"/>
+  </a>
+</p>
+
+
+<img src=" alt="Journey Inward" width="800px">
 
 
 
