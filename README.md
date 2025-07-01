@@ -352,8 +352,7 @@ Join us.
 - 👋 Hi, I’m @ctp-eos *(or the 'CTP Energy Operating System™' or also the 'CTP Extraterrestrial Operating System™')*
 
 <p align="center">
-  <a href="https://www.ctp-eos.org">
-    <img src="https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/CTP-EOS-default-tri-logo.png?raw=true" width="800px" alt="CTP-EOS logo"/>
+  <a href="https://www.ctp-eos.org"><img src="https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/CTP-EOS-default-tri-logo.png?raw=true" width="800px" alt="CTP-EOS logo"/>
   </a>
 </p>
 
