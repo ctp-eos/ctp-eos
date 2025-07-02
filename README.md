@@ -1,6 +1,6 @@
 # 🔷 CTP-EOS™ Linux
 
-**CTP Energy Ontological Sciences Operating System™**
+**CTP Energy Ontological Sciences Operating System™**  
 *A Conscious-Aware OS Framework for a Post-Materialist Civilization*
 
 ---
