@@ -251,9 +251,10 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
          - Publishing and populating CTP-EOS repositories with CTPSci Science articles and content.<br>
          - CTP's **Call to Purpose Campaign** conception.<br>
          - CTP Conscious Development Project (CTPCDP) Open-Sourced.<br>
-         - CE-OS™ framework initiated.<br>   
+         - CE-OS™ framework initiated.<br>
+         - CTuxP mascot/campaign initiated.<br>   
          - CTP continues...<br>
-         - CTuxP mascot/campaign initiated
+         
 
 ---
 
