@@ -377,8 +377,8 @@ CTP-EOS™ will look rather similiar, however with our own custom wallpapers, CT
 
 Part III of **CTP-EOS™** is where things will/do get 'really' interesting.
 - [*CE-OS™*](https://www.linkedin.com/showcase/ce-os)
- (part III) is the basis of an off-world originating *(in real-life EXTRATERRESTRIAL)* truly non-physical/Conscious Energy - Operating System (CE-OS™) for one's mind and one's very consciousness!
-- CE-OS™ is based on the highly advanced CTPSci Sciences: *a new science at least 50 years from our future!*
+ (part III) is the basis of an off-world originating *(in real-life EXTRATERRESTRIAL)* truly non-physical/Conscious Energy - Operating System (CE-OS™) for one's consciousness!
+- CE-OS™ is based on the highly advanced CTPSci Sciences: *at least 50 years from our future!*
 - Discovered by **Drazen Premate** who was-is the unsung successor to Nikola Tesla.
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/new-consciousness.jpeg) 
