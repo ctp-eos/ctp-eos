@@ -253,6 +253,7 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
          - CTP Conscious Development Project (CTPCDP) Open-Sourced.<br>
          - CE-OS™ framework initiated.<br>   
          - CTP continues...<br>
+         - CTuxP mascot/campaign initiated
 
 ---
 
@@ -374,7 +375,8 @@ CTP-EOS™ will look rather similiar, however with our own custom wallpapers, CT
 
 
 Part III of **CTP-EOS™** is where things will/do get 'really' interesting.
-- *CTP-EOS™* (part III) is the basis of an off-world originating *(in real-life EXTRATERRESTRIAL)* truly non-physical/Conscious Energy - Operating System (CE-OS™) for one's mind and one's very consciousness!
+- [*CE-OS™*](https://www.linkedin.com/showcase/ce-os)
+ (part III) is the basis of an off-world originating *(in real-life EXTRATERRESTRIAL)* truly non-physical/Conscious Energy - Operating System (CE-OS™) for one's mind and one's very consciousness!
 - CE-OS™ is based on the highly advanced CTPSci Sciences: *a new science at least 50 years from our future!*
 - Discovered by **Drazen Premate** who was-is the unsung successor to Nikola Tesla.
 
