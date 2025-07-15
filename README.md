@@ -145,8 +145,8 @@ Please review the [Contribution Guidelines](CONTRIBUTING.md) and [Code of Conduc
 
 ---
 
-© CTP Energy, LLC | CTPSci Foundation | 2025
-*“Where matter, mind, and meaning become programmable.”*
+© CTP Energy, LLC | CTPSci Foundation | 2025<br>
+***“CTP & CTP Energy: Where matter, mind, and meaning become programmable.”***
 
 ---
 
