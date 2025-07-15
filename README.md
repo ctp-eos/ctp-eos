@@ -512,7 +512,7 @@ There are many answers to that question! For now, *think* of C-domain in this wa
 We can call 'C-domain' can be **thought** of as the pathway, conduit, or 'portal' into one's own Higher Genius! 
 
 The study, **Conscious Effort(s)** or *C-effort(s)* and application of this CTPSci Science our mind(s) *(this journey inward will require time, application, practice, and most importantly C-dedication and Conscious Efforts or C-efforts)* - the CTPSci Sciences provides access to a new untapped higher domain consciousness that already exists within EACH of us! 
-Our TRUE ***Higher Conscious C-domain Intelligence!***
+Our ***Higher Conscious C-domain Intelligence!***
 
 ---
 
