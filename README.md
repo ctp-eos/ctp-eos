@@ -13,6 +13,42 @@
 
 ---
 
+## 📑 Table of Contents
+
+* [🔺 The CTP Energy Ontological Triangle™ (CTPEOT)](#-the-ctp-energy-ontological-triangle-ctpeot)
+* [🧭 What Is CTP-EOS?](#-what-is-ctp-eos)
+* [🚀 Features](#-features)
+* [🌀 CTuxP – The Conscious Technology UX Platform™](#-ctuxp--the-conscious-technology-ux-platform)
+* [📦 Installation](#-installation)
+* [🛠 Roadmap](#-roadmap)
+* [🌌 Vision](#-vision)
+* [🤝 Contribution](#-contribution)
+* [📚 Learn More](#-learn-more)
+* [💡 What is CTP-EOS™?](#-what-is-ctp-eos-1)
+* [🌐 Three Tiers of CTP-EOS™](#-three-tiers-of-ctp-eos)
+* [🧬 Who Was Drazen Premate?](#-who-was-drazen-premate)
+* [🌀 What is CTP Energy Science (CTPSci)?](#-what-is-ctp-energy-science-ctpsci)
+* [🌟 Why It Matters](#-why-it-matters)
+* [🤝 Get Involved](#-get-involved)
+* [INTRODUCING THE CTP ENERGY OPERATING SYSTEM *(CTP-EOS™)*](#introducing-the-ctp-energy-operating-system-ctp-eos)
+* [WHO WAS-IS DRAZEN PREMATE?](#who-was-is-drazen-premate)
+* [WHAT IS CTP ENERGY? *(that the CTP-EOS™ is named after)*](#what-is-ctp-energy-that-the-ctp-eos-is-named-after)
+* [WHAT IS C-DOMAIN?](#what-is-c-domain)
+* [WHY STUDY/APPLY CTP ENERGY?](#why-studyapply-ctp-energy)
+* [SEEKING PROJECT SPONSORS AND DONORS](#seeking-project-sponsors-and-donors)
+* [Contributing to CTP-EOS™ Linux](#contributing-to-ctp-eos-linux)
+* [💡 What is CTP-EOS™?](#-what-is-ctp-eos-2)
+* [🛠️ What You Can Contribute](#️-what-you-can-contribute)
+* [📥 How to Get Started](#-how-to-get-started)
+* [📋 Coding Guidelines](#-coding-guidelines)
+* [💬 Communication](#-communication)
+* [🤖 Code of Conduct](#-code-of-conduct)
+* [License](#license)
+* [⚖️ Intellectual Property Notice](#️-intellectual-property-notice)
+* [📢 Content Sharing Policy](#-content-sharing-policy)
+
+---
+
 ## 🔺 The CTP Energy Ontological Triangle™ (CTPEOT)
 
 CTP-EOS™ is more than a Linux distribution.
