@@ -114,23 +114,23 @@ Rather than being just a visual shell or theme engine, CTuxP is a **modular, sym
 
 --- 
 
-🔵 CTP
-Conscious Technology Paradigm
-A scientific and ontological foundation originating from the C-domain.
+🔵 CTP<br>
+Conscious Technology Paradigm:<br>
+The new scientific and ontological foundation originating from the C-domain.
 
-🐧 Tux
-The Linux mascot.
+🐧 Tux<br>
+The Linux mascot.<br>
 The universal symbol of open-source freedom.
 
-🔮 CTuxP
-Conscious Tux Platform
+🔮 CTuxP<br>
+Conscious Tux Platform<br>
 An evolved interface layer where symbolic OS meets conscious UX.
 
-It’s like Tux was always meant to evolve into CTuxP —
+It’s like Tux was always meant to evolve into CTuxP —<br>
 📟 → 🧠 → 🛸
 
 * We didn’t just fork Linux.
-* We activated it (into a 'higher order').
+* We activated it *(into a 'higher order')*.
 
 ---
 
