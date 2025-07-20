@@ -617,17 +617,8 @@ CTP-EOX stands for **CTP Energy Operating System eXperimental** and serves as a 
 - 🌀 Tiling Window Manager prototypes (ZWM, OntoWM, other CTP-styled UI/UX)
 - ⚡ Init system alternatives (e.g. runit, s6, dinit, OpenRC, etc.)
 
-🧪 Experimental Init System Support
+🧪 Experimental Init System Support [ ] Runit [ ] Dinit [ ] OpenRC [ ] s6  
 In addition to systemd-based builds, CTP-EOS™ Linux will offer experimental ISO variants with alternative init systems for greater modularity, philosophical alignment, and minimalist control:
-
-| Init System | Status     | Notes                                                                |
-| ----------- | ---------- | -------------------------------------------------------------------- |
-| **Runit**   | 🧪 Planned | Lightweight, fast, simple; ideal for embedded or conscious-UX tuning |
-| **Dinit**   | 🧪 Planned | Modern service manager focused on dependency control & speed         |
-| **OpenRC**  | 🧪 Planned | Mature, used in Alpine and Gentoo; great for control-conscious users |
-| **s6**      | 🧪 Planned | Unix-philosophy aligned; maximal modularity and security potential   |
-
-🧪 Experimental Init Support: [ ] Runit [ ] Dinit [ ] OpenRC [ ] s6  
 
 🛠 Roadmap (extended)  
  Arch & Alma-based ISO builds  
