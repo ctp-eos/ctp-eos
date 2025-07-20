@@ -625,30 +625,30 @@ In addition to systemd-based builds, CTP-EOS™ Linux will offer experimental IS
 | **OpenRC**  | 🧪 Planned | Mature, used in Alpine and Gentoo; great for control-conscious users |
 | **s6**      | 🧪 Planned | Unix-philosophy aligned; maximal modularity and security potential   |
 
-🧪 Experimental Init Support: [ ] Runit [ ] Dinit [ ] OpenRC [ ] s6
+🧪 Experimental Init Support: [ ] Runit [ ] Dinit [ ] OpenRC [ ] s6  
 
-🛠 Roadmap (extended)
- Arch & Alma-based ISO builds
- XFCE + custom Calamares installer
- ZWM: Custom CTPSci Window Manager
- CE-OS™ (Conscious Energy Operating System) hooks
- 🧪 Runit Init Variant
- 🧪 Dinit Init Variant
- 🧪 OpenRC Variant
- 🧪 s6 Variant
- 🧠 Reactive bio-UI (CTuxP Core Integration)
- 🧬 ARcliner Integration Layer (Post-Quantum Sync Modules)
- 🛡️ Qubes-style isolation networking with nftables
+🛠 Roadmap (extended)  
+ Arch & Alma-based ISO builds  
+ XFCE + custom Calamares installer  
+ ZWM: Custom CTPSci Window Manager  
+ CE-OS™ (Conscious Energy Operating System) hooks  
+ 🧪 Runit Init Variant  
+ 🧪 Dinit Init Variant  
+ 🧪 OpenRC Variant  
+ 🧪 s6 Variant  
+ 🧠 Reactive bio-UI (CTuxP Core Integration)  
+ 🧬 ARcliner Integration Layer (Post-Quantum Sync Modules)  
+ 🛡️ Qubes-style isolation networking with nftables  
 
-- 🔐 Hardened userland isolation modules
-- 🧠 Experimental CTuxP daemons and consciousness-mapped interface tools
-- ⚙️ Lower-level CTP system hooks
+- 🔐 Hardened userland isolation modules  
+- 🧠 Experimental CTuxP daemons and consciousness-mapped interface tools  
+- ⚙️ Lower-level CTP system hooks  
 
-…are developed *prior to their inclusion into stable CTP-EOS™ releases*.
+…are developed *prior to their inclusion into stable CTP-EOS™ releases*.  
 
-* [ ] CTP-EOX Early Access ISO
-* [ ] OntoWM integration testbed (EOX-first)
-* [ ] Runit-based CE-OS™ Entrainment Bootflow
+* [ ] CTP-EOX Early Access ISO  
+* [ ] OntoWM integration testbed (EOX-first)  
+* [ ] Runit-based CE-OS™ Entrainment Bootflow  
 
 * 🧪 [CTP-EOX Experimental Project](https://github.com/ctp-eos/ctp-eox) — bleeding-edge ontological Linux fork for devs
 
