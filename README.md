@@ -540,7 +540,7 @@ OR LEARN HOW TO APPLY THE NON-PHYSICAL ASPECTS OF THE CTP-EOS™/CE-OS™ TO MY 
 - This begins advancing our consciousness *forward* into C-domain and *'connecting'* and *'threading*' our minds further in
 - and into a much more deeper connection into the C-domain!
 - CTP is the journey of ALL lifetimes!
-- CTP is the challenge that awaits us as an *emerging* & *interstellar* capable new civilization in our lifetime!
+- CTP awaits us as an *emerging* & *interstellar* capable new civilization in our lifetime!
 
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/cruiser.jpeg) 
