@@ -584,7 +584,7 @@ Thanks for your interest in contributing to **CTP-EOS™ Linux**, the official o
 
 ---
 
-# About CTP-EOX Framework Distro
+## About CTP-EOX Framework Distro
 
 CTP-EOX is a custom Linux distribution framework built upon **Mabox Linux**, a lightweight and highly customizable Openbox-based Arch Linux derivative. Leveraging Mabox’s minimalism and speed, CTP-EOX introduces advanced features, branding, and configurations tailored specifically for the **CTP Energy Science** community and the emerging **postquantum disclosure ecosystem**.
 
@@ -610,7 +610,7 @@ CTP-EOX is a custom Linux distribution framework built upon **Mabox Linux**, a l
 
 ---
 
-## 🧪 Introducing CTP-EOX™ Ecosystem (eXperimental CTP Linux-Users base)
+### 🧪 Introducing CTP-EOX™ Ecosystem (eXperimental CTP Linux-Users base)
 
 > *CTP-EOX is the “next-tier” experimental fork of CTP-EOS™ focused on testing advanced init systems, new WM pipelines, and radical minimal builds designed to push the boundary of ontological Linux computing.*
 
@@ -797,10 +797,6 @@ Each init system offers different affordances for:
 📢 Want to contribute an init profile, hook script, or your own bio-resonant `svcscan` daemon?
 
 > Submit a PR to the `ctp-eox/archiso/<init>` folder with your changes, and tag `#CTPEOX`.
-
----
-
-```
 
 ---
 
