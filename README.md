@@ -472,7 +472,7 @@ Part III of **CTP-EOS™** is where things will/do get 'really' interesting.
 
 - **Drazen Premate** was-is the ***unsung successor to Nikola Tesla*** our world completely either ignored or (dis)missed during Drazen's time here - never achieving his vision for what the CTPSci Sciences offers to contribute to humanity's future.
 - 20 years ago - our world was not ready for such revolutionary new thinking and new consciousness!
-- Drazen discovered what he/we/CTP refer to as CTP Energy or the *postquantum science(s) of the next century*
+- Drazen discovered what he refers to as CTP Energy or the *postquantum science(s) of the next century*
 
 ![Alt Text](https://github.com/ctp-eos/git.hub.profile.grahics/blob/main/drazen-space-coast-restored.png)
 
@@ -504,10 +504,6 @@ There are many answers to that question! For now, *think* of C-domain in this wa
     <img src="https://raw.githubusercontent.com/ctp-eos/git.hub.profile.grahics/main/journey%20inward%20via%20cdomain%20-%20through%20the%20conscious%20lens.png" width="800px" alt="Journey Inward"/>
   </a>
 </p>
-
-
-
-
 
 We can call 'C-domain' can be **thought** of as the pathway, conduit, or 'portal' into one's own Higher Genius! 
 
