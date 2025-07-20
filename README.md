@@ -335,7 +335,7 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
          - CTP's **Call to Purpose Campaign** conception.<br>
          - CTP Conscious Development Project (CTPCDP) Open-Sourced.<br>
          - CE-OS™ framework initiated.<br>
-         - CTuxP mascot/campaign initiated.<br>   
+         - CTuxP mascot/campaign initiated.<br>  
          - CTP continues...<br>
          
 
@@ -673,30 +673,6 @@ This initiative expands the CTP-EOS™ ecosystem beyond systemd, introducing fle
 
 Each experimental variant aligns with the **post-materialist, conscious computing ethos** of CTP-EOS™:
 > *"No unnecessary daemons. No blind automation. Only energetically responsive, sovereign software."*
-
----
-
-### 📁 Repo Layout for CTP-EOX (WIP)
-
-```text
-ctp-eox/
-├── archiso/
-│   ├── runit/
-│   ├── openrc/
-│   ├── dinit/
-│   └── s6/
-├── branding/
-│   └── experimental/
-├── overlay/
-│   └── init-variants/
-│       ├── runit/
-│       ├── openrc/
-│       ├── dinit/
-│       └── s6/
-└── docs/
-    └── conscious-init-guide.md
-
-```
 
 ---
 
