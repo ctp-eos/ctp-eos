@@ -38,6 +38,7 @@
 * [SEEKING PROJECT SPONSORS AND DONORS](#seeking-project-sponsors-and-donors)
 * [Contributing to CTP-EOS™ Linux](#contributing-to-ctp-eos-linux)
 * [💡 What is CTP-EOS™?](#-what-is-ctp-eos-2)
+* [💡 What is CTP-EOX™?](#-what-is-ctp-eox)
 * [🛠️ What You Can Contribute](#️-what-you-can-contribute)
 * [📥 How to Get Started](#-how-to-get-started)
 * [📋 Coding Guidelines](#-coding-guidelines)
@@ -582,7 +583,7 @@ Thanks for your interest in contributing to **CTP-EOS™ Linux**, the official o
 
 ---
 
-## About CTP-EOX Framework Distro
+## 💡 What is **CTP-EOX™**?
 
 CTP-EOX is a custom Linux distribution framework built upon **Mabox Linux**, a lightweight and highly customizable Openbox-based Arch Linux derivative. Leveraging Mabox’s minimalism and speed, CTP-EOX introduces advanced features, branding, and configurations tailored specifically for the **CTP Energy Science** community and the emerging **postquantum disclosure ecosystem**.
 
