@@ -314,7 +314,7 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
   - 2013 - Drazen ends up homeless of streets of Orlando.
          - *(final years of much hardships similar to Nikola Tesla's)*<br>
   - 2016 - Drazen ends up in state ward, forgotten, destitute.<br>
- - 2019 - Drazen passes in state ward  
+  - 2019 - Drazen passes in state ward  
     [*by then, Drazen was mentally broken after several years of hardships*](https://www.buzzfeednews.com/article/heidiblake/conservatorship-investigation-free-britney-spears)
   - 2021 - December 2021 *Resofactor* learns of Drazen's passing.<br>
   - 2022 - *Resofactor* initiates and launches **CTP Phase II**.<br>
