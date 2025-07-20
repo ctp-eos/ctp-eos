@@ -368,7 +368,8 @@ We are not building just another Linux fork—we are building:
 
 * A **conscious-technical bridge** to future knowledge systems
 * A **secure OS** for researchers and consciousness practitioners
-* A **living artifact** of postquantum non-hysical science *(for higher conscious development of one's C-conscious or C-capacities)*
+* A **living artifact** of postquantum non-physical science
+  *(for higher conscious development of one's C-conscious or C-capacities)*
 
 As disclosure accelerates and energy technologies are unveiled, **CTP-EOS™ offers an entry point into human-sovereign evolution**.
 
