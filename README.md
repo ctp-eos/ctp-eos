@@ -612,7 +612,7 @@ CTP-EOX is a custom Linux distribution framework built upon **Mabox Linux**, a l
 
 CTP-EOX stands for **CTP Energy Operating System eXperimental** and serves as a high-frequency bleeding-edge testbed where innovations like:
 
-- 🌀 Tiling Window Manager prototypes (ZWM, OntoWM,CTP-related Window Managers * CTP UI/UX)
+- 🌀 Tiling Window Manager prototypes (ZWM, OntoWM, other CTP-styled UI/UX)
 - ⚡ Init system alternatives (e.g. runit, s6, dinit, OpenRC, etc.)
 
 🧪 Experimental Init System Support
