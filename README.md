@@ -676,28 +676,6 @@ Each experimental variant aligns with the **post-materialist, conscious computin
 
 ---
 
-## 🧪 CTP-EOX: Experimental Init System Framework
-
-**CTP-EOX** is the advanced experimental branch of **CTP-EOS™ Linux**, designed to challenge the init monoculture and empower modular conscious systems.
-
-This initiative expands the CTP-EOS™ ecosystem beyond systemd, introducing flexible and philosophy-aligned init system alternatives. Ideal for post-disclosure OS development, sovereign computing environments, and conscious-state adaptive UX research.
-
----
-
-### 🧬 Supported Init Systems (Experimental)
-
-| Init System | Status     | Description                                                              |
-|-------------|------------|--------------------------------------------------------------------------|
-| **Runit**   | 🧪 Planned | Minimalistic and fast; ideal for embedded/real-time conscious interfaces |
-| **Dinit**   | 🧪 Planned | Dependency-aware, event-driven; modern take on classic init ideas        |
-| **OpenRC**  | 🧪 Planned | Lightweight, Gentoo-born; control-focused and stable                     |
-| **s6**      | 🧪 Planned | Highly modular; ideal for building secure, component-based systems       |
-
-Each experimental variant aligns with the **post-materialist, conscious computing ethos** of CTP-EOS™:
-> *"No unnecessary daemons. No blind automation. Only energetically responsive, sovereign software."*
-
----
-
 ### 🛠 Roadmap Addendum: EOX Integration
 
 - [x] Base ISO (Arch) with systemd and XFCE
