@@ -682,16 +682,16 @@ Each experimental variant aligns with the **post-materialist, conscious computin
 
 ### 🛠 Roadmap Addendum: EOX Integration
 
-- [x] Base ISO (Arch) with systemd and XFCE
-- [ ] 🧪 **Runit Init Variant**
-- [ ] 🧪 **Dinit Init Variant**
-- [ ] 🧪 **OpenRC Variant**
-- [ ] 🧪 **s6 Variant**
-- [ ] 🧠 Conscious-UX reactive inputs (CTuxP integration layer)
-- [ ] 🛡️ Isolated Service Nets (Qubes-style `sys-*` profiles via nftables)
-- [ ] 🧬 ZWM Tiling Manager with CTPSci-aware window behavior
-- [ ] 🛰️ ARcliner Integration Layer (Non-physical stack sync)
-- [ ] 📦 Meta-ISO builder toolkit for community remixing
+- [x] Base ISO (Arch) with systemd and XFCE  
+- [ ] 🧪 **Runit Init Variant**  
+- [ ] 🧪 **Dinit Init Variant**  
+- [ ] 🧪 **OpenRC Variant**  
+- [ ] 🧪 **s6 Variant**  
+- [ ] 🧠 Conscious-UX reactive inputs (CTuxP integration layer)  
+- [ ] 🛡️ Isolated Service Nets (Qubes-style `sys-*` profiles via nftables)  
+- [ ] 🧬 ZWM Tiling Manager with CTPSci-aware window behavior  
+- [ ] 🛰️ ARcliner Integration Layer (Non-physical stack sync)   
+- [ ] 📦 Meta-ISO builder toolkit for community remixing  
 
 ---
 
@@ -715,7 +715,7 @@ ctp-eox/
 └── docs/
     └── conscious-init-guide.md
 
-````markdown
+```
 
 ---
 
@@ -776,7 +776,6 @@ ctp-eox/
 └── docs/
     └── conscious-init-guide.md
 ````
-
 ---
 
 ### 🔮 Philosophy
