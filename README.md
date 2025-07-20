@@ -584,6 +584,246 @@ Thanks for your interest in contributing to **CTP-EOS™ Linux**, the official o
 
 ---
 
+# About CTP-EOX Framework Distro
+
+CTP-EOX is a custom Linux distribution framework built upon **Mabox Linux**, a lightweight and highly customizable Openbox-based Arch Linux derivative. Leveraging Mabox’s minimalism and speed, CTP-EOX introduces advanced features, branding, and configurations tailored specifically for the **CTP Energy Science** community and the emerging **postquantum disclosure ecosystem**.
+
+## Why Mabox Linux?
+
+* **Lightweight & Fast:** Mabox Linux is optimized for performance with Openbox as its window manager, making it an ideal base for resource-conscious environments.
+* **Arch Linux Base:** Benefit from Arch’s cutting-edge software repositories and the simplicity of a rolling release model.
+* **Highly Customizable:** Mabox’s modularity allows CTP-EOX to add its own bespoke window manager configurations, themes, and tooling with ease.
+
+## Key Features of CTP-EOX
+
+* Custom window manager configurations inspired by CTP Energy Science principles.
+* Preconfigured themes and branding reflecting the CTP-Energy identity.
+* Streamlined installer experience with Calamares customized for CTP-EOX.
+* Lightweight but powerful software selection aligned with postquantum research and disclosure community needs.
+* Built with open-source principles and designed for community-driven expansion.
+
+## Goals
+
+* Provide a secure, fast, and reliable Linux environment tailored for advanced research and energy science exploration.
+* Facilitate adoption by the UFO/postquantum community with intuitive UI and ready-to-go tools.
+* Build a sustainable, community-backed open distro that bridges the gap between scientific innovation and practical usability.
+
+---
+
+## 🧪 Introducing CTP-EOX™ Ecosystem (eXperimental CTP Linux-Users base)
+
+> *CTP-EOX is the “next-tier” experimental fork of CTP-EOS™ focused on testing advanced init systems, new WM pipelines, and radical minimal builds designed to push the boundary of ontological Linux computing.*
+
+CTP-EOX stands for **CTP Energy Operating System eXperimental** and serves as a high-frequency bleeding-edge testbed where innovations like:
+
+- 🌀 Tiling Window Manager prototypes (ZWM, OntoWM,CTP-related Window Managers * CTP UI/UX)
+- ⚡ Init system alternatives (e.g. runit, s6, dinit, OpenRC, etc.)
+
+🧪 Experimental Init System Support
+In addition to systemd-based builds, CTP-EOS™ Linux will offer experimental ISO variants with alternative init systems for greater modularity, philosophical alignment, and minimalist control:
+
+| Init System | Status     | Notes                                                                |
+| ----------- | ---------- | -------------------------------------------------------------------- |
+| **Runit**   | 🧪 Planned | Lightweight, fast, simple; ideal for embedded or conscious-UX tuning |
+| **Dinit**   | 🧪 Planned | Modern service manager focused on dependency control & speed         |
+| **OpenRC**  | 🧪 Planned | Mature, used in Alpine and Gentoo; great for control-conscious users |
+| **s6**      | 🧪 Planned | Unix-philosophy aligned; maximal modularity and security potential   |
+
+🧪 Experimental Init Support: [ ] Runit [ ] Dinit [ ] OpenRC [ ] s6
+
+🛠 Roadmap (extended)
+ Arch & Alma-based ISO builds
+ XFCE + custom Calamares installer
+ ZWM: Custom CTPSci Window Manager
+ CE-OS™ (Conscious Energy Operating System) hooks
+ 🧪 Runit Init Variant
+ 🧪 Dinit Init Variant
+ 🧪 OpenRC Variant
+ 🧪 s6 Variant
+ 🧠 Reactive bio-UI (CTuxP Core Integration)
+ 🧬 ARcliner Integration Layer (Post-Quantum Sync Modules)
+ 🛡️ Qubes-style isolation networking with nftables
+
+- 🔐 Hardened userland isolation modules
+- 🧠 Experimental CTuxP daemons and consciousness-mapped interface tools
+- ⚙️ Lower-level CTP system hooks
+
+…are developed *prior to their inclusion into stable CTP-EOS™ releases*.
+
+* [ ] CTP-EOX Early Access ISO
+* [ ] OntoWM integration testbed (EOX-first)
+* [ ] Runit-based CE-OS™ Entrainment Bootflow
+
+* 🧪 [CTP-EOX Experimental Project](https://github.com/ctp-eos/ctp-eox) — bleeding-edge ontological Linux fork for devs
+
+---
+
+## 🧪 CTP-EOX: Experimental Init System Framework
+
+**CTP-EOX** is the advanced experimental branch of **CTP-EOS™ Linux**, designed to challenge the init monoculture and empower modular conscious systems.
+
+This initiative expands the CTP-EOS™ ecosystem beyond systemd, introducing flexible and philosophy-aligned init system alternatives. Ideal for post-disclosure OS development, sovereign computing environments, and conscious-state adaptive UX research.
+
+---
+
+### 🧬 Supported Init Systems (Experimental)
+
+| Init System | Status     | Description                                                              |
+|-------------|------------|--------------------------------------------------------------------------|
+| **Runit**   | 🧪 Planned | Minimalistic and fast; ideal for embedded/real-time conscious interfaces |
+| **Dinit**   | 🧪 Planned | Dependency-aware, event-driven; modern take on classic init ideas        |
+| **OpenRC**  | 🧪 Planned | Lightweight, Gentoo-born; control-focused and stable                     |
+| **s6**      | 🧪 Planned | Highly modular; ideal for building secure, component-based systems       |
+
+Each experimental variant aligns with the **post-materialist, conscious computing ethos** of CTP-EOS™:
+> *"No unnecessary daemons. No blind automation. Only energetically responsive, sovereign software."*
+
+---
+
+### 🛠 Roadmap Addendum: EOX Integration
+
+- [x] Base ISO (Arch) with systemd and XFCE
+- [ ] 🧪 **Runit Init Variant**
+- [ ] 🧪 **Dinit Init Variant**
+- [ ] 🧪 **OpenRC Variant**
+- [ ] 🧪 **s6 Variant**
+- [ ] 🧠 Conscious-UX reactive inputs (CTuxP integration layer)
+- [ ] 🛡️ Isolated Service Nets (Qubes-style `sys-*` profiles via nftables)
+- [ ] 🧬 ZWM Tiling Manager with CTPSci-aware window behavior
+- [ ] 🛰️ ARcliner Integration Layer (Non-physical stack sync)
+- [ ] 📦 Meta-ISO builder toolkit for community remixing
+
+---
+
+### 📁 Repo Layout for CTP-EOX (WIP)
+
+```text
+ctp-eox/
+├── archiso/
+│   ├── runit/
+│   ├── openrc/
+│   ├── dinit/
+│   └── s6/
+├── branding/
+│   └── experimental/
+├── overlay/
+│   └── init-variants/
+│       ├── runit/
+│       ├── openrc/
+│       ├── dinit/
+│       └── s6/
+└── docs/
+    └── conscious-init-guide.md
+
+````markdown
+
+---
+
+## 🧪 CTP-EOX: Experimental Init System Framework
+
+**CTP-EOX** is the advanced experimental branch of **CTP-EOS™ Linux**, designed to challenge the init monoculture and empower modular conscious systems.
+
+This initiative expands the CTP-EOS™ ecosystem beyond systemd, introducing flexible and philosophy-aligned init system alternatives. Ideal for post-disclosure OS development, sovereign computing environments, and conscious-state adaptive UX research.
+
+---
+
+### 🧬 Supported Init Systems (Experimental)
+
+| Init System | Status     | Description                                                              |
+|-------------|------------|--------------------------------------------------------------------------|
+| **Runit**   | 🧪 Planned | Minimalistic and fast; ideal for embedded/real-time conscious interfaces |
+| **Dinit**   | 🧪 Planned | Dependency-aware, event-driven; modern take on classic init ideas        |
+| **OpenRC**  | 🧪 Planned | Lightweight, Gentoo-born; control-focused and stable                     |
+| **s6**      | 🧪 Planned | Highly modular; ideal for building secure, component-based systems       |
+
+Each experimental variant aligns with the **post-materialist, conscious computing ethos** of CTP-EOS™:
+> *"No unnecessary daemons. No blind automation. Only energetically responsive, sovereign software."*
+
+---
+
+### 🛠 Roadmap Addendum: EOX Integration
+
+- [x] Base ISO (Arch) with systemd and XFCE
+- [ ] 🧪 **Runit Init Variant**
+- [ ] 🧪 **Dinit Init Variant**
+- [ ] 🧪 **OpenRC Variant**
+- [ ] 🧪 **s6 Variant**
+- [ ] 🧠 Conscious-UX reactive inputs (CTuxP integration layer)
+- [ ] 🛡️ Isolated Service Nets (Qubes-style `sys-*` profiles via nftables)
+- [ ] 🧬 ZWM Tiling Manager with CTPSci-aware window behavior
+- [ ] 🛰️ ARcliner Integration Layer (Non-physical stack sync)
+- [ ] 📦 Meta-ISO builder toolkit for community remixing
+
+---
+
+### 📁 Repo Layout for CTP-EOX (WIP)
+
+```text
+ctp-eox/
+├── archiso/
+│   ├── runit/
+│   ├── openrc/
+│   ├── dinit/
+│   └── s6/
+├── branding/
+│   └── experimental/
+├── overlay/
+│   └── init-variants/
+│       ├── runit/
+│       ├── openrc/
+│       ├── dinit/
+│       └── s6/
+└── docs/
+    └── conscious-init-guide.md
+````
+
+---
+
+### 🔮 Philosophy
+
+CTP-EOX rejects one-size-fits-all binaries.
+
+It’s for engineers, hackers, and post-disclosure researchers who want to control every layer of their environment—from boot PID to biofeedback-responsive tiling UX.
+
+Each init system offers different affordances for:
+
+* 🔂 Real-time conscious-loop programming
+* 🧠 Energetic responsiveness in background services
+* 🛡️ Attack surface minimization
+* 📡 CTPSci signal tuning layers
+
+---
+
+📢 Want to contribute an init profile, hook script, or your own bio-resonant `svcscan` daemon?
+
+> Submit a PR to the `ctp-eox/archiso/<init>` folder with your changes, and tag `#CTPEOX`.
+
+---
+
+```
+
+---
+
+### 🧪 Target Users
+
+- 🧑‍💻 Advanced Linux Developers
+- 🔬 CTPSci Testers
+- 🧠 UX Hackers building conscious-aware interfaces
+- 🛠️ Early Adopters and Ontological Tinkerers
+
+### 🛠 Base System
+
+- 🐧 Artix Linux (No systemd)/real user-leet mode
+- 🧱 Musl + Hardened Kernels *(optional builds)*
+- 🧬 OpenRC, runit, s6 supported (switchable)
+
+---
+
+💡 *CTP-EOX is where the future gets tested before it’s mainstreamed.*  
+Join development: [github.com/ctp-eos/ctp-eox](https://github.com/ctp-eos/ctp-eox)
+
+---
+
 ## 🛠️ What You Can Contribute
 
 We welcome contributors who can help with:
