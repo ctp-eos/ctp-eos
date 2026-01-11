@@ -115,12 +115,8 @@ It is designed to:
 
 * 🪟 **XFCE Desktop + CTP Tiling Window Managers**
 * 💽 **Fully Branded Calamares Installer**
-* 🔐 **Qubes-style VM Isolation (Planned)**
-* 🧠 **Conscious-Aware System Hooks (Planned)**
 * 🎨 Custom splash screens, themes, and CTP-EOS identity
-* 🧬 Bio-ontological extensions (CTP Life Sciences Dev Hooks)
-* 🌐 Wayland-ready stack with hardened security defaults
-* 🧾 Default user: `CTP-EOS`, password: `ctp-eos` (Live ISO)
+* 🧾 Default user: `ctp-eos`, password: `ctp-eos` (Live ISO)
 
 
 ## 🌀 CTuxP – The Conscious Technology UX Platform™
@@ -192,7 +188,6 @@ cd ctp-eos
 * [ ] CTP Tiling Window Manager Alpha (OntoWM)
 * [ ] VM-Aware Firewall + Qubes Networking Emulation
 * [ ] Conscious Signal Interface Drivers
-* [ ] ARcliner Craft Integration Layer
 * [ ] Developer SDK for CTPSci-compatible modules
 
 ---
@@ -369,7 +364,7 @@ Modern computing ends at the edge of digital domain information. **CTP-EOS™ go
 We are not building just another Linux fork—we are building:
 
 * A **conscious-technical bridge** to future knowledge systems
-* A **secure OS** for researchers and consciousness practitioners
+* A **free communnity supported and commmunity-centris- OS** for artists, business owners, creatives, graphics, holistics, musicians, researchers and consciousness practitioners... to everyone from all walks of life ready for what's next.
 * A **living artifact** of postquantum non-physical science
   *(for higher conscious development of one's C-conscious or C-capacities)*
 
@@ -385,7 +380,6 @@ We are actively building an interdimensional development team. Whether you're co
 
 * CTP-EOS Community/Social Developers *(growing the CTP-EOS community)*
 * CTP-EOS requires a co-lead developer to produce the actual ISO installers
-  - *(Calamares-Arch /Ubuntu forks i.e. Subiquity, Ubiquity, Cubic installers)*
 * Contribute to our GitHub repos *(CTPwm, CTP-core, metaphysics-sim)*
 * Create new tiling WMs or develop plugins
 * Custom CTP-EOS Window Managers *(including .configs/dot files)*
@@ -402,7 +396,6 @@ We are actively building an interdimensional development team. Whether you're co
 
 #### 🧠 Researchers
 
-* Validate energetic interaction between C/P-bodies
 * Document conscious expansion
 * Empower the non-physical C-body or Conscious Body
 * Expand Mind/conscious capacities
@@ -609,7 +602,7 @@ CTP-EOX is a custom Linux distribution framework built upon **Mabox Linux**, a l
 
 ---
 
-### 🧪 Introducing CTP-EOX™ Ecosystem (eXperimental CTP Linux-Users base)
+### 🧪 Introducing CTP-EOX™ Ecosystem (eXperimental CTP-EOS Linux-Users base)
 
 > *CTP-EOX is the “next-tier” experimental fork of CTP-EOS™ focused on testing advanced init systems, new WM pipelines, and radical minimal builds designed to push the boundary of ontological Linux computing.*
 
@@ -622,28 +615,21 @@ CTP-EOX stands for **CTP Energy Operating System eXperimental** and serves as a 
 In addition to systemd-based builds, CTP-EOS™ Linux will offer experimental ISO variants with alternative init systems for greater modularity, philosophical alignment, and minimalist control:
 
 🛠 Roadmap (extended)  
- Arch & Alma-based ISO builds  
+ Debian/Arch-based ISO builds  
  XFCE + custom Calamares installer  
- ZWM: Custom CTPSci Window Manager  
- CE-OS™ (Conscious Energy Operating System) hooks  
  🧪 Runit Init Variant  
  🧪 Dinit Init Variant  
  🧪 OpenRC Variant  
  🧪 s6 Variant  
- 🧠 Reactive bio-UI (CTuxP Core Integration)  
- 🧬 ARcliner Integration Layer (Post-Quantum Sync Modules)  
- 🛡️ Qubes-style isolation networking with nftables  
 
-- 🔐 Hardened userland isolation modules  
-- 🧠 Experimental CTuxP daemons and consciousness-mapped interface tools  
-- ⚙️ Lower-level CTP system hooks  
+🧠 CE-OS™ (Conscious Energy Operating System)    
+- 🔐 CTP-centric 'thinking' = CTP consciousness as an advanced non-physical operating systems  
+ 
 
 …are developed *prior to their inclusion into stable CTP-EOS™ releases*.  
 
 * [ ] CTP-EOX Early Access ISO  
 * [ ] OntoWM integration testbed (EOX-first)  
-* [ ] Runit-based CE-OS™ Entrainment Bootflow  
-
 * 🧪 [CTP-EOX Experimental Project](https://github.com/ctp-eos/ctp-eox) — bleeding-edge ontological Linux fork for devs
 
 ---
@@ -677,11 +663,6 @@ Each experimental variant aligns with the **post-materialist, conscious computin
 - [ ] 🧪 **Dinit Init Variant**
 - [ ] 🧪 **OpenRC Variant**
 - [ ] 🧪 **s6 Variant**
-- [ ] 🧠 Conscious-UX reactive inputs (CTuxP integration layer)
-- [ ] 🛡️ Isolated Service Nets (Qubes-style `sys-*` profiles via nftables)
-- [ ] 🧬 ZWM Tiling Manager with CTPSci-aware window behavior
-- [ ] 🛰️ ARcliner Integration Layer (Non-physical stack sync)
-- [ ] 📦 Meta-ISO builder toolkit for community remixing
 
 ---
 
@@ -711,20 +692,7 @@ ctp-eox/
 
 CTP-EOX rejects one-size-fits-all binaries.
 
-It’s for engineers, hackers, and post-disclosure researchers who want to control every layer of their environment—from boot PID to biofeedback-responsive tiling UX.
-
-Each init system offers different affordances for:
-
-* 🔂 Real-time conscious-loop programming
-* 🧠 Energetic responsiveness in background services
-* 🛡️ Attack surface minimization
-* 📡 CTPSci signal tuning layers
-
----
-
-📢 Want to contribute an init profile, hook script, or your own bio-resonant `svcscan` daemon?
-
-> Submit a PR to the `ctp-eox/archiso/<init>` folder with your changes, and tag `#CTPEOX`.
+It’s for engineers, hackers, and post-disclosure researchers.
 
 ---
 
@@ -732,7 +700,6 @@ Each init system offers different affordances for:
 
 - 🧑‍💻 Advanced Linux Developers
 - 🔬 CTPSci Testers
-- 🧠 UX Hackers building conscious-aware interfaces
 - 🛠️ Early Adopters and Ontological Tinkerers
 
 ### 🛠 Base System
