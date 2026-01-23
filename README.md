@@ -771,6 +771,31 @@ ctp-eos/ctp-eos is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+---
+
+## 📚 AI-Enhanced Documentation (Gamma)
+
+Do you need **clear, professional, AI-assisted documentation** for complex technical or research-grade projects?
+
+So do we.
+
+CTP documentation, specifications, and public explainers are authored and structured using **Gamma**, an AI-powered documentation and presentation platform that excels at turning dense material into readable, well-organized outputs.
+
+### 👉 Join Gamma (Free or Paid)
+You can join Gamma using our referral link:
+
+<a href="https://gamma.app/signup?r=qtvyeo7oncm6e02" target="_blank" rel="noopener noreferrer">🔗 Join Gamma</a>
+
+**Gamma options:**
+- **Free account** — includes starter AI credits (enough to explore and contribute)
+- **Paid plans** — offer higher monthly AI credit limits and advanced features for sustained documentation work
+
+Using this link helps support ongoing **CTP documentation and knowledge infrastructure** by increasing our available AI credits — at no cost to you if you stay on the free tier.
+
+> If you’re collaborating, contributing, or building alongside CTP, this is the same toolchain we use internally.
+
+---
+
 ## License
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
