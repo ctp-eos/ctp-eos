@@ -92,7 +92,7 @@ Most of modern thought splits reality in two:
 * 🔐 Secure, modular, Qubes-style operating frameworks
 * 🧬 Unified Conscious–Physical Tech Development Platform
 
-CTP-EOS is the **OS of Ontological Disclosure**.
+CTP-EOS is the **OS of Ontological Disclosure**.  
 It is designed to power the technologies, sciences, and interfaces of a **post-materialist civilization**.
 
 > *“We are not blending mysticism and science.
@@ -334,7 +334,10 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
          - CTP's **Call to Purpose Campaign** conception.<br>
          - CTP Conscious Development Project (CTPCDP) Open-Sourced.<br>
          - CE-OS™ framework initiated.<br>
-         - CTuxP mascot/campaign initiated.<br>  
+         - CTuxP mascot/campaign initiated.<br>
+         - Fall 2025 - CTP-EOS trials pivot towards developing CTP-EOS LTS *(LTS/Debian-based distro prioritized)*
+  -2026  - CTP-EOS Long-Term Support Release is being prioritized over our Arch-rolling release.
+         - *(We may drop Arch/rolling release option or postpone in favor of LTS for the time being)*
          - CTP continues...<br>
          
 
