@@ -335,9 +335,9 @@ Drazen Premate (1956–2019) was a revolutionary thinker, physicist, and conscio
          - CTP Conscious Development Project (CTPCDP) Open-Sourced.<br>
          - CE-OS™ framework initiated.<br>
          - CTuxP mascot/campaign initiated.<br>
-         - Fall 2025 - CTP-EOS trials pivot towards developing CTP-EOS LTS *(LTS/Debian-based distro prioritized)*
-  -2026  - CTP-EOS Long-Term Support Release is being prioritized over our Arch-rolling release.
-         - *(We may drop Arch/rolling release option or postpone in favor of LTS for the time being)*
+         - Fall 2025 - CTP-EOS trials pivot towards developing CTP-EOS LTS *(LTS/Debian-based distro prioritized)*<br>
+  - 2026 - CTP-EOS Long-Term Support Release is being prioritized over our Arch-rolling release.<br>
+         - *(We may drop Arch/rolling release option or postpone in favor of LTS for the time being)*<br>
          - CTP continues...<br>
          
 
