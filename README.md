@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.ctp-eos.org">
-    <img src="https://github.com/ctp-eos/ctp-eos/blob/main/images/ctp-eos-om.png?raw=true" width="800px" alt="CTP-EOS Ontological Model"/>
+    <img src="https://github.com/ctp-eos/ctp-eos/blob/main/images/ctp-eos-tri-force.png?raw=true" width="800px" alt="CTP-EOS Ontological Model"/>
   </a>
 </p>
 
